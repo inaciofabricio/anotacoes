@@ -12,5 +12,320 @@
         "elemento": "Cyro",
         "arma": "Arco",
         "sexo": "Feminino"  
+    },
+    {
+        "nome": "Amber",
+        "raridade": 4,
+        "elemento": "Pyro",
+        "arma": "Arco",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Arataki Itto",
+        "raridade": 5,
+        "elemento": "Geo",
+        "arma": "Espadão",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Barbara",
+        "raridade": 4,
+        "elemento": "Hydro",
+        "arma": "Catalisador",
+        "sexo": "Ferminino"  
+    },
+    {
+        "nome": "Beidou",
+        "raridade": 4,
+        "elemento": "Electro",
+        "arma": "Espadão",
+        "sexo": "Ferminino"  
+    },
+    {
+        "nome": "Bennett",
+        "raridade": 4,
+        "elemento": "Pyro",
+        "arma": "Espada",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Chongyun",
+        "raridade": 4,
+        "elemento": "Cyro",
+        "arma": "Espadão",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Diluc",
+        "raridade": 5,
+        "elemento": "Pyro",
+        "arma": "Espadão",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Diona",
+        "raridade": 4,
+        "elemento": "Cyro",
+        "arma": "Arco",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Eula",
+        "raridade": 5,
+        "elemento": "Cyro",
+        "arma": "Espadão",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Fischl",
+        "raridade": 4,
+        "elemento": "Electro",
+        "arma": "Arco",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Ganyu",
+        "raridade": 5,
+        "elemento": "Cyro",
+        "arma": "Arco",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Gorou",
+        "raridade": 4,
+        "elemento": "Geo",
+        "arma": "Arco",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Hutao",
+        "raridade": 5,
+        "elemento": "Pyro",
+        "arma": "Lança",
+        "sexo": "Ferminino"  
+    },
+    {
+        "nome": "Jean",
+        "raridade": 5,
+        "elemento": "Anemo",
+        "arma": "Espada",
+        "sexo": "Ferminino"  
+    },
+    {
+        "nome": "Kaedehara Kazuha",
+        "raridade": 5,
+        "elemento": "Anemo",
+        "arma": "Espada",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Kaeya",
+        "raridade": 4,
+        "elemento": "Cryo",
+        "arma": "Espada",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Kamisato Ayaka",
+        "raridade": 5,
+        "elemento": "Cryo",
+        "arma": "Espada",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Keqing",
+        "raridade": 5,
+        "elemento": "Electro",
+        "arma": "Espada",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Klee",
+        "raridade": 5,
+        "elemento": "Pyro",
+        "arma": "Catalisador",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Kujou Sara",
+        "raridade": 4,
+        "elemento": "Electro",
+        "arma": "Arco",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Lisa",
+        "raridade": 4,
+        "elemento": "Electro",
+        "arma": "Arco",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Mona",
+        "raridade": 5,
+        "elemento": "Hydro",
+        "arma": "Catalisador",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Ningguang",
+        "raridade": 4,
+        "elemento": "Geo",
+        "arma": "Catalisador",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Noelle",
+        "raridade": 4,
+        "elemento": "Geo",
+        "arma": "Espadão",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Qiqi",
+        "raridade": 5,
+        "elemento": "Cryo",
+        "arma": "Espada",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Razor",
+        "raridade": 4,
+        "elemento": "Electro",
+        "arma": "Espadão",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Rosario",
+        "raridade": 4,
+        "elemento": "Cryo",
+        "arma": "Lança",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Sangonomiya Kokomi",
+        "raridade": 5,
+        "elemento": "Hydro",
+        "arma": "Catalizador",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Sayu",
+        "raridade": 4,
+        "elemento": "Anemo",
+        "arma": "Espadão",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Shenhe",
+        "raridade": 5,
+        "elemento": "Cryo",
+        "arma": "Lança",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Shogun Raiden",
+        "raridade": 5,
+        "elemento": "Electro",
+        "arma": "Lança",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Sucrose",
+        "raridade": 4,
+        "elemento": "Anemo",
+        "arma": "Catalisador",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Tartaglia",
+        "raridade": 5,
+        "elemento": "Hydro",
+        "arma": "Arco",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Thoma",
+        "raridade": 4,
+        "elemento": "Pyro",
+        "arma": "Lança",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Venti",
+        "raridade": 5,
+        "elemento": "Anemo",
+        "arma": "Arco",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Viajante",
+        "raridade": 5,
+        "elemento": "Todos",
+        "arma": "Espada",
+        "sexo": "Todos"  
+    },
+    {
+        "nome": "Xiangling",
+        "raridade": 4,
+        "elemento": "Pyro",
+        "arma": "Lança",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Xiao",
+        "raridade": 5,
+        "elemento": "Anemo",
+        "arma": "Lança",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Xingqiu",
+        "raridade": 4,
+        "elemento": "Hydro",
+        "arma": "Espada",
+        "sexo": "Masculino"  
+    },
+    {
+        "nome": "Xinyan",
+        "raridade": 4,
+        "elemento": "Pyro",
+        "arma": "Espadão",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Yae Miko",
+        "raridade": 5,
+        "elemento": "Electro",
+        "arma": "Catalisador",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Yanfeu",
+        "raridade": 4,
+        "elemento": "Pyro",
+        "arma": "Catalisador",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Yoimiya",
+        "raridade": 5,
+        "elemento": "Pyro",
+        "arma": "Arco",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Yunjin",
+        "raridade": 4,
+        "elemento": "Geo",
+        "arma": "Lança",
+        "sexo": "Feminino"  
+    },
+    {
+        "nome": "Zhongli",
+        "raridade": 5,
+        "elemento": "Geo",
+        "arma": "Lança",
+        "sexo": "Masculino"  
     }
 ]
