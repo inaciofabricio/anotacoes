@@ -9,7 +9,7 @@
     {
         "nome": "Aloy",
         "raridade": 4,
-        "elemento": "Cyro",
+        "elemento": "Cryo",
         "arma": "Arco",
         "sexo": "Feminino"  
     },
@@ -51,7 +51,7 @@
     {
         "nome": "Chongyun",
         "raridade": 4,
-        "elemento": "Cyro",
+        "elemento": "Cryo",
         "arma": "Espadão",
         "sexo": "Masculino"  
     },
@@ -65,14 +65,14 @@
     {
         "nome": "Diona",
         "raridade": 4,
-        "elemento": "Cyro",
+        "elemento": "Cryo",
         "arma": "Arco",
         "sexo": "Feminino"  
     },
     {
         "nome": "Eula",
         "raridade": 5,
-        "elemento": "Cyro",
+        "elemento": "Cryo",
         "arma": "Espadão",
         "sexo": "Feminino"  
     },
@@ -86,7 +86,7 @@
     {
         "nome": "Ganyu",
         "raridade": 5,
-        "elemento": "Cyro",
+        "elemento": "Cryo",
         "arma": "Arco",
         "sexo": "Feminino"  
     },
