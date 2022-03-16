@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Albedo",
+        "raridade": 5,
+        "elemento": "Geo",
+        "Arma": "Espada",
+        "Sexo": "Masculino"  
+    },
+    {
+        "nome": "Aloy",
+        "raridade": 4,
+        "elemento": "Cyro",
+        "Arma": "Arco",
+        "Sexo": "Feminino"  
+    }
+]
