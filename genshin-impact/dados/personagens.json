@@ -10,7 +10,7 @@
     },
     {
         "nome": "Aloy",
-        "nacao": "indefinido",
+        "nacao": "Indefinido",
         "raridade": 4,
         "elemento": "cryo",
         "arma": "arco",
@@ -334,7 +334,7 @@
     },
     {
         "nome": "Viajante",
-        "nacao": "indefinido",
+        "nacao": "Indefinido",
         "raridade": 5,
         "elemento": "todos",
         "arma": "espada",
