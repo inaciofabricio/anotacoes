@@ -5,14 +5,41 @@
         "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/vagabundo.jpg?raw=true",
         "armas": [
             {
-                "nome": "",
-                "image": ""
+                "id": "espada-longa",
+                "nome": "Espada Longa",
+                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true"
+            },
+            {
+                "id": "alabarda",
+                "nome": "Alabarda",
+                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/alabardas/alabarda-icone.jpg?raw=true"
+            },
+            {
+                "id": "escudo-radiador",
+                "nome": "Escudo Radiador",
+                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-icone.jpg?raw=true"
             }
         ],
         "armaduras": [
             {
-                "nome": "",
-                "image": ""
+                "id": "elmo-de-cavaleiro-errante",
+                "nome": "Elmo do Cavaleiro Errante",
+                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true"
+            },
+            {
+                "id": "manopla-de-cavaleiro-errante",
+                "nome": "Manopla do Cavaleiro Errante",
+                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manopla-de-cavaleiro-errante-icone.jpg?raw=true"
+            },
+            {
+                "id": "armadura-de-cavaleiro-errante",
+                "nome": "Armadura do Cavaleiro Errante",
+                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torsos/armadura-de-cavaleiro-errante-icone.jpg?raw=true"
+            },
+            {
+                "id": "grevas-de-cavaleiro-errante",
+                "nome": "Grevas do Cavaleiro Errante",
+                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-icone.jpg?raw=true"
             }
         ],
         "itens": [
