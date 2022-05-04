@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "nome": "Vagabundo",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/vagabundo.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Guerreiro",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/guerreiro.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Herói",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/heroi.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Bandido",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/bandido.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Astrólogo",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/astrologo.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Profeta",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/profeta.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nome": "Samurai",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/samurai.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nome": "Prisioneiro",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/prisioneiro.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nome": "Confessor",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/confessor.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    },    
+    {
+        "id": 10,
+        "nome": "Miserável",
+        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/miseravel.jpg?raw=true",
+        "armas": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "armaduras": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ],
+        "itens": [
+            {
+                "nome": "",
+                "image": ""
+            }
+        ]
+    }
+]
