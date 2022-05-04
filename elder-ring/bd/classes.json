@@ -2,258 +2,128 @@
     {
         "id": 1,
         "nome": "Vagabundo",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/vagabundo.jpg?raw=true",
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/vagabundo.jpg?raw=true",
         "armas": [
             {
                 "id": "espada-longa",
                 "nome": "Espada Longa",
-                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+                "quantidade": 1
             },
             {
                 "id": "alabarda",
                 "nome": "Alabarda",
-                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/alabardas/alabarda-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/alabardas/alabarda-icone.jpg?raw=true",
+                "quantidade": 1
             },
             {
                 "id": "escudo-radiador",
                 "nome": "Escudo Radiador",
-                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-icone.jpg?raw=true",
+                "quantidade": 1
             }
         ],
         "armaduras": [
             {
                 "id": "elmo-de-cavaleiro-errante",
                 "nome": "Elmo do Cavaleiro Errante",
-                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true"
             },
             {
                 "id": "manopla-de-cavaleiro-errante",
                 "nome": "Manopla do Cavaleiro Errante",
-                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manopla-de-cavaleiro-errante-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manopla-de-cavaleiro-errante-icone.jpg?raw=true"
             },
             {
                 "id": "armadura-de-cavaleiro-errante",
                 "nome": "Armadura do Cavaleiro Errante",
-                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torsos/armadura-de-cavaleiro-errante-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torsos/armadura-de-cavaleiro-errante-icone.jpg?raw=true"
             },
             {
                 "id": "grevas-de-cavaleiro-errante",
                 "nome": "Grevas do Cavaleiro Errante",
-                "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-icone.jpg?raw=true"
             }
         ],
         "itens": [
             {
-                "nome": "",
-                "image": ""
+                "id": "memoria-da-graca",
+                "nome": "Memória da Graça",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/reutilizaveis/memoria-da-graca.jpg?raw=true",
+                "quantidade": 1
             }
         ]
     },
     {
         "id": 2,
         "nome": "Guerreiro",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/guerreiro.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/guerreiro.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },
     {
         "id": 3,
         "nome": "Herói",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/heroi.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/heroi.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },
     {
         "id": 4,
         "nome": "Bandido",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/bandido.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/bandido.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },
     {
         "id": 5,
         "nome": "Astrólogo",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/astrologo.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/astrologo.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },
     {
         "id": 6,
         "nome": "Profeta",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/profeta.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/profeta.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },
     {
         "id": 7,
         "nome": "Samurai",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/samurai.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/samurai.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },
     {
         "id": 8,
         "nome": "Prisioneiro",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/prisioneiro.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/prisioneiro.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },
     {
         "id": 9,
         "nome": "Confessor",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/confessor.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/confessor.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     },    
     {
         "id": 10,
         "nome": "Miserável",
-        "image": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/miseravel.jpg?raw=true",
-        "armas": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "armaduras": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ],
-        "itens": [
-            {
-                "nome": "",
-                "image": ""
-            }
-        ]
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/miseravel.jpg?raw=true",
+        "armas": [],
+        "armaduras": [],
+        "itens": []
     }
 ]
