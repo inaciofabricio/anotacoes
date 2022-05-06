@@ -28,7 +28,7 @@
             "fogo": 30.0,
             "relampago": 30.0,
             "dagrado": 30.0,
-            "AumentoDeDefesa": 30
+            "aumentoDeDefesa": 30
         },
         "bonusDeAtributo" : {
             "for": "D",
