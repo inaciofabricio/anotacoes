@@ -134,7 +134,7 @@
             },
             {
                 "id": "ombreiras-de-campeao",
-                "nome": "Ombreiras de Campeão.jpg",
+                "nome": "Ombreiras de Campeão",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torsos/ombreiras-de-campeao-icone.jpg?raw=true"
             },
             {
@@ -227,7 +227,7 @@
             {
                 "id": "espada-curta",
                 "nome": "Espada Curta",
-                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/espada-curta-icone.jpg?raw=true",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-curta-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
@@ -375,13 +375,13 @@
                 "id": "flecha",
                 "nome": "Flecha",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/flechas/flecha-icone.jpg?raw=true",
-                "quantidade": 30
+                "quantidade": 20
             },
             {
                 "id": "flecha-de-fogo",
                 "nome": "Flecha de Fogo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/flechas/flecha-de-fogo-icone.jpg?raw=true",
-                "quantidade": 30
+                "quantidade": 10
             }
         ]
     },
