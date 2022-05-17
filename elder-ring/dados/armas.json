@@ -45,5 +45,382 @@
             "arc": 0
         },
         "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
+    },
+    {
+        "id": "espada-longa",
+        "nome": "Espada Longa",
+        "tipo": {
+            "id": "espada-reta",
+            "nome": "Espada Reta"
+        },
+        "subTipo": {
+            "id": "padrao-perfurante",
+            "nome": "Padrão/Perfurante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 110,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 45.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": []
     }
+
 ]
