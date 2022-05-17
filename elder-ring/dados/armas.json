@@ -175,5 +175,124 @@
                 "Isso cria uma abertura para executar um ataque crítico."
             ]
         }
+    },
+    {
+        "id": "cimitarra",
+        "nome": "Cimitarra",
+        "descricoes": [
+            "Uma espada curva com uma lâmina de um gume.",
+            "Possibilita ataques cortantes com sua lâmina afiada, mas é ineficaz contra armaduras grossas e escamas resistentes.",
+            "Menor do que a maioria das espadas curvas, ela entalha os inimigos com cortes rápidos."
+        ],
+        "tipo": {
+            "id": "espada-curva",
+            "nome": "Espada Curva"
+        },
+        "subTipo": {
+            "id": "cortante",
+            "nome": "Cortante"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/cimitarra-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/cimitarra-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 106,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 40.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 30.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 30
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 7,
+            "des": 13,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "corte-giratório",
+            "nome": "Corte Giratório",
+            "descricoes": [
+                "Uma habilidade adorada pelo guerreiros hábeis.",
+                "Corta os inimigos enquanto o próprio corpo gira. Um comando adicional executa um ataque subsequente."
+            ]
+        }
+    },
+    {
+        "id": "escudo-de-madeira-reforcado",
+        "nome": "Escudo de Madeira Reforçado",
+        "descricoes": [
+            "Pequeno escudo redondo de mardeira reforçado com metal. Leve e fácil de manusear, mas não oferece a mesma negação de dado que um escudo de metal de verdade.",
+            "O desenho rebitado ao centro represanta tanto a espada quanto a árvore."
+        ],
+        "tipo": {
+            "id": "escudo-pequeno",
+            "nome": "Escudo Pequeno"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudo/escudo-de-madeira-reforcado-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudo/escudo-de-madeira-reforcado-padrao.jpg?raw=true"
+        },
+        "poderDeAteque" :{
+            "fisico": 72,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 74.0,
+            "magico": 43.0,
+            "fogo": 31.0,
+            "relampago": 24.0,
+            "sagrado": 45.0,
+            "aumentoDeDefesa": 39
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 0,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "aparagem",
+            "nome": "Aparagem",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "Isso cria uma abertura para executar um ataque crítico."
+            ]
+        }
     }
 ]
