@@ -133,8 +133,8 @@
             "nome": "Esmagador"
         },
         "imagens": {
-            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudo/escudo-radiador-icone.jpg?raw=true",
-            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudo/escudo-radiador-padrao.jpg?raw=true"
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-padrao.jpg?raw=true"
         },
         "poderDeAteque" :{
             "fisico": 77,
@@ -252,8 +252,8 @@
             "nome": "Esmagador"
         },
         "imagens": {
-            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudo/escudo-de-madeira-reforcado-icone.jpg?raw=true",
-            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudo/escudo-de-madeira-reforcado-padrao.jpg?raw=true"
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-reforcado-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-reforcado-padrao.jpg?raw=true"
         },
         "poderDeAteque" :{
             "fisico": 72,
