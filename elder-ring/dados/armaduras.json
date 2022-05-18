@@ -53,7 +53,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/armadura-de-cavaleiro-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/armadura-de-cavaleiro-errante-padrao.jpg?raw=true"
         },
-        "negacaoDeDado": {
+        "negacaoDeDano": {
             "fisico": 13.5,
             "vsEsmagadores": 11.4,
             "vsCortantes": 12.4,
