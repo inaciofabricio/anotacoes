@@ -10,6 +10,10 @@
             "Use para invocar o espírito de Engvall, o Cavaleiro Banido.",
             "Um dos dois cavaleiros apelidados de Asas da Tempestade. Apesar de seu banimento, ele rejeitou o convite do Lorde da Graça, preferindo cuidar de um castelo sem mestre por muitos anos, ganhando renome como um herói das periferias."
         ],
+        "tipo": {
+            "id": "lendarias",
+            "nome": "Lendárias"
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cavaleiro-banido-engvall-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cavaleiro-banido-engvall-padrao.jpg?raw=true"
@@ -26,6 +30,10 @@
             "Use para invocar os espíritos de cinco nobres errantes.",
             "Os espíritos de nobre que, após a morte, agora vagam pelas Terras Intermédias. Certamente eles buscavam algo... Mas o que quer que tenha sido, há muito foi esquecido."
         ],
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-errante-padrao.jpg?raw=true"
@@ -43,10 +51,14 @@
             "Espírito de um nobre que certa vez pediu por uma vaga em Raya Lucaria para aprender feitiçaria pedrilhante.",
             "Porém, seus talentos não foram o bastante para garantir a máscara de pedra, e ele só é capaz de usar feitiços mais rudimentares."
         ],
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-feiticeiro-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-feiticeiro-padrao.jpg?raw=true"
-        }
+        }        
     },
     {
         "id": "cinzas-de-cadaveres-putridos",
@@ -59,6 +71,10 @@
             "Use para invocar espíritos de quatro cadáveres apodrecidos.",
             "Esses espíritos aparecem a uma certa distância do invocador. Apesar de seus movimentos lentos e confusos, seus gemidos baixos os tornam úteis para atrair a atenção de inimigos. A morte verdadeira não chega facilmente para eles."
         ],
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-cadaveres-putridos-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-cadaveres-putridos-padrao.jpg?raw=true"
