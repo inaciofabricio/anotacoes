@@ -18,7 +18,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-padrao.jpg?raw=true"
         },
-        "poderDeAteque" :{
+        "poderDeAtaque" :{
             "fisico": 110,
             "magico": 0,
             "fogo": 0,
@@ -77,7 +77,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/alabardas/alabarda-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/alabardas/alabarda-padrao.jpg?raw=true"
         },
-        "poderDeAteque" :{
+        "poderDeAtaque" :{
             "fisico": 125,
             "magico": 0,
             "fogo": 0,
@@ -136,7 +136,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-padrao.jpg?raw=true"
         },
-        "poderDeAteque" :{
+        "poderDeAtaque" :{
             "fisico": 77,
             "magico": 0,
             "fogo": 0,
@@ -196,7 +196,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/cimitarra-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/cimitarra-padrao.jpg?raw=true"
         },
-        "poderDeAteque" :{
+        "poderDeAtaque" :{
             "fisico": 106,
             "magico": 0,
             "fogo": 0,
@@ -255,7 +255,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-reforcado-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-reforcado-padrao.jpg?raw=true"
         },
-        "poderDeAteque" :{
+        "poderDeAtaque" :{
             "fisico": 72,
             "magico": 0,
             "fogo": 0,
