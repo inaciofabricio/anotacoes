@@ -11,8 +11,8 @@
             "Um dos dois cavaleiros apelidados de Asas da Tempestade. Apesar de seu banimento, ele rejeitou o convite do Lorde da Graça, preferindo cuidar de um castelo sem mestre por muitos anos, ganhando renome como um herói das periferias."
         ],
         "tipo": {
-            "id": "lendarias",
-            "nome": "Lendárias"
+            "id": "lendaria",
+            "nome": "Lendária"
         },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cavaleiro-banido-engvall-icone.jpg?raw=true",
