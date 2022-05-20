@@ -2,6 +2,7 @@
     {
         "id": "escudo-radiador",
         "nome": "Escudo Radiador",
+        "peso": 3.5,
         "descricoes": [
             "Um escudo médio de metal, relativamente fácil de manejar.",
             "Escudos de metal são confiáveis, negando o dano físico recebido ao defender, uma característica que os tornou muito confiáveis no campo de batalha."
@@ -52,6 +53,7 @@
         "habilidade": {
             "id": "aparagem",
             "nome": "Aparagem",
+            "custoPf": "0",
             "descricoes": [
                 "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
                 "Isso cria uma abertura para executar um ataque crítico."
@@ -61,6 +63,7 @@
     {
         "id": "escudo-de-madeira-reforcado",
         "nome": "Escudo de Madeira Reforçado",
+        "peso": 2.0,
         "descricoes": [
             "Pequeno escudo redondo de mardeira reforçado com metal. Leve e fácil de manusear, mas não oferece a mesma negação de dado que um escudo de metal de verdade.",
             "O desenho rebitado ao centro represanta tanto a espada quanto a árvore."
@@ -111,6 +114,435 @@
         "habilidade": {
             "id": "aparagem",
             "nome": "Aparagem",
+            "custoPf": "0",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "Isso cria uma abertura para executar um ataque crítico."
+            ]
+        }
+    },
+    {
+        "id": "escudo-de-couro-grande",
+        "nome": "Escudo de Couro Grande",
+        "peso": 3.0,
+        "descricoes": [
+            "Um escudo redondo coberto com couro. Grande demais para um escudo padrão.",
+            "Apesar de sua redução de dano ser baixa comparada aos escudos de metal, esse escudo pode aguentar uma variedade maior de afinidades de ataque."
+        ],
+        "tipo": {
+            "id": "escudo-medio",
+            "nome": "Escudo médio"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-couro-grande-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-couro-grande-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 75,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 85.0,
+            "magico": 49.0,
+            "fogo": 36.0,
+            "relampago": 45.0,
+            "sagrado": 45.0,
+            "aumentoDeDefesa": 46
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 0,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "aparagem",
+            "nome": "Aparagem",
+            "custoPf": "0",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "Isso cria uma abertura para executar um ataque crítico."
+            ]
+        }
+    },
+    {
+        "id": "broquel",
+        "nome": "Broquel",
+        "peso": 1.5,
+        "descricoes": [
+            "Um escudo redondo de metal pequeno. O relevo no centro é feito para aparar.",
+            "Uma aparagem no tempo certo desvia um ataque inimigo, quebrando sua postura e o deixando vulnerável a acertos críticos.",
+            "Apesar do risco inerente, este escudo favorece a agressividade."
+        ],
+        "tipo": {
+            "id": "escudo-pequeno",
+            "nome": "Escudo Pequeno"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/broquel-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/broquel-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 68,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 61.0,
+            "magico": 30.0,
+            "fogo": 30.0,
+            "relampago": 16.0,
+            "sagrado": 30.0,
+            "aumentoDeDefesa": 37
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 13,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "Aparar-com-broquel",
+            "nome": "Aparar com Broquel",
+            "custoPf": "0",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "É mais rápido do que uma aparagem comum."
+            ]
+        }
+    },
+    {
+        "id": "escudo-de-madeira-com-incricoes-icone",
+        "nome": "Escudo de Madeira com Incrições",
+        "peso": 1.5,
+        "descricoes": [
+            "Um pequeno escudo de madeira. Ele é leve e fávil de manusear, mas não oferece a mesma negação de dano de um escudo de metal.",
+            "Uma cifra antiga reveste a circunferência. Apesar de não ser muito, ele aumenta a negação de dano sagrado."
+        ],
+        "tipo": {
+            "id": "escudo-pequeno",
+            "nome": "Escudo Pequeno"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-com-incricoes-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-com-incricoes-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 70,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 70.0,
+            "magico": 40.0,
+            "fogo": 22.0,
+            "relampago": 37.0,
+            "sagrado": 45.0,
+            "aumentoDeDefesa": 38
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 0,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "aparagem",
+            "nome": "Aparagem",
+            "custoPf": "0",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "Isso cria uma abertura para executar um ataque crítico."
+            ]
+        }
+    },
+    {
+        "id": "escudo-precario",
+        "nome": "Escudo Precário",
+        "peso": 1.0,
+        "descricoes": [
+            "Um escudo de madeira velho de formato circular. Levemente reforçado com vinhas.",
+            "Há incontáveis escudos melhores disponíveis. Este pedaço de lico não vale o esforço feito para equipá-lo."
+        ],
+        "tipo": {
+            "id": "escudo-pequeno",
+            "nome": "Escudo Pequeno"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-precario-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-precario-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 70,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 61.0,
+            "magico": 29.0,
+            "fogo": 24.0,
+            "relampago": 34.0,
+            "sagrado": 34.0,
+            "aumentoDeDefesa": 37
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 0,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "aparagem",
+            "nome": "Aparagem",
+            "custoPf": "0",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "Isso cria uma abertura para executar um ataque crítico."
+            ]
+        }
+    },
+    {
+        "id": "escudo-redondo-do-espinho-vermelho",
+        "nome": "Escudo Redondo do Espinho Vermelho",
+        "peso": 1.5,
+        "descricoes": [
+            "Um pequeno escudo de madeira. Ele é leve e fácil de usar, mas não oferece a mesma negação de dano de um escudo de metal.",
+            "Seu emblema é um desenho antigo de espinhos vemelhos. Apesar de não ser grande coisa, oferece maior negação de dano de fogo que a maioria dos escudos."
+        ],
+        "tipo": {
+            "id": "escudo-pequeno",
+            "nome": "Escudo Pequeno"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-redondo-do-espinho-vermelho-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-redondo-do-espinho-vermelho-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 70,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 68.0,
+            "magico": 32.0,
+            "fogo": 42.0,
+            "relampago": 37.0,
+            "sagrado": 37.0,
+            "aumentoDeDefesa": 38
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 0,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "aparagem",
+            "nome": "Aparagem",
+            "custoPf": "0",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "Isso cria uma abertura para executar um ataque crítico."
+            ]
+        }
+    },
+    {
+        "id": "escudo-da-fenda",
+        "nome": "Escudo da Fenda",
+        "peso": 2.0,
+        "descricoes": [
+            "Pequeno escudo redondo de ferro representando uma fenda sinistra.",
+            "Um amuleto antigo que encara o inimigo e aumenta o fogo."
+        ],
+        "tipo": {
+            "id": "escudo-pequeno",
+            "nome": "Escudo Pequeno"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-da-fenda-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-da-fenda-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 70,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 76.0,
+            "magico": 33.0,
+            "fogo": 37.0,
+            "relampago": 18.0,
+            "sagrado": 37.0,
+            "aumentoDeDefesa": 38
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 0,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "aparagem",
+            "nome": "Aparagem",
+            "custoPf": "0",
+            "descricoes": [
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                "Isso cria uma abertura para executar um ataque crítico."
+            ]
+        }
+    },
+    {
+        "id": "escudo-radiador-com-brasao-azul",
+        "nome": "Escudo Radiador com Brasão Azul",
+        "peso": 3.5,
+        "descricoes": [
+            "Um escudo de metal de tamanho médio. Mais fácil de manejar que um escudo Gota.",
+            "O brasão representa uma floresta e rio."
+        ],
+        "tipo": {
+            "id": "escudo-medio",
+            "nome": "Escudo Médio"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "Esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 77,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 100.0,
+            "magico": 43.0,
+            "fogo": 42.0,
+            "relampago": 32.0,
+            "sagrado": 50.0,
+            "aumentoDeDefesa": 50
+        },
+        "bonusDeAtributo" : {
+            "for": "D",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 10,
+            "des": 0,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "aparagem",
+            "nome": "Aparagem",
+            "custoPf": "0",
             "descricoes": [
                 "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
                 "Isso cria uma abertura para executar um ataque crítico."
