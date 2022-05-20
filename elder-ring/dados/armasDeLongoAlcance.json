@@ -1,0 +1,128 @@
+[
+    {
+        "id": "arco-curto",
+        "nome": "Arco Curto",
+        "peso": 2.5,
+        "descricoes": [
+            "Pequeno arco feito para disparar flechas em longas distâncias.",
+            "Além de sua capacidade de disparar um rápida sucessão, também é adequado para uso a cavalo.",
+            "Para usar um arco, as flechas também devem ser equipadas."
+        ],
+        "tipo": {
+            "id": "arco-leve",
+            "nome": "Arco Leve"
+        },
+        "subTipo": {
+            "id": "nenhuma",
+            "nome": "Nenhuma"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-curto-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-curto-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 65,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100,
+            "alcance":  29
+        },
+        "danoNegadoAoDefender": {
+            "fisico": "-",
+            "magico": "-",
+            "fogo": "-",
+            "relampago": "-",
+            "sagrado": "-",
+            "aumentoDeDefesa": "-"
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "E",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 8,
+            "des": 10,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "barragem",
+            "nome": "Barragem",
+            "custoPf": "2",
+            "descricoes": [
+                "Habilidade de arco e flecha que usa um arco segurado horizontalmente.",
+                "Prepara o arco e, mais rápido do que o olho pode ver, dispara uma rápida sucessão de flechas."
+            ]
+        }
+    },
+    {
+        "id": "arco-longo",
+        "nome": "Arco Longo",
+        "peso": 4.0,
+        "descricoes": [
+            "Arco longo feito para disparar flechas em longas distâncias.",
+            "Comparado com um arco curto, as flechas disparadas têm mais alcance e causam mais dano.",
+            "Para usar um arco, as flechas também devem ser equipadas."
+        ],
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        },
+        "subTipo": {
+            "id": "nenhuma",
+            "nome": "Nenhuma"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-longo-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-longo-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 80,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100,
+            "alcance":  50
+        },
+        "danoNegadoAoDefender": {
+            "fisico": "-",
+            "magico": "-",
+            "fogo": "-",
+            "relampago": "-",
+            "sagrado": "-",
+            "aumentoDeDefesa": "-"
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "D",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 9,
+            "des": 14,
+            "int": 0,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "id": "disparo-poderoso",
+            "nome": "Disparo Poderoso",
+            "custoPf": "6",
+            "descricoes": [
+                "Habilidade de arco e flecha executada em uma postura oblíqua.",
+                "Prepara o arco e puxa a corda ao limite para aumentar a força do disparo, que penetra a guarda do inimigo."
+            ]
+        }
+    }
+]
