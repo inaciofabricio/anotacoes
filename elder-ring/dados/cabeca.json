@@ -1,0 +1,38 @@
+[
+    {
+        "id": "elmo-de-cavaleiro-errante",
+        "nome": "Elmo de Cavaleiro Errante",
+        "tipo": {
+            "id": "cabeca",
+            "nome": "Cabeça"
+        },
+        "peso": 4.0,
+        "descricoes": [
+            "Elmo de um cavaleiro banido de sua pátria.",
+            "Sujo e surrado depois de enfrentar um longa jornada errante.",
+            "O visor está quebrado e não pode mais ser abaixado.",
+            "A armadura de metal é pesada, mas também resistente, oferecendo negação de dano considerável."
+        ],
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-padrao.jpg?raw=true"
+        },
+        "negacaoDeDado": {
+            "fisico": 4.6,
+            "vsEsmagadores": 3.6,
+            "vsCortantes": 4.2,
+            "vsPerfurantes": 4.0,
+            "magico": 3.1,
+            "igneo": 3.6,
+            "relampago": 2.8,
+            "sagrado": 2.8
+        },
+        "resistencia": {
+            "imunidade": 14,
+            "robustez": 23,
+            "foco": 9,
+            "vitalidade": 9,
+            "equilibrio": 4
+        }
+    }
+]
