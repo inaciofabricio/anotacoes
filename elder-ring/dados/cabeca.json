@@ -17,7 +17,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-padrao.jpg?raw=true"
         },
-        "negacaoDeDado": {
+        "negacaoDeDano": {
             "fisico": 4.6,
             "vsEsmagadores": 3.6,
             "vsCortantes": 4.2,

@@ -17,7 +17,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-padrao.jpg?raw=true"
         },
-        "negacaoDeDado": {
+        "negacaoDeDano": {
             "fisico": 4.6,
             "vsEsmagadores": 3.6,
             "vsCortantes": 4.2,
@@ -88,7 +88,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-de-cavaleiro-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-de-cavaleiro-errante-padrao.jpg?raw=true"
         },
-        "negacaoDeDado": {
+        "negacaoDeDano": {
             "fisico": 3.3,
             "vsEsmagadores": 2.8,
             "vsCortantes": 3.1,
@@ -123,7 +123,7 @@
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-padrao.jpg?raw=true"
         },
-        "negacaoDeDado": {
+        "negacaoDeDano": {
             "fisico": 7.4,
             "vsEsmagadores": 5.8,
             "vsCortantes": 6.8,
