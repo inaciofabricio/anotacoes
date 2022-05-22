@@ -1,0 +1,422 @@
+[
+    {
+        "id": "lirio-do-vale-de-tumulo-1",
+        "nome": "Lírio do Vale de Túmulo [1]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +1.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +1.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-1-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-1-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-2",
+        "nome": "Lírio do Vale de Túmulo [2]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +2.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +2.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-2-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-2-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-3",
+        "nome": "Lírio do Vale de Túmulo [3]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +3.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +3.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-3-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-3-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-4",
+        "nome": "Lírio do Vale de Túmulo [4]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +4.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +4.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-4-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-4-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-5",
+        "nome": "Lírio do Vale de Túmulo [5]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +5.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +5.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-5-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-5-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-6",
+        "nome": "Lírio do Vale de Túmulo [6]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +6.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +6.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-6-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-6-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-7",
+        "nome": "Lírio do Vale de Túmulo [7]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +7.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +7.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-7-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-7-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-8",
+        "nome": "Lírio do Vale de Túmulo [8]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +8.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +8.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-8-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-8-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-de-tumulo-9",
+        "nome": "Lírio do Vale de Túmulo [9]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +9.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +9.",
+                "A arte de foralecar espíritos é conhecida como canalização de espíritos. Apenas uma canalizadora de espíritos pode realizar essa ação."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-9-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-9-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "grande-lirio-do-vale-de-tumulo",
+        "nome": "Grande Lírio do Vale de Túmulo",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas para +10.",
+        "descricoes": {
+            "textos": [
+                "Um espécime particularmente grande.",
+                "Um sino sem som usado para invocar espíritos.",
+                "Fortalece cinzas em +10.",
+                "Desde tempos antigos, lírios-de-vale grandes são usados para confortar espíritos heroicos. Eles eram oferendas feitas para honrar a mais gloriosa das mortes, com esperança de que suas histórias se tornassem lendas."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/grande-lirio-do-vale-de-tumulo-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/grande-lirio-do-vale-de-tumulo-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-1",
+        "nome": "Lírio do Vale Fantasma [1]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +1.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +1.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-1-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-1-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-2",
+        "nome": "Lírio do Vale Fantasma [2]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +2.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +2.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-2-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-2-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-3",
+        "nome": "Lírio do Vale Fantasma [3]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +3.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +3.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-3-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-3-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-4",
+        "nome": "Lírio do Vale Fantasma [4]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +4.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +4.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-4-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-4-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-5",
+        "nome": "Lírio do Vale Fantasma [5]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +5.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +5.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-5-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-5-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-6",
+        "nome": "Lírio do Vale Fantasma [6]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +6.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +6.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-6-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-6-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-7",
+        "nome": "Lírio do Vale Fantasma [7]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +7.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +7.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-7-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-7-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-8",
+        "nome": "Lírio do Vale Fantasma [8]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +8.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +8.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-8-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-8-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-9",
+        "nome": "Lírio do Vale Fantasma [9]",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +9.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +9.",
+                "Cinzas que mantêm seu renome mesmo depois da morte não poder ser fortalecidas com lírios-do-vale corpóreos."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-9-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-9-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lirio-do-vale-fantasma-grande",
+        "nome": "Lírio do Vale Fantasma Grande",
+        "tipo": {
+            "id": "material-de-fortificacao",
+            "nome": "Material de Fortificação"
+        },
+        "efeito": "Fortifica cinzas renomadas em +10.",
+        "descricoes": {
+            "textos": [
+                "Flor branca que cresce em criptas subterrâneas.",
+                "Espíritos se aninham perto dela.",
+                "Fortifica cinzas renomadas em +10.",
+                "Desde tempos antigos, lírios-do-vale grande são usados para confortar espíritos heroicos. Eles eram oferendas feitas para honrar a mais gloriosa das mortes, com a esperança de que suas histórias se tornassem lendas."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-grande-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-grande-padrao.jpg?raw=true"
+        }
+    }
+]

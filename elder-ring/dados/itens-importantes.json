@@ -1,0 +1,218 @@
+[
+    {
+        "id": "sino-do-catador-de-lirio-do-vale-1",
+        "nome": "Sino do Catador de Lírio-do-Vale [1]",
+        "tipo": {
+            "id": "itens-importantes",
+            "nome": "Itens Importantes"
+        },
+        "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
+        "descricoes": {
+            "textos": [
+                "O Sino de um forrageador que costumava colher lírios do vale de túmulos.",
+                "Ofereça às Gêmeas Idosas para ter acesso aos seguintes itens:"   
+            ],
+            "itens": [
+                {
+                    "id": "lirio-do-vale-de-tumulo-1",
+                    "nome": "Lírio-do-Vale de Túmulo [1]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-1-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-de-tumulo-2",
+                    "nome": "Lírio-do-Vale de Túmulo [2]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-2-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-de-tumulo-3",
+                    "nome": "Lírio-do-Vale de Túmulo [3]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-3-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "sino-do-catador-de-lirio-do-vale-2",
+        "nome": "Sino do Catador de Lírio-do-Vale [2]",
+        "tipo": {
+            "id": "itens-importantes",
+            "nome": "Itens Importantes"
+        },
+        "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
+        "descricoes": {
+            "textos": [
+                "O Sino de um forrageador que costumava colher lírios do vale de túmulos.",
+                "Ofereça às Gêmeas Idosas para ter acesso aos seguintes itens:"   
+            ],
+            "itens": [
+                {
+                    "id": "lirio-do-vale-de-tumulo-4",
+                    "nome": "Lírio-do-Vale de Túmulo [4]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-4-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-de-tumulo-5",
+                    "nome": "Lírio-do-Vale de Túmulo [5]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-5-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-de-tumulo-6",
+                    "nome": "Lírio-do-Vale de Túmulo [6]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-6-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "sino-do-catador-de-lirio-do-vale-3",
+        "nome": "Sino do Catador de Lírio-do-Vale [3]",
+        "tipo": {
+            "id": "itens-importantes",
+            "nome": "Itens Importantes"
+        },
+        "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
+        "descricoes": {
+            "textos": [
+                "O Sino de um forrageador que costumava colher lírios do vale de túmulos.",
+                "Ofereça às Gêmeas Idosas para ter acesso aos seguintes itens:"   
+            ],
+            "itens": [
+                {
+                    "id": "lirio-do-vale-de-tumulo-7",
+                    "nome": "Lírio-do-Vale de Túmulo [7]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-7-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-de-tumulo-8",
+                    "nome": "Lírio-do-Vale de Túmulo [8]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-8-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-de-tumulo-9",
+                    "nome": "Lírio-do-Vale de Túmulo [9]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-de-tumulo-9-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "sino-do-catador-de-lirio-do-vale-fantasma-1",
+        "nome": "Sino do Catador de Lírio-do-Vale Fantasma [1]",
+        "tipo": {
+            "id": "itens-importantes",
+            "nome": "Itens Importantes"
+        },
+        "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
+        "descricoes": {
+            "textos": [
+                "O Sino de um forrageador que costumava colher lírios-do-vale fantasma.",
+                "Ofereça às Gêmeas Idosas para ter acesso aos seguintes itens:"   
+            ],
+            "itens": [
+                {
+                    "id": "lirio-do-vale-fantasma-1",
+                    "nome": "Lírio-do-Vale Fantasma [1]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-1-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-fantasma-2",
+                    "nome": "Lírio-do-Vale Fantasma [2]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-2-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-fantasma-3",
+                    "nome": "Lírio-do-Vale Fantasma [3]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-3-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-fantasma-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-fantasma-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "sino-do-catador-de-lirio-do-vale-fantasma-2",
+        "nome": "Sino do Catador de Lírio-do-Vale Fantasma [2]",
+        "tipo": {
+            "id": "itens-importantes",
+            "nome": "Itens Importantes"
+        },
+        "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
+        "descricoes": {
+            "textos": [
+                "O Sino de um forrageador que costumava colher lírios-do-vale fantasma.",
+                "Ofereça às Gêmeas Idosas para ter acesso aos seguintes itens:"   
+            ],
+            "itens": [
+                {
+                    "id": "lirio-do-vale-fantasma-4",
+                    "nome": "Lírio-do-Vale Fantasma [4]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-4-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-fantasma-5",
+                    "nome": "Lírio-do-Vale Fantasma [5]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-5-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-fantasma-6",
+                    "nome": "Lírio-do-Vale Fantasma [6]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-6-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-fantasma-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-fantasma-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "sino-do-catador-de-lirio-do-vale-fantasma-3",
+        "nome": "Sino do Catador de Lírio-do-Vale Fantasma [3]",
+        "tipo": {
+            "id": "itens-importantes",
+            "nome": "Itens Importantes"
+        },
+        "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
+        "descricoes": {
+            "textos": [
+                "O Sino de um forrageador que costumava colher lírios-do-vale fantasma.",
+                "Ofereça às Gêmeas Idosas para ter acesso aos seguintes itens:"   
+            ],
+            "itens": [
+                {
+                    "id": "lirio-do-vale-fantasma-7",
+                    "nome": "Lírio-do-Vale Fantasma [7]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-7-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-fantasma-8",
+                    "nome": "Lírio-do-Vale Fantasma [8]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-8-icone.jpg?raw=true"
+                },
+                {
+                    "id": "lirio-do-vale-fantasma-9",
+                    "nome": "Lírio-do-Vale Fantasma [9]",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materias-de-fortificacao/lirio-do-vale-fantasma-9-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-fantasma-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-fantasma-padrao.jpg?raw=true"
+        }
+    }
+]
