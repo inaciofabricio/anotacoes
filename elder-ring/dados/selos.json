@@ -1,26 +1,26 @@
 [
     {
-        "id": "cajado-do-astrologo",
-        "nome": "Cajado do Astrólogo",
-        "categoria": "cajados",
-        "peso": 3.0,
+        "id": "selo-de-dedo",
+        "nome": "Selo de Dedo",
+        "categoria": "selos",
+        "peso": 1.5,
         "descricoes": {
             "textos": [
-                "Cajado dos astrólogos. Tem um pedrilhante incrustada na ponta, então ele poder ser usado como catalisador para feitiços.",
-                "Primeiro, os feitiços devem ser memorizados em um local de graça perdida, e um cajado deve ser equipado para lançá-los."
+                "Um selo sagrado concedido por uma Donzela dos Dedos, o qual serve de catalizador para lançar encantos sagrados.",
+                "Primeiro, os encantos devem ser memorizados em um local de graça perdida, e um selo deve ser equipado para lançá-los."
             ]
         },
         "tipo": {
-            "id": "cajado-pedrilhante",
-            "nome": "Cajado Pedrilhante"
+            "id": "selo-sagrado",
+            "nome": "Selo Sagrado"
         },
         "subTipo": {
             "id": "esmagador",
             "nome": "esmagador"
         },
         "imagens": {
-            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/cajados/cajado-do-astrologo-icone.jpg?raw=true",
-            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/cajados/cajado-do-astrologo-padrao.jpg?raw=true"
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/selos/selo-de-dedo-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/selos/selo-de-dedo-padrao.jpg?raw=true"
         },
         "poderDeAtaque" :{
             "fisico": 25,
@@ -29,7 +29,7 @@
             "relampago": 0,
             "sagrado": 0,
             "critico": 100,
-            "feiticaria": 115
+            "feiticaria": 114
         },
         "danoNegadoAoDefender": {
             "fisico": 25.0,
@@ -42,15 +42,15 @@
         "bonusDeAtributo" : {
             "for": "E",
             "des": "-",
-            "int": "C",
-            "fe": "-",
+            "int": "-",
+            "fe": "C",
             "arc": "-"
         },
         "atributosNecessarios" : {
-            "for": 7,
+            "for": 4,
             "des": 0,
-            "int": 16,
-            "fe": 0,
+            "int": 0,
+            "fe": 10,
             "arc": 0
         },
         "efeitosPassivos": [],
