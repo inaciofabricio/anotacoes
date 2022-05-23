@@ -8,6 +8,29 @@
     ],
     [
         {
+            "id": "cabecas",
+            "rotulo": "Cabeça",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true" 
+        },
+        {
+            "id": "torsos",
+            "rotulo": "Torso",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/armadura-de-cavaleiro-errante-icone.jpg?raw=true" 
+        },
+        {
+            "id": "bracos",
+            "rotulo": "Bracos",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-de-cavaleiro-errante-icone.jpg?raw=true" 
+        },
+        {
+            "id": "pernas",
+            "rotulo": "Pernas",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-icone.jpg?raw=true" 
+        } 
+
+    ],
+    [
+        {
             "id": "armas-corpo-a-corpo",
             "rotulo": "Armas Corpo a Corpo",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true" 
@@ -22,13 +45,6 @@
             "rotulo": "Escudos",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-com-brasao-azul-icone.jpg?raw=true" 
         }        
-    ],
-    [
-        {
-            "id": "cabecas",
-            "rotulo": "Cabeça",
-            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true" 
-        }     
     ],
     [
         {
