@@ -63,7 +63,12 @@
             "id": "cinzas",
             "rotulo": "Cinzas",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cavaleiro-banido-engvall-icone.jpg?raw=true" 
-        }     
+        },
+        {
+            "id": "cinzas-de-guerra",
+            "rotulo": "Cinzas de Guerra",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/garra-de-leao-icone.jpg?raw=true" 
+        }        
     ],
     [
         {
