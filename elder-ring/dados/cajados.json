@@ -1,0 +1,67 @@
+[
+    {
+        "id": "cajado-do-astrologo",
+        "nome": "Cajado do Astrólogo",
+        "categoria": "cajados",
+        "peso": 3.0,
+        "descricoes": {
+            "textos": [
+                "Cajado dos astrólogos. Tem um pedrilhante incrustada na ponta, então ele poder ser usado como catalisador para feitiços.",
+                "Primeiro, os feitiços devem ser memorizados em um local de graça perdida, e um cajado dee ser equipado para lançá-los."
+            ]
+        },
+        "tipo": {
+            "id": "cajado-pedrilhante",
+            "nome": "Cajado Pedrilhante"
+        },
+        "subTipo": {
+            "id": "esmagador",
+            "nome": "esmagador"
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/cajados/cajado-do-astrologo-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/cajados/cajado-do-astrologo-padrao.jpg?raw=true"
+        },
+        "poderDeAtaque" :{
+            "fisico": 25,
+            "magico": 0,
+            "fogo": 0,
+            "relampago": 0,
+            "sagrado": 0,
+            "critico": 100,
+            "feiticaria": 115
+        },
+        "danoNegadoAoDefender": {
+            "fisico": 25.0,
+            "magico": 15.0,
+            "fogo": 15.0,
+            "relampago": 15.0,
+            "sagrado": 15.0,
+            "aumentoDeDefesa": 15
+        },
+        "bonusDeAtributo" : {
+            "for": "E",
+            "des": "-",
+            "int": "C",
+            "fe": "-",
+            "arc": "-"
+        },
+        "atributosNecessarios" : {
+            "for": 7,
+            "des": 0,
+            "int": 16,
+            "fe": 0,
+            "arc": 0
+        },
+        "efeitosPassivos": [],
+        "habilidade": {
+            "descricoes": {
+                "textos": [
+                    "Nenhuma habilidade.",
+                    "Esta arma não possui nenhuma habilidade.",
+                    "Se a arma na outra mão possuir uma habilidade, ela será usada."
+                ]
+            }
+        }
+    }
+]
