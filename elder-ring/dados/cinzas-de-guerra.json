@@ -1,0 +1,191 @@
+[
+    {
+        "id": "esmagamento-corte-para-cima",
+        "nome": "Esmagamento (Corte para Cima)",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "pesado",
+            "nome": "Afinidade: Pesado"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra concede a uma arma a afinidade \"Pesada\".",
+                "Prepara a arma e muda para uma postura baixa que impede o recuo da maioria dos ataques inimigos. Prossiga com um ataque forte para realizar um golpe ascendente.",
+                "Utilizável em espadas (exceto espadas pequenas e médias), machados e martelos."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/esmagamento-corte-para-cima-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/esmagamento-corte-para-cima-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "garra-de-leao",
+        "nome": "Garra de Leão",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "pesado",
+            "nome": "Afinidade: Pesado"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra concede a uma arma a afinidade \"Pesada\".",
+                "Habilidade dos cavaleiros da Juba Vermelha, que lutaram ao lado do General Radahn. Dá uma cambalhota para a frente, golpeando com a arma.",
+                "Utilizável em espadas, machados e martelos (exceto armas pequenas e espadas perfurantes)."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/garra-de-leao-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/garra-de-leao-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "calhau-pedrilhante",
+        "nome": "Calhau Pedrilhante",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "magico",
+            "nome": "Afinidade: Mágico"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra concede a uma arma a afinidade \"Mágica\".",
+                "Habilidade que aplica a feitiçaria pedrilhante de mesmo nome. Prossiga com um atauqe forte para conectar esta habilidade com um impulso de estocada, realizado enquanto a arma ainda estiver inbuída com pedrilhante.",
+                "Utilizável em espadas, bem como em armas de haste (exceto armas colossais)."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/calhau-pedrilhante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/calhau-pedrilhante-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "golpe-flamejante",
+        "nome": "Golpe Flamejante",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "fogo",
+            "nome": "Afinidade: Fogo"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra concede a uma arma a afinidade \"Fogo\".",
+                "Habilidade que emite chamas em um arco amplo para a frente. Prossiga com um ataque forte para realizar um golpe de impulso em arco. Isso também revestirá a arma com fogo.",
+                "Utilizável em armas corpo a corpo (exceto armas colossais e chicotes)."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/golpe-flamejante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/golpe-flamejante-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lamina-sagrada",
+        "nome": "Lâmina Sagrada",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "sagrado",
+            "nome": "Afinidade: Sagrado"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra concede a uma arma a afinidade \"Sagrado\".",
+                "Concede essência sagrada aos ataques de arma e dispara um projétil em forma de lâmina dourada. A arma retém a essência sagrada para um tempo.",
+                "Utilizável em armas corpo a corpo (exceto chicotes, punhos e garras)."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/lamina-sagrada-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/lamina-sagrada-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "lanca-espectral",
+        "nome": "Lança Espectral",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "oculto",
+            "nome": "Afinidade: Oculto"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra concede a uma arma a afinidade \"Oculto\".",
+                "Habilidade dos Cavaleiros do Mausoléu, combatentes sem cabeça. Arremessa uma lança fantasmagórica nos inimigos.",
+                "Utilizável em armas corpo a corpo (exceto ceifadores)."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/lanca-espectral-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/lanca-espectral-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "disparo-poderoso",
+        "nome": "Disparo Poderoso",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "nenhuma",
+            "nome": "Afinidade: Nenhuma"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra não concede nenhuma Afinidade.",
+                "Habilidade de arco e flecha executada em uma postura oblíqua. Preparo o arco e puxa a corda ao limite para aumentar a força do disparo, que penetra a guarda do inimigo.",
+                "Utilizável em arcos leves e arcos longos."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/disparo-poderoso-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/disparo-poderoso-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "aparar",
+        "nome": "Aparar",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "nenhuma",
+            "nome": "Afinidade: Nenhuma"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza de Guerra não concede nenhuma Afinidade.",
+                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário. Isso cria uma abertura para executar um ataque crítico.",
+                "Utilizável em adagas, espadas curvas, espadas de perfuração, punhos, garras e escudos pequenos e médios."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/aparar-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/aparar-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "nenhuma-habilidade",
+        "nome": "Nenhuma Habilidade",
+        "categoria": "cinzas-de-guerra",
+        "tipo": {
+            "id": "nenhuma",
+            "nome": "Afinidade: Nenhuma"
+        },
+        "efeito": "Concede afinidade e habilidade a uma arma.",
+        "descricoes": {
+            "textos": [
+                "Esta Cinza da Guerra não concede nenhuma afinidade para a arma, mas dá a seguinte habilidade.",
+                "Esta arma não possui nenhuma habilidade. Se a arma na outra mão possuir uma habilidade, ela será usada.",
+                "Utilizável em escudos e tochas."
+            ]
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/nenhuma-habilidade-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/nenhuma-habilidade-padrao.jpg?raw=true"
+        }
+    }
+]
