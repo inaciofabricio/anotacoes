@@ -18,19 +18,35 @@
     ],
     [
         {
-            "id": "armas-corpo-a-corpo",
-            "rotulo": "Armas Corpo a Corpo",
-            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true" 
+            "id": "cabecas",
+            "rotulo": "Cabeça",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true" 
+        }     
+    ],
+    [
+        {
+            "id": "cajados",
+            "rotulo": "Cajados",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/cajados/cajado-do-astrologo-icone.jpg?raw=true" 
         },
         {
-            "id": "armas-de-longo-alcance",
-            "rotulo": "Armas de Longo Alcance",
-            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-curto-icone.jpg?raw=true" 
-        },
+            "id": "selos",
+            "rotulo": "Selos",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/selos/selo-de-dedo-icone.jpg?raw=true" 
+        }      
+    ],
+    [
         {
-            "id": "escudos",
-            "rotulo": "Escudos",
-            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-com-brasao-azul-icone.jpg?raw=true" 
-        }        
-    ] 
+            "id": "cinzas",
+            "rotulo": "Cinzas",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cavaleiro-banido-engvall-icone.jpg?raw=true" 
+        }     
+    ],
+    [
+        {
+            "id": "itens-importantes",
+            "rotulo": "Itens Importantes",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-icone.jpg?raw=true" 
+        }     
+    ]
 ]
