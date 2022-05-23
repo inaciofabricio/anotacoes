@@ -2,6 +2,7 @@
     {
         "id": "elmo-de-cavaleiro-errante",
         "nome": "Elmo de Cavaleiro Errante",
+        "categoria": "cabecas",
         "peso": 4.0,
         "descricoes": {
             "textos": [
