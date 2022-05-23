@@ -2,10 +2,6 @@
     {
         "id": "elmo-de-cavaleiro-errante",
         "nome": "Elmo de Cavaleiro Errante",
-        "tipo": {
-            "id": "cabeca",
-            "nome": "Cabeça"
-        },
         "peso": 4.0,
         "descricoes": [
             "Elmo de um cavaleiro banido de sua pátria.",

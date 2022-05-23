@@ -2,6 +2,7 @@
     {
         "id": "cavaleiro-banido-engvall",
         "nome": "Cavaleiro Banido, Engvall",
+        "categoria": "cinzas",
         "custoPv": "-",
         "custoPf": "100",
         "efeito": "Invoca o espírito de Engvall, Cavaleiro Banido.",
@@ -22,6 +23,7 @@
     {
         "id": "cinzas-de-nobre-errante",
         "nome": "Cinzas de Nobre Errante",
+        "categoria": "cinzas",
         "custoPv": "-",
         "custoPf": "28",
         "efeito": "Invoca cinco espíritos de nobres errantes.",
@@ -42,6 +44,7 @@
     {
         "id": "cinzas-de-nobre-feiticeiro",
         "nome": "Cinzas de Nobre Feiticeiro",
+        "categoria": "cinzas",
         "custoPv": "-",
         "custoPf": "11",
         "efeito": "Invoca espírito de feiticeiro nobre.",
@@ -63,6 +66,7 @@
     {
         "id": "cinzas-de-cadaveres-putridos",
         "nome": "Cinzas de Cadáveres Pútridos",
+        "categoria": "cinzas",
         "custoPv": "-",
         "custoPf": "40",
         "efeito": "Invoca quatro espíritos de cadáveres pútridos.",

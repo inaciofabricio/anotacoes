@@ -1,0 +1,34 @@
+[
+    {
+        "id": "manoplas-de-cavaleiro-errante",
+        "nome": "Manoplas de Cavaleiro Errante",
+        "categoria": "bracos",
+        "peso": 3.5,
+        "descricoes": [
+            "Manoplas de um cavaleiro banido de sua pátria.",
+            "Sujo e surrado depois de enfrentar um longa jornada errante.",
+            "A armadura de metal é pesada, mas também resistente, oferecendo negação de dano considerável."
+        ],
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-de-cavaleiro-errante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-de-cavaleiro-errante-padrao.jpg?raw=true"
+        },
+        "negacaoDeDano": {
+            "fisico": 3.3,
+            "vsEsmagadores": 2.8,
+            "vsCortantes": 3.1,
+            "vsPerfurantes": 2.9,
+            "magico": 2.5,
+            "igneo": 2.7,
+            "relampago": 2.1,
+            "sagrado": 2.1
+        },
+        "resistencia": {
+            "imunidade": 12,
+            "robustez": 19,
+            "foco": 8,
+            "vitalidade": 8,
+            "equilibrio": 3
+        }
+    }
+]

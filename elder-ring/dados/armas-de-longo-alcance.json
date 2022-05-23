@@ -2,6 +2,7 @@
     {
         "id": "arco-curto",
         "nome": "Arco Curto",
+        "categoria": "armas-de-longo-alcance",
         "peso": 2.5,
         "descricoes": [
             "Pequeno arco feito para disparar flechas em longas distâncias.",
@@ -65,6 +66,7 @@
     {
         "id": "arco-longo",
         "nome": "Arco Longo",
+        "categoria": "armas-de-longo-alcance",
         "peso": 4.0,
         "descricoes": [
             "Arco longo feito para disparar flechas em longas distâncias.",

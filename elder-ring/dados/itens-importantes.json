@@ -2,10 +2,7 @@
     {
         "id": "sino-do-catador-de-lirio-do-vale-1",
         "nome": "Sino do Catador de Lírio-do-Vale [1]",
-        "tipo": {
-            "id": "itens-importantes",
-            "nome": "Itens Importantes"
-        },
+        "categoria": "itens-importantes",
         "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
         "descricoes": {
             "textos": [
@@ -44,10 +41,7 @@
     {
         "id": "sino-do-catador-de-lirio-do-vale-2",
         "nome": "Sino do Catador de Lírio-do-Vale [2]",
-        "tipo": {
-            "id": "itens-importantes",
-            "nome": "Itens Importantes"
-        },
+        "categoria": "itens-importantes",
         "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
         "descricoes": {
             "textos": [
@@ -86,10 +80,7 @@
     {
         "id": "sino-do-catador-de-lirio-do-vale-3",
         "nome": "Sino do Catador de Lírio-do-Vale [3]",
-        "tipo": {
-            "id": "itens-importantes",
-            "nome": "Itens Importantes"
-        },
+        "categoria": "itens-importantes",
         "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
         "descricoes": {
             "textos": [
@@ -128,10 +119,7 @@
     {
         "id": "sino-do-catador-de-lirio-do-vale-fantasma-1",
         "nome": "Sino do Catador de Lírio-do-Vale Fantasma [1]",
-        "tipo": {
-            "id": "itens-importantes",
-            "nome": "Itens Importantes"
-        },
+        "categoria": "itens-importantes",
         "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
         "descricoes": {
             "textos": [
@@ -170,10 +158,7 @@
     {
         "id": "sino-do-catador-de-lirio-do-vale-fantasma-2",
         "nome": "Sino do Catador de Lírio-do-Vale Fantasma [2]",
-        "tipo": {
-            "id": "itens-importantes",
-            "nome": "Itens Importantes"
-        },
+        "categoria": "itens-importantes",
         "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
         "descricoes": {
             "textos": [
@@ -212,10 +197,7 @@
     {
         "id": "sino-do-catador-de-lirio-do-vale-fantasma-3",
         "nome": "Sino do Catador de Lírio-do-Vale Fantasma [3]",
-        "tipo": {
-            "id": "itens-importantes",
-            "nome": "Itens Importantes"
-        },
+        "categoria": "itens-importantes",
         "efeito": "Ofereça às gêmeas idosas para ter a um novo item.",
         "descricoes": {
             "textos": [

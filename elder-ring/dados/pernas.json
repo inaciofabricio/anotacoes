@@ -1,0 +1,34 @@
+[
+    {
+        "id": "grevas-de-cavaleiro-errante",
+        "nome": "Grevas de Cavaleiro Errante",
+        "categoria": "pernas",
+        "peso": 5.7,
+        "descricoes": [
+            "Grevas de um cavaleiro banido de sua pátria.",
+            "Sujo e surrado depois de enfrentar um longa jornada errante.",
+            "A armadura de metal é pesada, mas também resistente, oferecendo negação de dano considerável."
+        ],
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-padrao.jpg?raw=true"
+        },
+        "negacaoDeDano": {
+            "fisico": 7.4,
+            "vsEsmagadores": 5.8,
+            "vsCortantes": 6.8,
+            "vsPerfurantes": 6.5,
+            "magico": 5.0,
+            "igneo": 5.8,
+            "relampago": 4.5,
+            "sagrado": 4.5
+        },
+        "resistencia": {
+            "imunidade": 20,
+            "robustez": 34,
+            "foco": 13,
+            "vitalidade": 13,
+            "equilibrio": 8
+        }
+    }
+]

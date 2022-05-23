@@ -2,23 +2,27 @@
     {
         "id": 1,
         "nome": "Vagabundo",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/vagabundo.jpg?raw=true",
         "armas": [
             {
                 "id": "espada-longa",
                 "nome": "Espada Longa",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "alabarda",
                 "nome": "Alabarda",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/alabardas/alabarda-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "escudo-radiador",
                 "nome": "Escudo Radiador",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -27,21 +31,25 @@
             {
                 "id": "elmo-de-cavaleiro-errante",
                 "nome": "Elmo do Cavaleiro Errante",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-cavaleiro-errante-icone.jpg?raw=true"
             },
             {
                 "id": "manoplas-de-cavaleiro-errante",
                 "nome": "Manoplas do Cavaleiro Errante",
+                "categoria": "bracos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-de-cavaleiro-errante-icone.jpg?raw=true"
             },
             {
                 "id": "armadura-de-cavaleiro-errante",
                 "nome": "Armadura do Cavaleiro Errante",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/armadura-de-cavaleiro-errante-icone.jpg?raw=true"
             },
             {
                 "id": "grevas-de-cavaleiro-errante",
                 "nome": "Grevas do Cavaleiro Errante",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-cavaleiro-errante-icone.jpg?raw=true"
             }
         ],
@@ -49,6 +57,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -57,17 +66,20 @@
     {
         "id": 2,
         "nome": "Guerreiro",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/guerreiro.jpg?raw=true",
         "armas": [
             {
                 "id": "cimitarra",
                 "nome": "Cimitarra",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/cimitarra-icone.jpg?raw=true",
                 "quantidade": 2
             },
             {
                 "id": "escudo-de-madeira-reforcado",
                 "nome": "Escudo de Madeira Reforcado",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-reforcado-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -76,21 +88,25 @@
             {
                 "id": "capuz-de-tecido-azul",
                 "nome": "Capuz de tecido azul",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/capuz-de-tecido-azul-icone.jpg?raw=true"
             },
             {
                 "id": "manoplas-de-guerreiro",
                 "nome": "Manoplas de Guerreiro",
+                "categoria": "bracos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-de-guerreiro-icone.jpg?raw=true"
             },
             {
                 "id": "colete-de-tecido-azul",
                 "nome": "Colete De Tecido Azul",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/colete-de-tecido-azul-icone.jpg?raw=true"
             },
             {
                 "id": "grevas-de-guerreiro",
                 "nome": "Grevas de Guerreiro",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-de-guerreiro-icone.jpg?raw=true"
             }
         ],
@@ -98,6 +114,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -106,17 +123,20 @@
     {
         "id": 3,
         "nome": "Herói",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/heroi.jpg?raw=true",
         "armas": [
             {
                 "id": "machado-de-batalha",
                 "nome": "Machado de Batalha",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/machados/machado-de-batalha-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "escudo-de-couro-grande",
                 "nome": "Escudo de Couro Grande",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-couro-grande-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -125,21 +145,25 @@
             {
                 "id": "testeira-de-campeao",
                 "nome": "Testeira de Campeão",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/testeira-de-campeao-icone.jpg?raw=true"
             },
             {
                 "id": "bracadeiras-de-campeao",
                 "nome": "Bracadeiras de Campeão",
+                "categoria": "bracos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/bracadeiras-de-campeao-icone.jpg?raw=true"
             },
             {
                 "id": "ombreiras-de-campeao",
                 "nome": "Ombreiras de Campeão",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/ombreiras-de-campeao-icone.jpg?raw=true"
             },
             {
                 "id": "polainas-de-campeao",
                 "nome": "Polainas de Campeão",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/polainas-de-campeao-icone.jpg?raw=true"
             }
         ],
@@ -147,6 +171,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -155,23 +180,27 @@
     {
         "id": 4,
         "nome": "Bandido",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/bandido.jpg?raw=true",
         "armas": [
             {
                 "id": "faca-grande",
                 "nome": "Faca Grande",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/facas/faca-grande-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "broquel",
                 "nome": "Broquel",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/broquel-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "arco-curto",
                 "nome": "Arco Curto",
+                "categoria": "armas-de-longo-alcance",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-curto-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -180,21 +209,25 @@
             {
                 "id": "mascara-de-bandido",
                 "nome": "Máscara de Bandido",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/mascara-de-bandido-icone.jpg?raw=true"
             },
             {
                 "id": "mangas-de-bandido",
                 "nome": "Mangas de Bandido",
+                "categoria": "bracos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/mangas-de-bandido-icone.jpg?raw=true"
             },
             {
                 "id": "traje-de-bandido",
                 "nome": "Traje de Bandido",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/traje-de-bandido-icone.jpg?raw=true"
             },
             {
                 "id": "botas-de-bandido",
                 "nome": "Botas de Bandido",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/botas-de-bandido-icone.jpg?raw=true"
             }
         ],
@@ -202,12 +235,14 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "flecha-ossea-com-penas",
                 "nome": "Flecha Óssea (Com Penas)",
+                "categoria": "flechas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/flechas/flecha-ossea-com-penas-icone.jpg?raw=true",
                 "quantidade": 30
             }
@@ -216,23 +251,27 @@
     {
         "id": 5,
         "nome": "Astrólogo",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/astrologo.jpg?raw=true",
         "armas": [
             {
                 "id": "cajado-de-astrologo",
                 "nome": "Cajado de Astrólogo",
+                "categoria": "cajados",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/cajados/cajado-de-astrologo-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "espada-curta",
                 "nome": "Espada Curta",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-curta-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "escudo-de-madeira-com-incricoes",
                 "nome": "Escudo de Madeira com Incrições",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-de-madeira-com-incricoes-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -241,21 +280,25 @@
             {
                 "id": "capuz-de-astrologo",
                 "nome": "Capuz de Astrólogo",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/capuz-de-astrologo-icone.jpg?raw=true"
             },
             {
                 "id": "luvas-de-astrologo",
                 "nome": "Luvas de astrólogo",
+                "categoria": "bracos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/luvas-de-astrologo-icone.jpg?raw=true"
             },
             {
                 "id": "robe-de-astrologo",
                 "nome": "Robe de astrólogo",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/robe-de-astrologo-icone.jpg?raw=true"
             },
             {
                 "id": "calcas-de-astrologo",
                 "nome": "Calças de astrólogo",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/calcas-de-astrologo-icone.jpg?raw=true"
             }
         ],
@@ -263,6 +306,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -271,23 +315,27 @@
     {
         "id": 6,
         "nome": "Profeta",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/profeta.jpg?raw=true",
         "armas": [
             {
                 "id": "lanca-curta",
                 "nome": "Lança Curta",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/lancas/lanca-curta-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "selo-de-dedo",
                 "nome": "Selo de Dedo",
+                "categoria": "selos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/selos/selo-de-dedo-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "escudo-precario",
                 "nome": "Escudo Precário",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-precario-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -296,16 +344,19 @@
             {
                 "id": "venda-de-profeta",
                 "nome": "Venda de Profeta",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/venda-de-profeta-icone.jpg?raw=true"
             },
             {
                 "id": "robe-de-profeta",
                 "nome": "Robe de Profeta",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/robe-de-profeta-icone.jpg?raw=true"
             },
             {
                 "id": "calcas-de-profeta",
                 "nome": "Calças de Profeta",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/calcas-de-profeta-icone.jpg?raw=true"
             }
         ],
@@ -313,6 +364,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -321,23 +373,27 @@
     {
         "id": 7,
         "nome": "Samurai",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/samurai.jpg?raw=true",
         "armas": [
             {
                 "id": "ushigatana",
                 "nome": "Ushigatana",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/ushigatana-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "arco-longo",
                 "nome": "Arco Longo",
+                "categoria": "armas-de-longo-alcance",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-longo-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "escudo-redondo-do-espinho-vermelho",
                 "nome": "Escudo Redondo do Espinho Vermelho",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-redondo-do-espinho-vermelho-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -346,21 +402,25 @@
             {
                 "id": "elmo-de-terra-dos-juncos",
                 "nome": "Elmo de Terra dos Juncos",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/elmo-de-terra-dos-juncos-icone.jpg?raw=true"
             },
             {
                 "id": "manoplas-da-terra-dos-juncos",
                 "nome": "Manoplas de Terra dos Juncos",
+                "categoria": "bracos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/manoplas-da-terra-dos-juncos-icone.jpg?raw=true"
             },
             {
                 "id": "armadura-da-terra-dos-juncos-leve",
                 "nome": "Armadura de Terra dos Juncos (Leve)",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/armadura-da-terra-dos-juncos-leve-icone.jpg?raw=true"
             },
             {
                 "id": "grevas-da-terra-dos-juncos",
                 "nome": "Grevas de Terra dos Juncos",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/grevas-da-terra-dos-juncos-icone.jpg?raw=true"
             }
         ],
@@ -368,18 +428,21 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "flecha",
                 "nome": "Flecha",
+                "categoria": "flechas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/flechas/flecha-icone.jpg?raw=true",
                 "quantidade": 20
             },
             {
                 "id": "flecha-de-fogo",
                 "nome": "Flecha de Fogo",
+                "categoria": "flechas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/flechas/flecha-de-fogo-icone.jpg?raw=true",
                 "quantidade": 10
             }
@@ -388,23 +451,27 @@
     {
         "id": 8,
         "nome": "Prisioneiro",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/prisioneiro.jpg?raw=true",
         "armas": [
             {
                 "id": "estoque",
                 "nome": "Estoque",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/estoque-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "cajado-pedrilhante",
                 "nome": "Cajado Pedrilhante",
+                "categoria": "cajados",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/cajados/cajado-pedrilhante-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "escudo-da-fenda",
                 "nome": "Escudo da Fenda",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-da-fenda-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -413,16 +480,19 @@
             {
                 "id": "mascara-de-ferro-de-prisioneiro",
                 "nome": "Máscara de Ferro de Prisioneiro",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/mascara-de-ferro-de-prisioneiro-icone.jpg?raw=true"
             },
             {
                 "id": "traje-de-prisioneiro",
                 "nome": "Traje de prisioneiro",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/traje-de-prisioneiro-icone.jpg?raw=true"
             },
             {
                 "id": "calcas-de-prisioneiro",
                 "nome": "Calças de prisioneiro",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/calcas-de-prisioneiro-icone.jpg?raw=true"
             }
         ],
@@ -430,6 +500,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -438,23 +509,27 @@
     {
         "id": 9,
         "nome": "Confessor",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/confessor.jpg?raw=true",
         "armas": [
             {
                 "id": "espada-larga",
                 "nome": "Espada Larga",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-larga-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "escudo-radiador-com-brasao-azul",
                 "nome": "Escudo Radiador com Brasão Azul",
+                "categoria": "escudos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-com-brasao-azul-icone.jpg?raw=true",
                 "quantidade": 1
             },
             {
                 "id": "selo-de-dedo",
                 "nome": "Selo de Dedo",
+                "categoria": "selos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/selos/selo-de-dedo-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -463,21 +538,25 @@
             {
                 "id": "capuz-de-confessor",
                 "nome": "Capuz de Confessor",
+                "categoria": "cabecas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/cabeca/capuz-de-confessor-icone.jpg?raw=true"
             },
             {
                 "id": "luvas-de-confessor",
                 "nome": "Luvas de Confessor",
+                "categoria": "bracos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/bracos/luvas-de-confessor-icone.jpg?raw=true"
             },
             {
                 "id": "traje-de-confessor",
                 "nome": "Traje de Confessor",
+                "categoria": "torsos",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/traje-de-confessor-icone.jpg?raw=true"
             },
             {
                 "id": "botas-de-confessor",
                 "nome": "Botas de Confessor",
+                "categoria": "pernas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/pernas/botas-de-confessor-icone.jpg?raw=true"
             }
         ],
@@ -485,6 +564,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -493,11 +573,13 @@
     {
         "id": 10,
         "nome": "Miserável",
+        "categoria": "classes",
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/miseravel.jpg?raw=true",
         "armas": [
             {
                 "id": "clava",
                 "nome": "Clava",
+                "categoria": "armas-corpo-a-corpo",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/martelos/clava-icone.jpg?raw=true",
                 "quantidade": 1
             }
@@ -507,6 +589,7 @@
             {
                 "id": "memoria-da-graca",
                 "nome": "Memória da Graça",
+                "categoria": "ferramentas",
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
                 "quantidade": 1
             }

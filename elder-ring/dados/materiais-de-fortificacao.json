@@ -2,10 +2,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-1",
         "nome": "Lírio do Vale de Túmulo [1]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +1.",
         "descricoes": {
             "textos": [
@@ -23,10 +20,6 @@
     {
         "id": "lirio-do-vale-de-tumulo-2",
         "nome": "Lírio do Vale de Túmulo [2]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
         "efeito": "Fortifica cinzas para +2.",
         "descricoes": {
             "textos": [
@@ -44,10 +37,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-3",
         "nome": "Lírio do Vale de Túmulo [3]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +3.",
         "descricoes": {
             "textos": [
@@ -65,10 +55,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-4",
         "nome": "Lírio do Vale de Túmulo [4]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +4.",
         "descricoes": {
             "textos": [
@@ -86,10 +73,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-5",
         "nome": "Lírio do Vale de Túmulo [5]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +5.",
         "descricoes": {
             "textos": [
@@ -107,10 +91,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-6",
         "nome": "Lírio do Vale de Túmulo [6]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +6.",
         "descricoes": {
             "textos": [
@@ -128,10 +109,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-7",
         "nome": "Lírio do Vale de Túmulo [7]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +7.",
         "descricoes": {
             "textos": [
@@ -149,10 +127,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-8",
         "nome": "Lírio do Vale de Túmulo [8]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +8.",
         "descricoes": {
             "textos": [
@@ -170,10 +145,7 @@
     {
         "id": "lirio-do-vale-de-tumulo-9",
         "nome": "Lírio do Vale de Túmulo [9]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +9.",
         "descricoes": {
             "textos": [
@@ -191,10 +163,7 @@
     {
         "id": "grande-lirio-do-vale-de-tumulo",
         "nome": "Grande Lírio do Vale de Túmulo",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas para +10.",
         "descricoes": {
             "textos": [
@@ -212,10 +181,7 @@
     {
         "id": "lirio-do-vale-fantasma-1",
         "nome": "Lírio do Vale Fantasma [1]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +1.",
         "descricoes": {
             "textos": [
@@ -233,10 +199,7 @@
     {
         "id": "lirio-do-vale-fantasma-2",
         "nome": "Lírio do Vale Fantasma [2]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +2.",
         "descricoes": {
             "textos": [
@@ -254,10 +217,7 @@
     {
         "id": "lirio-do-vale-fantasma-3",
         "nome": "Lírio do Vale Fantasma [3]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +3.",
         "descricoes": {
             "textos": [
@@ -275,10 +235,7 @@
     {
         "id": "lirio-do-vale-fantasma-4",
         "nome": "Lírio do Vale Fantasma [4]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +4.",
         "descricoes": {
             "textos": [
@@ -296,10 +253,7 @@
     {
         "id": "lirio-do-vale-fantasma-5",
         "nome": "Lírio do Vale Fantasma [5]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +5.",
         "descricoes": {
             "textos": [
@@ -317,10 +271,7 @@
     {
         "id": "lirio-do-vale-fantasma-6",
         "nome": "Lírio do Vale Fantasma [6]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +6.",
         "descricoes": {
             "textos": [
@@ -338,10 +289,7 @@
     {
         "id": "lirio-do-vale-fantasma-7",
         "nome": "Lírio do Vale Fantasma [7]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +7.",
         "descricoes": {
             "textos": [
@@ -359,10 +307,7 @@
     {
         "id": "lirio-do-vale-fantasma-8",
         "nome": "Lírio do Vale Fantasma [8]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +8.",
         "descricoes": {
             "textos": [
@@ -380,10 +325,7 @@
     {
         "id": "lirio-do-vale-fantasma-9",
         "nome": "Lírio do Vale Fantasma [9]",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +9.",
         "descricoes": {
             "textos": [
@@ -401,10 +343,7 @@
     {
         "id": "lirio-do-vale-fantasma-grande",
         "nome": "Lírio do Vale Fantasma Grande",
-        "tipo": {
-            "id": "material-de-fortificacao",
-            "nome": "Material de Fortificação"
-        },
+        "categoria": "materiais-de-fortificacao",
         "efeito": "Fortifica cinzas renomadas em +10.",
         "descricoes": {
             "textos": [

@@ -2,10 +2,7 @@
     {
         "id": "frasco-de-lagrimas-carmersins",
         "nome": "Frasco de Lágrimas Carmersins",
-        "tipo": {
-            "id": "ferramentas",
-            "nome": "Ferramentas"
-        },
+        "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Recupera PV.",
         "descricoes": [
@@ -29,6 +26,7 @@
     {
         "id": "frasco-de-lagrimas-ceruleas",
         "nome": "Frasco de Lágrimas Cerúleas",
+        "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Recupera PF.",
         "descricoes": [
@@ -52,6 +50,7 @@
     {
         "id": "elixir-magnifico",
         "nome": "Elixir Magnífico",
+        "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Concede vários efeitos especiais.",
         "descricoes": [
@@ -76,6 +75,7 @@
     {
         "id": "apito-de-corcel-espectral",
         "nome": "Apito de Corcel Espectral",
+        "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Invoca e monta Torrente, o corcel espectral.",
         "descricoes": [
@@ -99,6 +99,7 @@
     {
         "id": "arco-de-runa",
         "nome": "Arco de Runa",
+        "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Com o uso, concede a bênção de uma Grande Runa esquipada.",
         "descricoes": [
@@ -122,6 +123,7 @@
     {
         "id": "fragmentos-de-luz-estrelar",
         "nome": "Fragmentos de Luz Estrelar",
+        "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Use para recuperar o PF gradualmente.",
         "descricoes": [
@@ -145,6 +147,7 @@
     {
         "id": "memoria-da-graca",
         "nome": "Memória da Graça",
+        "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Perde todas as runas e retorna ao último local de graça perdida visitado.",
         "descricoes": [

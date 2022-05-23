@@ -2,6 +2,7 @@
     {
         "id": "espada-longa",
         "nome": "Espada Longa",
+        "categoria": "armas-corpo-a-corpo",
         "peso": 3.5,
         "descricoes": [
             "Uma espada reta com uma lâmina de dois gumes.",
@@ -63,6 +64,7 @@
     {
         "id": "alabarda",
         "nome": "Alabarda",
+        "categoria": "armas-corpo-a-corpo",
         "peso": 8.0,
         "descricoes": [
             "Uma longa arma de haste que combina as funções de machado e lança.",
@@ -124,6 +126,7 @@
     {
         "id": "cimitarra",
         "nome": "Cimitarra",
+        "categoria": "armas-corpo-a-corpo",
         "peso": 3.0,
         "descricoes": [
             "Uma espada curva com uma lâmina de um gume.",

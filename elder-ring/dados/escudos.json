@@ -2,6 +2,7 @@
     {
         "id": "escudo-radiador",
         "nome": "Escudo Radiador",
+        "categoria": "escudos",
         "peso": 3.5,
         "descricoes": [
             "Um escudo médio de metal, relativamente fácil de manejar.",
@@ -63,6 +64,7 @@
     {
         "id": "escudo-de-madeira-reforcado",
         "nome": "Escudo de Madeira Reforçado",
+        "categoria": "escudos",
         "peso": 2.0,
         "descricoes": [
             "Pequeno escudo redondo de mardeira reforçado com metal. Leve e fácil de manusear, mas não oferece a mesma negação de dado que um escudo de metal de verdade.",
@@ -124,6 +126,7 @@
     {
         "id": "escudo-de-couro-grande",
         "nome": "Escudo de Couro Grande",
+        "categoria": "escudos",
         "peso": 3.0,
         "descricoes": [
             "Um escudo redondo coberto com couro. Grande demais para um escudo padrão.",
@@ -247,6 +250,7 @@
     {
         "id": "escudo-de-madeira-com-incricoes-icone",
         "nome": "Escudo de Madeira com Incrições",
+        "categoria": "escudos",
         "peso": 1.5,
         "descricoes": [
             "Um pequeno escudo de madeira. Ele é leve e fávil de manusear, mas não oferece a mesma negação de dano de um escudo de metal.",
@@ -308,6 +312,7 @@
     {
         "id": "escudo-precario",
         "nome": "Escudo Precário",
+        "categoria": "escudos",
         "peso": 1.0,
         "descricoes": [
             "Um escudo de madeira velho de formato circular. Levemente reforçado com vinhas.",
@@ -369,6 +374,7 @@
     {
         "id": "escudo-redondo-do-espinho-vermelho",
         "nome": "Escudo Redondo do Espinho Vermelho",
+        "categoria": "escudos",
         "peso": 1.5,
         "descricoes": [
             "Um pequeno escudo de madeira. Ele é leve e fácil de usar, mas não oferece a mesma negação de dano de um escudo de metal.",
@@ -430,6 +436,7 @@
     {
         "id": "escudo-da-fenda",
         "nome": "Escudo da Fenda",
+        "categoria": "escudos",
         "peso": 2.0,
         "descricoes": [
             "Pequeno escudo redondo de ferro representando uma fenda sinistra.",
@@ -491,6 +498,7 @@
     {
         "id": "escudo-radiador-com-brasao-azul",
         "nome": "Escudo Radiador com Brasão Azul",
+        "categoria": "escudos",
         "peso": 3.5,
         "descricoes": [
             "Um escudo de metal de tamanho médio. Mais fácil de manejar que um escudo Gota.",
