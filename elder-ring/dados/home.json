@@ -1,6 +1,13 @@
 [
     [
         {
+            "id": "classes",
+            "rotulo": "Classes",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/classes/samurai-icone.jpg?raw=true" 
+        }
+    ],
+    [
+        {
             "id": "armas-corpo-a-corpo",
             "rotulo": "Armas Corpo a Corpo",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true" 
@@ -47,6 +54,11 @@
             "id": "itens-importantes",
             "rotulo": "Itens Importantes",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-icone.jpg?raw=true" 
+        },
+        {
+            "id": "materiais-de-fortificacao",
+            "rotulo": "Materiais de Fortificação",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-fortificacao/grande-lirio-do-vale-de-tumulo-icone.jpg?raw=true" 
         }     
     ]
 ]
