@@ -4,10 +4,12 @@
         "nome": "Escudo Radiador",
         "categoria": "escudos",
         "peso": 3.5,
-        "descricoes": [
-            "Um escudo médio de metal, relativamente fácil de manejar.",
-            "Escudos de metal são confiáveis, negando o dano físico recebido ao defender, uma característica que os tornou muito confiáveis no campo de batalha."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um escudo médio de metal, relativamente fácil de manejar.",
+                "Escudos de metal são confiáveis, negando o dano físico recebido ao defender, uma característica que os tornou muito confiáveis no campo de batalha."
+            ]
+        },
         "tipo": {
             "id": "escudo-medio",
             "nome": "Escudo Médio"
@@ -55,10 +57,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     },
     {
@@ -66,10 +70,12 @@
         "nome": "Escudo de Madeira Reforçado",
         "categoria": "escudos",
         "peso": 2.0,
-        "descricoes": [
-            "Pequeno escudo redondo de mardeira reforçado com metal. Leve e fácil de manusear, mas não oferece a mesma negação de dado que um escudo de metal de verdade.",
-            "O desenho rebitado ao centro represanta tanto a espada quanto a árvore."
-        ],
+        "descricoes": {
+            "textos": [
+                "Pequeno escudo redondo de mardeira reforçado com metal. Leve e fácil de manusear, mas não oferece a mesma negação de dado que um escudo de metal de verdade.",
+                "O desenho rebitado ao centro represanta tanto a espada quanto a árvore."
+            ]
+        },
         "tipo": {
             "id": "escudo-pequeno",
             "nome": "Escudo Pequeno"
@@ -117,10 +123,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     },
     {
@@ -128,10 +136,12 @@
         "nome": "Escudo de Couro Grande",
         "categoria": "escudos",
         "peso": 3.0,
-        "descricoes": [
-            "Um escudo redondo coberto com couro. Grande demais para um escudo padrão.",
-            "Apesar de sua redução de dano ser baixa comparada aos escudos de metal, esse escudo pode aguentar uma variedade maior de afinidades de ataque."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um escudo redondo coberto com couro. Grande demais para um escudo padrão.",
+                "Apesar de sua redução de dano ser baixa comparada aos escudos de metal, esse escudo pode aguentar uma variedade maior de afinidades de ataque."
+            ]
+        },
         "tipo": {
             "id": "escudo-medio",
             "nome": "Escudo médio"
@@ -179,10 +189,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     },
     {
@@ -252,10 +264,12 @@
         "nome": "Escudo de Madeira com Incrições",
         "categoria": "escudos",
         "peso": 1.5,
-        "descricoes": [
-            "Um pequeno escudo de madeira. Ele é leve e fávil de manusear, mas não oferece a mesma negação de dano de um escudo de metal.",
-            "Uma cifra antiga reveste a circunferência. Apesar de não ser muito, ele aumenta a negação de dano sagrado."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um pequeno escudo de madeira. Ele é leve e fávil de manusear, mas não oferece a mesma negação de dano de um escudo de metal.",
+                "Uma cifra antiga reveste a circunferência. Apesar de não ser muito, ele aumenta a negação de dano sagrado."
+            ]
+        },
         "tipo": {
             "id": "escudo-pequeno",
             "nome": "Escudo Pequeno"
@@ -303,10 +317,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     },
     {
@@ -314,10 +330,12 @@
         "nome": "Escudo Precário",
         "categoria": "escudos",
         "peso": 1.0,
-        "descricoes": [
-            "Um escudo de madeira velho de formato circular. Levemente reforçado com vinhas.",
-            "Há incontáveis escudos melhores disponíveis. Este pedaço de lico não vale o esforço feito para equipá-lo."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um escudo de madeira velho de formato circular. Levemente reforçado com vinhas.",
+                "Há incontáveis escudos melhores disponíveis. Este pedaço de lico não vale o esforço feito para equipá-lo."
+            ]
+        },
         "tipo": {
             "id": "escudo-pequeno",
             "nome": "Escudo Pequeno"
@@ -365,10 +383,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     },
     {
@@ -376,10 +396,12 @@
         "nome": "Escudo Redondo do Espinho Vermelho",
         "categoria": "escudos",
         "peso": 1.5,
-        "descricoes": [
-            "Um pequeno escudo de madeira. Ele é leve e fácil de usar, mas não oferece a mesma negação de dano de um escudo de metal.",
-            "Seu emblema é um desenho antigo de espinhos vemelhos. Apesar de não ser grande coisa, oferece maior negação de dano de fogo que a maioria dos escudos."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um pequeno escudo de madeira. Ele é leve e fácil de usar, mas não oferece a mesma negação de dano de um escudo de metal.",
+                "Seu emblema é um desenho antigo de espinhos vemelhos. Apesar de não ser grande coisa, oferece maior negação de dano de fogo que a maioria dos escudos."
+            ]
+        },
         "tipo": {
             "id": "escudo-pequeno",
             "nome": "Escudo Pequeno"
@@ -427,10 +449,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     },
     {
@@ -438,10 +462,12 @@
         "nome": "Escudo da Fenda",
         "categoria": "escudos",
         "peso": 2.0,
-        "descricoes": [
-            "Pequeno escudo redondo de ferro representando uma fenda sinistra.",
-            "Um amuleto antigo que encara o inimigo e aumenta o fogo."
-        ],
+        "descricoes": {
+            "textos": [
+                "Pequeno escudo redondo de ferro representando uma fenda sinistra.",
+                "Um amuleto antigo que encara o inimigo e aumenta o fogo."
+            ]
+        },
         "tipo": {
             "id": "escudo-pequeno",
             "nome": "Escudo Pequeno"
@@ -489,10 +515,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     },
     {
@@ -500,10 +528,12 @@
         "nome": "Escudo Radiador com Brasão Azul",
         "categoria": "escudos",
         "peso": 3.5,
-        "descricoes": [
-            "Um escudo de metal de tamanho médio. Mais fácil de manejar que um escudo Gota.",
-            "O brasão representa uma floresta e rio."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um escudo de metal de tamanho médio. Mais fácil de manejar que um escudo Gota.",
+                "O brasão representa uma floresta e rio."
+            ]
+        },
         "tipo": {
             "id": "escudo-medio",
             "nome": "Escudo Médio"
@@ -551,10 +581,12 @@
             "id": "aparagem",
             "nome": "Aparagem",
             "custoPf": "0",
-            "descricoes": [
-                "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
-                "Isso cria uma abertura para executar um ataque crítico."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Sincronize esta habilidade com o ataque inimigo para desviá-lo e quebrar a postura do adversário.",
+                    "Isso cria uma abertura para executar um ataque crítico."
+                ]
+            }
         }
     }
 ]

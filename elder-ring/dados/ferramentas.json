@@ -5,12 +5,14 @@
         "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Recupera PV.",
-        "descricoes": [
-            "Um frasco sagrado feito com base em um cálice dourado que já foi agraciado por uma lágrim da vida.",
-            "Cheio de lágrimas carmesins, este frasco restaura o PV.",
-            "Descanse em um local de graça para reabastecer.",
-            "Aquele que chegou ao cemitério estava fadado a morrer, até que este frasco ofereceu seu presente de rejuvenescimento. E uma visão do Anel Prístino."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um frasco sagrado feito com base em um cálice dourado que já foi agraciado por uma lágrim da vida.",
+                "Cheio de lágrimas carmesins, este frasco restaura o PV.",
+                "Descanse em um local de graça para reabastecer.",
+                "Aquele que chegou ao cemitério estava fadado a morrer, até que este frasco ofereceu seu presente de rejuvenescimento. E uma visão do Anel Prístino."
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/frasco-de-lagrimas-carmersins-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/frasco-de-lagrimas-carmersins-padrao.jpg?raw=true"
@@ -29,12 +31,14 @@
         "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Recupera PF.",
-        "descricoes": [
-            "Um frasco sagrado feito com base em um cálice dourado que já foi agraciado por uma lágrim da vida.",
-            "Cheio de lágrimas cerúleas, este frasco restaura o PF.",
-            "Descanse em um local de graça para reabastecer.",
-            "Aquele que chegou ao cemitério estava fadado a morrer, até que este frasco ofereceu seu presente de rejuvenescimento. E uma visão do Anel Prístino."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um frasco sagrado feito com base em um cálice dourado que já foi agraciado por uma lágrim da vida.",
+                "Cheio de lágrimas cerúleas, este frasco restaura o PF.",
+                "Descanse em um local de graça para reabastecer.",
+                "Aquele que chegou ao cemitério estava fadado a morrer, até que este frasco ofereceu seu presente de rejuvenescimento. E uma visão do Anel Prístino."
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/frasco-de-lagrimas-ceruleas-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/frasco-de-lagrimas-ceruleas-padrao.jpg?raw=true"
@@ -53,13 +57,15 @@
         "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Concede vários efeitos especiais.",
-        "descricoes": [
-            "Uma relíquia de químicos, sacerdotes da Térvore.",
-            "Ela aproveita os poderes das lágrimas de cristal, formadas apenas após muitas luas.",
-            "Vários efeitos especiais são concedidos a quem bebe, dependendo da mistura de lágrimas de cristal.",
-            "Descanse em um local de graça para reabastecer.",
-            "Dizem que, nas Terras Intermédias, piscinas de lágrimas de cristal se formam nas bases de Térvore Menores."
-        ],
+        "descricoes": {
+            "textos": [
+                "Uma relíquia de químicos, sacerdotes da Térvore.",
+                "Ela aproveita os poderes das lágrimas de cristal, formadas apenas após muitas luas.",
+                "Vários efeitos especiais são concedidos a quem bebe, dependendo da mistura de lágrimas de cristal.",
+                "Descanse em um local de graça para reabastecer.",
+                "Dizem que, nas Terras Intermédias, piscinas de lágrimas de cristal se formam nas bases de Térvore Menores."
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/elixir-magnifico-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/elixir-magnifico-padrao.jpg?raw=true"
@@ -78,12 +84,14 @@
         "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Invoca e monta Torrente, o corcel espectral.",
-        "descricoes": [
-            "Um anel delicado trabalho em ouro. Pode ser usado como um apito de dedo",
-            "Apite para invocar e montar o corcel espectral.",
-            "(Descmonta do corcel quando usado enquanto monta.)",
-            "Após a morte, o corcel espectal pode ser invocado novamente, mas um Frasco de Lágrimas Carmesins é consumido ao fazê-lo."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um anel delicado trabalho em ouro. Pode ser usado como um apito de dedo",
+                "Apite para invocar e montar o corcel espectral.",
+                "(Descmonta do corcel quando usado enquanto monta.)",
+                "Após a morte, o corcel espectal pode ser invocado novamente, mas um Frasco de Lágrimas Carmesins é consumido ao fazê-lo."
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/apito-de-corcel-espectral-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/apito-de-corcel-espectral-padrao.jpg?raw=true"
@@ -102,12 +110,14 @@
         "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Com o uso, concede a bênção de uma Grande Runa esquipada.",
-        "descricoes": [
-            "Um fragmento do Anel Prístino despedaçado",
-            "Ao ser usado, concede a bênção de uma Grande Runa esquipada.",
-            "Mesmo que nenhuma Grande Runa esteja equipada, aumenta um pouco o PV máximo ao ser usado.",
-            "Dizem que o arco mais baixo do Anel Prístino é a base na qual suas bênçãos se acumulam. Talvez este fragmento se origine daquele arco."
-        ],
+        "descricoes": {
+            "textos": [
+                "Um fragmento do Anel Prístino despedaçado",
+                "Ao ser usado, concede a bênção de uma Grande Runa esquipada.",
+                "Mesmo que nenhuma Grande Runa esteja equipada, aumenta um pouco o PV máximo ao ser usado.",
+                "Dizem que o arco mais baixo do Anel Prístino é a base na qual suas bênçãos se acumulam. Talvez este fragmento se origine daquele arco."
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/arco-de-runa-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/arco-de-runa-padrao.jpg?raw=true"
@@ -126,12 +136,14 @@
         "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Use para recuperar o PF gradualmente.",
-        "descricoes": [
-            "Um fragmento que emite um brilho azul pálido.",
-            "Os restos de um lampejo de luz estelar.",
-            "Use para recuperar o PF gradualmente.",
-            "Um item valioso que já foi usado, na Cidade Eterna, como um ingrediente em bebidas intoxicantes."            
-        ],
+        "descricoes": {
+            "textos": [
+                "Um fragmento que emite um brilho azul pálido.",
+                "Os restos de um lampejo de luz estelar.",
+                "Use para recuperar o PF gradualmente.",
+                "Um item valioso que já foi usado, na Cidade Eterna, como um ingrediente em bebidas intoxicantes."            
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/fragmentos-de-luz-estrelar-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/fragmentos-de-luz-estrelar-padrao.jpg?raw=true"
@@ -150,12 +162,14 @@
         "categoria": "ferramentas",
         "custoPf": "-",
         "efeito": "Perde todas as runas e retorna ao último local de graça perdida visitado.",
-        "descricoes": [
-            "A memória da primeria graça, que uma vez guiou antigos Maculados às Terras Intermédias.",
-            "Perde todas as runas e retorna ao último local de Graça no qual você descansou.",
-            "Tude se repete.",
-            "Contempe o Anel Prístino. Torne-se o Lorde Prístino."            
-        ],
+        "descricoes": {
+            "textos": [
+                "A memória da primeria graça, que uma vez guiou antigos Maculados às Terras Intermédias.",
+                "Perde todas as runas e retorna ao último local de Graça no qual você descansou.",
+                "Tude se repete.",
+                "Contempe o Anel Prístino. Torne-se o Lorde Prístino."            
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/memoria-da-graca-padrao.jpg?raw=true"

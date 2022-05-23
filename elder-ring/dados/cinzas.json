@@ -6,11 +6,13 @@
         "custoPv": "-",
         "custoPf": "100",
         "efeito": "Invoca o espírito de Engvall, Cavaleiro Banido.",
-        "descricoes": [
-            "Restos de cinzas nos quais os espíritos ainda habitam.",
-            "Use para invocar o espírito de Engvall, o Cavaleiro Banido.",
-            "Um dos dois cavaleiros apelidados de Asas da Tempestade. Apesar de seu banimento, ele rejeitou o convite do Lorde da Graça, preferindo cuidar de um castelo sem mestre por muitos anos, ganhando renome como um herói das periferias."
-        ],
+        "descricoes": {
+            "textos": [
+                "Restos de cinzas nos quais os espíritos ainda habitam.",
+                "Use para invocar o espírito de Engvall, o Cavaleiro Banido.",
+                "Um dos dois cavaleiros apelidados de Asas da Tempestade. Apesar de seu banimento, ele rejeitou o convite do Lorde da Graça, preferindo cuidar de um castelo sem mestre por muitos anos, ganhando renome como um herói das periferias."
+            ]
+        },
         "tipo": {
             "id": "lendaria",
             "nome": "Lendária"
@@ -27,11 +29,13 @@
         "custoPv": "-",
         "custoPf": "28",
         "efeito": "Invoca cinco espíritos de nobres errantes.",
-        "descricoes": [
-            "Restos de cinzas nos quais os espíritos ainda habitam.",
-            "Use para invocar os espíritos de cinco nobres errantes.",
-            "Os espíritos de nobre que, após a morte, agora vagam pelas Terras Intermédias. Certamente eles buscavam algo... Mas o que quer que tenha sido, há muito foi esquecido."
-        ],
+        "descricoes": {
+            "textos": [
+                "Restos de cinzas nos quais os espíritos ainda habitam.",
+                "Use para invocar os espíritos de cinco nobres errantes.",
+                "Os espíritos de nobre que, após a morte, agora vagam pelas Terras Intermédias. Certamente eles buscavam algo... Mas o que quer que tenha sido, há muito foi esquecido."
+            ]
+        },
         "tipo": {
             "id": "normal",
             "nome": "Normal"
@@ -48,12 +52,14 @@
         "custoPv": "-",
         "custoPf": "11",
         "efeito": "Invoca espírito de feiticeiro nobre.",
-        "descricoes": [
-            "Restos de cinzas nos quais os espíritos ainda habitam.",
-            "Use para invocar o espírito de um nobre feiticeiro.",
-            "Espírito de um nobre que certa vez pediu por uma vaga em Raya Lucaria para aprender feitiçaria pedrilhante.",
-            "Porém, seus talentos não foram o bastante para garantir a máscara de pedra, e ele só é capaz de usar feitiços mais rudimentares."
-        ],
+        "descricoes": {
+            "textos": [
+                "Restos de cinzas nos quais os espíritos ainda habitam.",
+                "Use para invocar o espírito de um nobre feiticeiro.",
+                "Espírito de um nobre que certa vez pediu por uma vaga em Raya Lucaria para aprender feitiçaria pedrilhante.",
+                "Porém, seus talentos não foram o bastante para garantir a máscara de pedra, e ele só é capaz de usar feitiços mais rudimentares."
+            ]
+        },
         "tipo": {
             "id": "normal",
             "nome": "Normal"
@@ -70,11 +76,13 @@
         "custoPv": "-",
         "custoPf": "40",
         "efeito": "Invoca quatro espíritos de cadáveres pútridos.",
-        "descricoes": [
-            "Restos de cinzas nos quais os espíritos ainda habitam.",
-            "Use para invocar espíritos de quatro cadáveres apodrecidos.",
-            "Esses espíritos aparecem a uma certa distância do invocador. Apesar de seus movimentos lentos e confusos, seus gemidos baixos os tornam úteis para atrair a atenção de inimigos. A morte verdadeira não chega facilmente para eles."
-        ],
+        "descricoes": {
+            "textos": [
+                "Restos de cinzas nos quais os espíritos ainda habitam.",
+                "Use para invocar espíritos de quatro cadáveres apodrecidos.",
+                "Esses espíritos aparecem a uma certa distância do invocador. Apesar de seus movimentos lentos e confusos, seus gemidos baixos os tornam úteis para atrair a atenção de inimigos. A morte verdadeira não chega facilmente para eles."
+            ]
+        },
         "tipo": {
             "id": "normal",
             "nome": "Normal"

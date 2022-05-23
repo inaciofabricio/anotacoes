@@ -4,11 +4,13 @@
         "nome": "Arco Curto",
         "categoria": "armas-de-longo-alcance",
         "peso": 2.5,
-        "descricoes": [
-            "Pequeno arco feito para disparar flechas em longas distâncias.",
-            "Além de sua capacidade de disparar um rápida sucessão, também é adequado para uso a cavalo.",
-            "Para usar um arco, as flechas também devem ser equipadas."
-        ],
+        "descricoes": {
+            "textos": [
+                "Pequeno arco feito para disparar flechas em longas distâncias.",
+                "Além de sua capacidade de disparar um rápida sucessão, também é adequado para uso a cavalo.",
+                "Para usar um arco, as flechas também devem ser equipadas."
+            ]
+        },
         "tipo": {
             "id": "arco-leve",
             "nome": "Arco Leve"
@@ -57,10 +59,12 @@
             "id": "barragem",
             "nome": "Barragem",
             "custoPf": "2",
-            "descricoes": [
-                "Habilidade de arco e flecha que usa um arco segurado horizontalmente.",
-                "Prepara o arco e, mais rápido do que o olho pode ver, dispara uma rápida sucessão de flechas."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Habilidade de arco e flecha que usa um arco segurado horizontalmente.",
+                    "Prepara o arco e, mais rápido do que o olho pode ver, dispara uma rápida sucessão de flechas."
+                ]
+            }
         }
     },
     {
@@ -121,10 +125,12 @@
             "id": "disparo-poderoso",
             "nome": "Disparo Poderoso",
             "custoPf": "6",
-            "descricoes": [
-                "Habilidade de arco e flecha executada em uma postura oblíqua.",
-                "Prepara o arco e puxa a corda ao limite para aumentar a força do disparo, que penetra a guarda do inimigo."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Habilidade de arco e flecha executada em uma postura oblíqua.",
+                    "Prepara o arco e puxa a corda ao limite para aumentar a força do disparo, que penetra a guarda do inimigo."
+                ]
+            }
         }
     }
 ]

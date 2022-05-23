@@ -4,12 +4,14 @@
         "nome": "Armadura de Cavaleiro Errante",
         "categoria": "torsos",
         "peso": 10.6,
-        "descricoes": [
-            "Peitoral da armadura de um cavaleiro banido de sua pátria.",
-            "Sujo e surrado depois de enfrentar um longa jornada errante.",
-            "O brasão adornado na frente está gasto e sujo, e não é mais capaz de evocar sentimentos.",
-            "A armadura de metal é pesada, mas também resistente, oferecendo negação de dano considerável."
-        ],
+        "descricoes": {
+            "textos": [
+                "Peitoral da armadura de um cavaleiro banido de sua pátria.",
+                "Sujo e surrado depois de enfrentar um longa jornada errante.",
+                "O brasão adornado na frente está gasto e sujo, e não é mais capaz de evocar sentimentos.",
+                "A armadura de metal é pesada, mas também resistente, oferecendo negação de dano considerável."
+            ]
+        },
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/armadura-de-cavaleiro-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armaduras/torso/armadura-de-cavaleiro-errante-padrao.jpg?raw=true"

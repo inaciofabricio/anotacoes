@@ -4,10 +4,12 @@
         "nome": "Espada Longa",
         "categoria": "armas-corpo-a-corpo",
         "peso": 3.5,
-        "descricoes": [
-            "Uma espada reta com uma lâmina de dois gumes.",
-            "Além de seu dano padrão facilmente infligido, esta arma também realiza poderosos ataques perfurantes. Uma arma muito bem equilibrada"
-        ],
+        "descricoes": {
+            "textos": [
+                "Uma espada reta com uma lâmina de dois gumes.",
+                "Além de seu dano padrão facilmente infligido, esta arma também realiza poderosos ataques perfurantes. Uma arma muito bem equilibrada"
+            ]
+        },
         "tipo": {
             "id": "espada-reta",
             "nome": "Espada Reta"
@@ -55,10 +57,12 @@
             "id": "enfrentar",
             "nome": "Enfrentar",
             "custoPf": "6",
-            "descricoes": [
-                "Esta habilidade começa com a espada seguranda horizontalmente.",
-                "Prossiga com um ataque normal para realizar um corte ascendente pela guarda do inimigo ou com um ataque forte para executar uma corrida com estocada."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Esta habilidade começa com a espada seguranda horizontalmente.",
+                    "Prossiga com um ataque normal para realizar um corte ascendente pela guarda do inimigo ou com um ataque forte para executar uma corrida com estocada."
+                ]
+            }
         }
     },
     {
@@ -66,10 +70,12 @@
         "nome": "Alabarda",
         "categoria": "armas-corpo-a-corpo",
         "peso": 8.0,
-        "descricoes": [
-            "Uma longa arma de haste que combina as funções de machado e lança.",
-            "Ela Permite ataques perfurantes contínuos contra um único inimigo ou golpes em arco contra grupos, tirando vantagem de seu grande alcance e lâmiba afiada. Uma arma versátil para qualquer situação."
-        ],
+        "descricoes": {
+            "textos": [
+                "Uma longa arma de haste que combina as funções de machado e lança.",
+                "Ela Permite ataques perfurantes contínuos contra um único inimigo ou golpes em arco contra grupos, tirando vantagem de seu grande alcance e lâmiba afiada. Uma arma versátil para qualquer situação."
+            ]
+        },
         "tipo": {
             "id": "alabarda",
             "nome": "alabarda"
@@ -117,10 +123,12 @@
             "id": "investida-frontal",
             "nome": "Investida Frontal",
             "custoPf": "16",
-            "descricoes": [
-                "Realiza uma investida frontal rápida, com a arma na altura do quadril, carregando o ímpeto em uma estocada",
-                "Segure para cobrir uma distância maior."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Realiza uma investida frontal rápida, com a arma na altura do quadril, carregando o ímpeto em uma estocada",
+                    "Segure para cobrir uma distância maior."
+                ]
+            }
         }
     },
     {
@@ -128,11 +136,13 @@
         "nome": "Cimitarra",
         "categoria": "armas-corpo-a-corpo",
         "peso": 3.0,
-        "descricoes": [
-            "Uma espada curva com uma lâmina de um gume.",
-            "Possibilita ataques cortantes com sua lâmina afiada, mas é ineficaz contra armaduras grossas e escamas resistentes.",
-            "Menor do que a maioria das espadas curvas, ela entalha os inimigos com cortes rápidos."
-        ],
+        "descricoes": {
+            "textos": [
+                "Uma espada curva com uma lâmina de um gume.",
+                "Possibilita ataques cortantes com sua lâmina afiada, mas é ineficaz contra armaduras grossas e escamas resistentes.",
+                "Menor do que a maioria das espadas curvas, ela entalha os inimigos com cortes rápidos."
+            ]
+        },
         "tipo": {
             "id": "espada-curva",
             "nome": "Espada Curva"
@@ -180,10 +190,12 @@
             "id": "corte-giratório",
             "nome": "Corte Giratório",
             "custoPf": "6",
-            "descricoes": [
-                "Uma habilidade adorada pelo guerreiros hábeis.",
-                "Corta os inimigos enquanto o próprio corpo gira. Um comando adicional executa um ataque subsequente."
-            ]
+            "descricoes": {
+                "textos": [
+                    "Uma habilidade adorada pelo guerreiros hábeis.",
+                    "Corta os inimigos enquanto o próprio corpo gira. Um comando adicional executa um ataque subsequente."
+                ]
+            }
         }
     }
 ]
