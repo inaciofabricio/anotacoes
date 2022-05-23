@@ -1,0 +1,36 @@
+[
+    [
+        {
+            "id": "armas-corpo-a-corpo",
+            "rotulo": "Armas Corpo a Corpo",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true" 
+        },
+        {
+            "id": "armas-de-longo-alcance",
+            "rotulo": "Armas de Longo Alcance",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-curto-icone.jpg?raw=true" 
+        },
+        {
+            "id": "escudos",
+            "rotulo": "Escudos",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-com-brasao-azul-icone.jpg?raw=true" 
+        }        
+    ],
+    [
+        {
+            "id": "armas-corpo-a-corpo",
+            "rotulo": "Armas Corpo a Corpo",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/espadas/espada-longa-icone.jpg?raw=true" 
+        },
+        {
+            "id": "armas-de-longo-alcance",
+            "rotulo": "Armas de Longo Alcance",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/arcos/arco-curto-icone.jpg?raw=true" 
+        },
+        {
+            "id": "escudos",
+            "rotulo": "Escudos",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/armas/escudos/escudo-radiador-com-brasao-azul-icone.jpg?raw=true" 
+        }        
+    ] 
+]
