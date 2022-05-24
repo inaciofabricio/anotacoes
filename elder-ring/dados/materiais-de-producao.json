@@ -1,0 +1,104 @@
+[
+    {
+        "id": "erva",
+        "nome": "Erva",
+        "categoria": "materiais-de-producao",
+        "efeito": "Material usado para produzir itens.",
+        "obter": "Encontrado em matas e outros lugares.",
+        "descricoes": {
+            "textos": [
+                "Folhas perenes que geram um luz fraca.",
+                "Essa planta medicinal muito comum pode ser encontrada em matagais e outros lugares."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "erva-do-orvalho-noturno",
+        "nome": "Erva do Orvalho Noturno",
+        "categoria": "materiais-de-producao",
+        "efeito": "Material usado para produzir itens.",
+        "obter": "Encontrado na Cidade Eterna e seus arredores.",
+        "descricoes": {
+            "textos": [
+                "Uma planta que cresce na noite falsa dentro e fora da Cidade Eterna.",
+                "Embebida em orvalho arcano, ela libera o briloh fraco das estrelas."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-do-orvalho-noturno-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-do-orvalho-noturno-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "ovario-de-polvo-terrestre",
+        "nome": "Ovário de Polvo Terrestre",
+        "categoria": "materiais-de-producao",
+        "efeito": "Material usado para produzir itens.",
+        "obter": "Encontrado ao caçar polvos terrestres.",
+        "descricoes": {
+            "textos": [
+                "Ovários cor de leite e inchados de um polvo terrestre.",
+                "Para conceberem suas crias, polvos terrestres se alimentam de humanos. É deles o sangue que corre por estes ovários."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/ovario-de-polvo-terrestre-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/ovario-de-polvo-terrestre-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "cabeca-de-libelula-gigante",
+        "nome": "Cabeça de Libelula Gigante",
+        "categoria": "materiais-de-producao",
+        "efeito": "Material usado para produzir itens.",
+        "obter": "Encontrado ao caçar libélulas grandes.",
+        "descricoes": {
+            "textos": [
+                "Cabeça de uma libélula grande",
+                "Há muito tempo acredi-se que este item é capaz de neutralizar poções."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/cabeca-de-libelula-gigante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/cabeca-de-libelula-gigante-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "musgo-de-caverna",
+        "nome": "Musgo de Caverna",
+        "categoria": "materiais-de-producao",
+        "efeito": "Material usado para produzir itens.",
+        "obter": "Emite uma luz pálida em cavernas escuras.",
+        "descricoes": {
+            "textos": [
+                "Musgo levemente luminescente que cresce em cavernas escuras.",
+                "Ingrediente fundamental para bolus medicinais."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "musgo-de-caverna-de-cristal",
+        "nome": "Musgo de Caverna de Cristal",
+        "categoria": "materiais-de-producao",
+        "efeito": "Material usado para produzir itens.",
+        "obter": "Emite uma luz pálida em cavernas escuras.",
+        "descricoes": {
+            "textos": [
+                "Musgo levemente luminescente que cresce em cavernas escuras, junto de belos cristais.",
+                "Entre os tipos de musgo, este possui propriedades medicinais únicas."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-de-cristal-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-de-cristal-padrao.jpg?raw=true"
+        }
+    }
+]

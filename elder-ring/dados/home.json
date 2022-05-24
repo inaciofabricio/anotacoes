@@ -72,6 +72,23 @@
     ],
     [
         {
+            "id": "feiticos",
+            "rotulo": "Feitiços",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/bolido-escuro-icone.jpg?raw=true" 
+        },
+        {
+            "id": "encantamentos",
+            "rotulo": "Encantamentos",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/rugido-de-greyoll-icone.jpg?raw=true" 
+        }        
+    ],
+    [
+        {
+            "id": "ferramentas",
+            "rotulo": "Ferramentas",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/frasco-de-lagrimas-carmersins-icone.jpg?raw=true" 
+        },
+        {
             "id": "itens-importantes",
             "rotulo": "Itens Importantes",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/itens-importantes/sino-do-catador-de-lirio-do-vale-icone.jpg?raw=true" 
@@ -80,6 +97,11 @@
             "id": "materiais-de-fortificacao",
             "rotulo": "Materiais de Fortificação",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-fortificacao/grande-lirio-do-vale-de-tumulo-icone.jpg?raw=true" 
-        }     
+        },
+        {
+            "id": "materiais-de-producao",
+            "rotulo": "Materiais de Produção",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true" 
+        }       
     ]
 ]

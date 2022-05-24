@@ -1,0 +1,264 @@
+[
+    {
+        "id": "calhau-pedrilhante",
+        "nome": "Calhau Pedrilhante",
+        "categoria": "feiticos",
+        "custoPf": 7,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Dispara projéteis de pedrilhante.",
+        "descricoes": {
+            "textos": [
+                "A feitiçaria pedrilhante mais básica da Academia de Raya Lucaria.",
+                "A pedrilhante serve como um conduto, lançado projéteis mágicos em inimigos.",
+                "Este feitiço poder ser lançado repetidamente, mesmo em movimento.",
+                "Este é um primeiro passo universal na jornada de verdadeiro conhecimento da feitiçaria."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 10,
+            "fe": 0,
+            "arc": 0
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/calhau-pedrilhante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/calhau-pedrilhante-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "fragmento-pedrilhante-veloz",
+        "nome": "Fragmento Pedrilhante Veloz",
+        "categoria": "feiticos",
+        "custoPf": 12,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Rapidamente dispara projéteis de pedrilhante.",
+        "descricoes": {
+            "textos": [
+                "Uma das feitiçarias pedrilhante da Academia de Raya Lucaria.",
+                "A pedrilhante serve como um conduto, lançado projéteis mágicos em inimigos.",
+                "Este feitiço poder ser sem atraso após realizar outra ação.",
+                "Aqueles indignos da coroa de pedra tipicamente terminam suas breves jornadas de feitiçaria aqui."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 12,
+            "fe": 0,
+            "arc": 0
+        },                
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/fragmento-pedrilhante-veloz-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/fragmento-pedrilhante-veloz-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "grande-fragmento-pedrilhante",
+        "nome": "Grande Fragmento Pedrilhante",
+        "categoria": "feiticos",
+        "custoPf": 12,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Dispara projéteis maiores de pedrilhante.",
+        "descricoes": {
+            "textos": [
+                "Uma das feitiçarias pedrilhante da Academia de Raya Lucaria.",
+                "A pedrilhante serve como um conduto, lançado projéteis mágicos em inimigos.",
+                "Este feitiço poder ser lançado repetidamente, mesmo em movimento.",
+                "Aqueles indignos da coroa de pedra tipicamente terminam suas breves jornadas de feitiçaria aqui."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 16,
+            "fe": 0,
+            "arc": 0
+        },                
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/grande-fragmento-pedrilhante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/grande-fragmento-pedrilhante-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "fragmento-de-cometa-pedrilhante",
+        "nome": "Fragmento de Cometa Pedrilhante",
+        "categoria": "feiticos",
+        "custoPf": 19,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Dispara um cometa mágico com uma cauda.",
+        "descricoes": {
+            "textos": [
+                "Uma das feitiçarias pedrilhante da Academia de Raya Lucaria.",
+                "Este feitiço poder ser lançado repetidamente, mesmo em movimento.",
+                "Carregar aumenta sua potência.",
+                "Um feitiço do Conspecto de Karolos, o mais venerável da Academia."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 36,
+            "fe": 0,
+            "arc": 0
+        },                
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/fragmento-de-cometa-pedrilhante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/fragmento-de-cometa-pedrilhante-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "cometa",
+        "nome": "Cometa",
+        "categoria": "feiticos",
+        "custoPf": 26,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Dispara um cometa mágico grande.",
+        "descricoes": {
+            "textos": [
+                "Uma das feitiçarias pedrilhante da Academia de Raya Lucaria.",
+                "Este feitiço poder ser lançado repetidamente, mesmo em movimento.",
+                "Carregar aumenta sua potência.",
+                "O maior dos feitiços do Conspecto de Karolos, que apenas alguns feiticeiros dominaram até hoje."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 52,
+            "fe": 0,
+            "arc": 0
+        },                
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cometa-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cometa-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "bolido-escuro",
+        "nome": "Bólido Escuro",
+        "categoria": "feiticos",
+        "custoPf": 40,
+        "espacos": 3,
+        "tipo": {
+            "id": "lendaria",
+            "nome": "Lendária"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Dispara um grande cometa sombrio dentro de uma torrente.",
+        "descricoes": {
+            "textos": [
+                "Feitiçaria lendária elaborada por Azur, o Feiticeiro Primevo.",
+                "Dispara um cometa enorme em uma torrente semelhante à expansão estrelada distante, o local que, segundo crenças, é a origem dos pedrilhantes.",
+                "Segue para continuar liberando o poder da feitiçaria.",
+                "Quando Azur vislumbrou a corrente primeva, ele viu a escuridão. Ele ficou temeroso e enfeitiçado pelo abismo."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 60,
+            "fe": 0,
+            "arc": 0
+        },                
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/bolido-escuro-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/bolido-escuro-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "pleiades",
+        "nome": "Plêiades",
+        "categoria": "feiticos",
+        "custoPf": 38,
+        "espacos": 1,
+        "tipo": {
+            "id": "lendaria",
+            "nome": "Lendária"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Dispara doze estrelas cadentes sombrias que perseguem os inimigos.",
+        "descricoes": {
+            "textos": [
+                "Feitiçaria de Lusat, um dos feiticeiros primevos.",
+                "Dispara doze estrelas cadentes escuras que perseguem o alvo. Este feitiço pode ser lançado em movimento. Carregar aumenta seu potência.",
+                "Quando Lusat vislumbrou a corrente primeva, ele foi testemunha dos momentos finais de um grande aglomerado estelar e, depois dessa visão, ele também se quebrou."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 43,
+            "fe": 0,
+            "arc": 0
+        },                
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/pleiades-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/pleiades-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "chuva-de-estrelas-fundadora",
+        "nome": "Chuva de Wstrelas Fundadora",
+        "categoria": "feiticos",
+        "custoPf": 32,
+        "espacos": 2,
+        "tipo": {
+            "id": "lendaria",
+            "nome": "Lendária"
+        },
+        "subTipo": {
+            "id": "pedrilhante",
+            "nome": "Pedrilhante"
+        },
+        "efeito": "Libera uma chuva de estrelas por um tempo.",
+        "descricoes": {
+            "textos": [
+                "A fitiçaria primeva mais velha. DIzem que foi descoberta por um astrólogo antigo. Um feitiço considerado lendário.",
+                "Invoa uma escura nuvem de estrelas acima. Pouco depois, a nuvem liberará um dilúvio de chuva estelar. Esta feitiçaria pode ser lançada em movimento. Carregar aumenta a potência.",
+                "Acredita-se que seja o primeiro dos feitiços pedrilhantes. O vislumbre da corrente primeva vista por um astrólogo virou realidade e o âmbar das estrelas choveu nestas terras."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 52,
+            "fe": 0,
+            "arc": 0
+        },                
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/chuva-de-estrelas-fundadora-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/chuva-de-estrelas-fundadora-padrao.jpg?raw=true"
+        }
+    }
+]

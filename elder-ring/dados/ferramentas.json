@@ -181,5 +181,186 @@
             "fe": "-",
             "arc": "-"
         }
+    },
+    {
+        "id": "bolus-neutralizante",
+        "nome": "Bolus Neutralizante",
+        "categoria": "ferramentas",
+        "custoPf": "-",
+        "efeito": "Alivia o acúmulo de veneno e cura o envenenamento.",
+        "descricoes": {
+            "textos": [
+                "Boulos verdes feitos de musgo de caverna.",
+                "O envenenamento se acumula aos poucos, entrando em efeito quando o limite for atingido. O envenenamento diminui o PV de forma constante por um tempo.",
+                "Item produzível, para produzir são necessários os itens abaixo:"            
+            ],
+            "itens": [
+                {
+                    "id": "erva",
+                    "nome": "1x Erva",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true"
+                },
+                {
+                    "id": "musgo-de-caverna",
+                    "nome": "1x Musgo de Caverna",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-icone.jpg?raw=true"
+                },
+                {
+                    "id": "cabeca-de-libelula-gigante",
+                    "nome": "1x Cabeça de Libelula Gigante",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/cabeca-de-libelula-gigante-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-padrao.jpg?raw=true"
+        },
+        "bonusDeAtributo" : {
+            "for": "-",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        }
+    },
+    {
+        "id": "bolus-da-preservacao",
+        "nome": "Bolus da Preservação",
+        "categoria": "ferramentas",
+        "custoPf": "-",
+        "efeito": "Alivia a podridão escarlate e cura a doença da podridão.",
+        "descricoes": {
+            "textos": [
+                "Boulos escarlates feitos com musgo de caverna.",
+                "Podridão escarlate acumula gradualmente, entrando em efeito quando o limite for atingido. A podridão escarlate dimunui vastamente o PV de forma constante por um tempo.",
+                "Item produzível, para produzir são necessários os itens abaixo:"            
+            ],
+            "itens": [
+                {
+                    "id": "erva-de-orvalho-noturno",
+                    "nome": "2x Erva de Orvalho Noturno",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-de-orvalho-noturno-icone.jpg?raw=true"
+                },
+                {
+                    "id": "musgo-de-caverna-de-cristal",
+                    "nome": "1x Musgo de Caverna de Cristal",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-de-cristal-icone.jpg?raw=true"
+                },
+                {
+                    "id": "broto-sacramental",
+                    "nome": "1x Broto Sacramental",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/broto-sacramental-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-da-preservacao-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-da-preservacao-padrao.jpg?raw=true"
+        },
+        "bonusDeAtributo" : {
+            "for": "-",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        }
+    },
+    {
+        "id": "bolus-hemostatico",
+        "nome": "Bolus Hemostático",
+        "categoria": "ferramentas",
+        "custoPf": "-",
+        "efeito": "Alivia a perda de sangue iminente.",
+        "descricoes": {
+            "textos": [
+                "Boulos vermelhos feitos de musgo de caverna.",
+                "Uma hemorragia se desenvolve aos poucos, causando muito dano quando o limite é atingido. Tome um desses bolus em tempo hábil para evitar que isso aconteça.",
+                "Item produzível, para produzir são necessários os itens abaixo:"            
+            ],
+            "itens": [
+                {
+                    "id": "erva",
+                    "nome": "1x Erva",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true"
+                },
+                {
+                    "id": "musgo-de-caverna",
+                    "nome": "1x Musgo de Caverna",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-icone.jpg?raw=true"
+                },
+                {
+                    "id": "ovario-de-polvo-terrestre",
+                    "nome": "1x Ovário de Polvo Terrestre",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/ovario-de-polvo-terrestre-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-hemostatico-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-hemostatico-padrao.jpg?raw=true"
+        },
+        "bonusDeAtributo" : {
+            "for": "-",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        }
+    },
+    {
+        "id": "bolus-de-descongelamento",
+        "nome": "Bolus de Descongelamento",
+        "categoria": "ferramentas",
+        "custoPf": "-",
+        "efeito": "Alivia o acúmulo de gelo e cura a condição de congelamento.",
+        "descricoes": {
+            "textos": [
+                "Boulos cor de gelo feitos com musgo de caverna.",
+                "O gelo acumula aos poucos, causando dano e infligindo congelamento quando o limite é atingido.",
+                "A vulnerabilidade a danos aumenta por uma certa duração.",
+                "Item produzível, para produzir são necessários os itens abaixo:"            
+            ],
+            "itens": [
+                {
+                    "id": "erva",
+                    "nome": "1x Erva",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true"
+                },
+                {
+                    "id": "musgo-de-caverna",
+                    "nome": "1x Musgo de Caverna",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-icone.jpg?raw=true"
+                },
+                {
+                    "id": "ovos-de-caranguejo",
+                    "nome": "1x Ovos de Caranguejo",
+                    "categoria": "materiais-de-producao",
+                    "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/ovos-de-caranguejo-icone.jpg?raw=true"
+                }
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-de-descongelamento-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-de-descongelamento-padrao.jpg?raw=true"
+        },
+        "bonusDeAtributo" : {
+            "for": "-",
+            "des": "-",
+            "int": "-",
+            "fe": "-",
+            "arc": "-"
+        }
     }
 ]

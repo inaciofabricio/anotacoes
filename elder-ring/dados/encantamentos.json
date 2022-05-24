@@ -1,0 +1,133 @@
+[
+    {
+        "id": "cura-urgente",
+        "nome": "Cura Urgente",
+        "categoria": "encantamentos",
+        "custoPf": 16,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "dois-dedos",
+            "nome": "Dois Dedos"
+        },
+        "efeito": "Cura uma pequena quantidade de PV.",
+        "descricoes": {
+            "textos": [
+                "Encantamento dos fiéis dos Dois Dedos.",
+                "Cura uma pequena quantidade de PV",
+                "Os Dois Dedos têm muita esperança nos Maculados e acreditam que eles vão continuar lutando pelo seu dever, mesmo que sejam feridos ou derrotados."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 0,
+            "fe": 8,
+            "arc": 0
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-urgente-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-urgente-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "cura",
+        "nome": "Cura",
+        "categoria": "encantamentos",
+        "custoPf": 32,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "dois-dedos",
+            "nome": "Dois Dedos"
+        },
+        "efeito": "Cura PV do usuário e de seus aliados próximos.",
+        "descricoes": {
+            "textos": [
+                "Um encantamento ensinado pelas donzalas da Leitora de Dedos.",
+                "Cura PV do usuário e de aliados próximos.",
+                "As donzelas servem o Dois Dedos guiando os Maculados para a graça, seguindo a sua poderosa vontade."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 0,
+            "fe": 12,
+            "arc": 0
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "regeneracao-do-lorde",
+        "nome": "Regeneração do Lorde",
+        "categoria": "encantamentos",
+        "custoPf": 55,
+        "espacos": 1,
+        "tipo": {
+            "id": "normal",
+            "nome": "Normal"
+        },
+        "subTipo": {
+            "id": "dois-dedos",
+            "nome": "Dois Dedos"
+        },
+        "efeito": "Cura o PV do usuário e de seus aliados próximos massivamente.",
+        "descricoes": {
+            "textos": [
+                "Encantamento concedido pelos Dois Dedos ao Maculado considerado digno de se tornar lorde.",
+                "Cura uma enorme quantidade de PV do usuário e aliados próximos.",
+                "Segure para continuar rezando e atrasar ativação.",
+                "Maculado - Ó, Maculodo! Busque a Térvore e se apresente a Marika, sua Rainha. Torne-se o Lorde Prístino."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 0,
+            "fe": 20,
+            "arc": 0
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/regeneracao-do-lorde-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/regeneracao-do-lorde-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "rugido-de-greyoll",
+        "nome": "Rugido de Greyoll",
+        "categoria": "encantamentos",
+        "custoPf": 62,
+        "espacos": 2,
+        "tipo": {
+            "id": "lendario",
+            "nome": "Lendário"
+        },
+        "subTipo": {
+            "id": "comunhado-do-dragao",
+            "nome": "Comunhado do Dragão"
+        },
+        "efeito": "Emite o rugido da Dragoa Anciã Greyoll.",
+        "descricoes": {
+            "textos": [
+                "Encantamento superior da Comunhado do Dragão.",
+                "Canaliza o poder de Greyoll, a Dragoa Anciã.",
+                "Um encantamento considerado lendário.",
+                "Transforma o usuário em um dragão para emitir um rugido terrível, reduzindo o poder de ataque e defesa de inimigos próximos.",
+                "Greyoll era a mãe de todos os dragões, impondo-se sobre todos que ficavam diante dela como uma montanha."
+            ]
+        },
+        "atributosNecessarios" : {
+            "int": 0,
+            "fe": 28,
+            "arc": 17
+        },        
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/rugido-de-greyoll-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/rugido-de-greyoll-padrao.jpg?raw=true"
+        }
+    }
+]
