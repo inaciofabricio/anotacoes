@@ -29,7 +29,7 @@
             "relampago": 0,
             "sagrado": 0,
             "critico": 100,
-            "feiticaria": 114
+            "encantamento": 112
         },
         "danoNegadoAoDefender": {
             "fisico": 25.0,
