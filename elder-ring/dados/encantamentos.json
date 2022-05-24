@@ -27,8 +27,8 @@
             "arc": 0
         },        
         "imagens": {
-            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-urgente-icone.jpg?raw=true",
-            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-urgente-padrao.jpg?raw=true"
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/cura-urgente-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/cura-urgente-padrao.jpg?raw=true"
         }
     },
     {
@@ -59,8 +59,8 @@
             "arc": 0
         },        
         "imagens": {
-            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-icone.jpg?raw=true",
-            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/cura-padrao.jpg?raw=true"
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/cura-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/cura-padrao.jpg?raw=true"
         }
     },
     {
@@ -92,8 +92,8 @@
             "arc": 0
         },        
         "imagens": {
-            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/regeneracao-do-lorde-icone.jpg?raw=true",
-            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/regeneracao-do-lorde-padrao.jpg?raw=true"
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/regeneracao-do-lorde-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/regeneracao-do-lorde-padrao.jpg?raw=true"
         }
     },
     {
@@ -126,8 +126,8 @@
             "arc": 17
         },        
         "imagens": {
-            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/rugido-de-greyoll-icone.jpg?raw=true",
-            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/feiticos/rugido-de-greyoll-padrao.jpg?raw=true"
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/rugido-de-greyoll-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/rugido-de-greyoll-padrao.jpg?raw=true"
         }
     }
 ]
