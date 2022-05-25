@@ -39,7 +39,19 @@
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/garra-de-leao-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/garra-de-leao-padrao.jpg?raw=true"
-        }
+        },
+        "videos": [
+            {
+                "id": "WbiwSXzgg24",
+                "titulo": "Cinza de Guerra - Garra do Leão - Teste",
+                "tipo": "video"
+            },
+            {
+                "id": "WbiwSXzgg24",
+                "titulo": "Cinza de Guerra - Garra do Leão - Onde conseguir",
+                "tipo": "link"
+            }
+        ]
     },
     {
         "id": "calhau-pedrilhante",
