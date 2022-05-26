@@ -68,9 +68,7 @@
             "id": "cinzas-de-guerra",
             "rotulo": "Cinzas de Guerra",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas-de-guerra/garra-de-leao-icone.jpg?raw=true" 
-        }        
-    ],
-    [
+        },
         {
             "id": "feiticos",
             "rotulo": "Feitiços",
@@ -80,7 +78,7 @@
             "id": "encantamentos",
             "rotulo": "Encantamentos",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/encantamentos/rugido-de-greyoll-icone.jpg?raw=true" 
-        }        
+        }            
     ],
     [
         {
