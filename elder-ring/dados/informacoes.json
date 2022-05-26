@@ -1,0 +1,127 @@
+[
+    {
+        "id": "bilhete-frasco-do-elixir-magnifico",
+        "nome": "Bilhete: Frasco do Elixir Magnífico",
+        "categoria": "informacoes",
+        "efeito": "Bilhete breve trasmitindo conhecimento.",
+        "tipo": {
+            "id": "bilhetes",
+            "nome": "bilhetes"
+        },
+        "descricoes": {
+            "textos": [
+                "Bilhete breve trasmitindo conhecimento. Vendido por um mercador nômade.",
+                "Um Frasco do Elixir Magnífico continua na Terceira Igreja de Marika, ao norte da Floresta Nebulosa.",
+                "Cruze a ponte da estrada e siga a trilha de animais que leva ao norte."   
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/bilhete-frasco-do-elixir-magnifico-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/bilhete-frasco-do-elixir-magnifico-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "convite-da-mansao-vulcanica",
+        "nome": "Convite da Mansão Vulcânica",
+        "categoria": "informacoes",
+        "efeito": "Convite da Mansão Vulcânica.",
+        "tipo": {
+            "id": "cartas",
+            "nome": "Cartas"
+        },
+        "descricoes": {
+            "textos": [
+                "Carta dada por Raya como agradecimento por recuperar seu colar.",
+                "Contém um convite para a Mansão Vulcânica.",
+                "Bravo Maculado, procure o Platô Altus, no reino da Térvore.",
+                "Se provar seu valor concluindo essa jornada, a Mansão Vulcânica fará um convite para lutar em meio a uma família de campeões."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/convite-da-mansao-vulcanica-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/convite-da-mansao-vulcanica-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "mapa-do-local-de-encontro",
+        "nome": "Mapa do Local de Encontro",
+        "categoria": "informacoes",
+        "efeito": "Mapa simples mostrando um ponto de encontro.",
+        "tipo": {
+            "id": "mapas",
+            "nome": "Mapas"
+        },
+        "descricoes": {
+            "textos": [
+                "Mapa simples encontrado em um corpo.",
+                "Parece indicar um ponto de encontro.",
+                "O homem que possuía isso certamente ainda deseja uma. A única forma de entrar na academia. Uma chave pedrilhante."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/mapa-do-local-de-encontro-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/mapa-do-local-de-encontro-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "enigma-da-miragem",
+        "nome": "Enigma da Miragem",
+        "categoria": "informacoes",
+        "efeito": "Mapa simples retirado de uma estátua de demônio.",
+        "tipo": {
+            "id": "mapas",
+            "nome": "Mapas"
+        },
+        "descricoes": {
+            "textos": [
+                "Uma posta sobre uma torre pedrilhante que some como uma miragem."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/enigma-da-miragem-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/enigma-da-miragem-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "pintura-ressurreicao",
+        "nome": "Pintura \"Ressurreição\"",
+        "categoria": "informacoes",
+        "efeito": "Reminiscência da pintura \"Ressurreição\".",
+        "tipo": {
+            "id": "pinturas",
+            "nome": "Pinturas"
+        },
+        "descricoes": {
+            "textos": [
+                "Trabalho de um artista errante.",
+                "Reminiscência de uma pintura intitilada \"Ressurreição\".",
+                "Diz-se que o pintor capturou as paisagens vistas durante os últimos momentos daquele que foram acolhidos no abraço da morte.",
+                "Até hoje, a alma do pintor e os vestígios dos últimos momentos do morto podem ser descobertos visitando o local retratado."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/pintura-ressurreicao-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/pintura-ressurreicao-padrao.jpg?raw=true"
+        }
+    },
+    {
+        "id": "sobre-a-gruta-da-sabedoria",
+        "nome": "Sobre a Gruta da Sabedoria",
+        "categoria": "informacoes",
+        "efeito": "Informações sobre a Gruta da Sabedoria.",
+        "tipo": {
+            "id": "tutoriais",
+            "nome": "Tutoriais"
+        },
+        "descricoes": {
+            "textos": [
+                "Pule no buraco à frente e você encontrará a Gruta da Sabedoria.",
+                "Lá, você aprenderá sobre os controles do jogo e as ações básicas assim como algumas dicas que podem te ajudar durante sua aventura nas Terras Intermádias."
+            ]
+        },
+        "imagens": {
+            "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/sobre-a-gruta-da-sabedoria-icone.jpg?raw=true",
+            "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/sobre-a-gruta-da-sabedoria-padrao.jpg?raw=true"
+        }
+    }
+]
