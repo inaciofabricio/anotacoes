@@ -98,6 +98,11 @@
             "id": "materiais-de-producao",
             "rotulo": "Materiais de Produção",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true" 
-        }       
+        },
+        {
+            "id": "informacoes",
+            "rotulo": "Informações",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/pintura-ressurreicao-icone.jpg?raw=true" 
+        }           
     ]
 ]
