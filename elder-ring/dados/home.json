@@ -105,8 +105,8 @@
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/pintura-ressurreicao-icone.jpg?raw=true" 
         },
         {
-            "id": "producoes-de-itens",
-            "rotulo": "Produções",
+            "id": "producao-de-itens",
+            "rotulo": "Produção de Itens",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true" 
         }           
     ]
