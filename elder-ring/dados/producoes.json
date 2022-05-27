@@ -1,0 +1,28 @@
+[
+    {
+        "id": "bolus-neutralizante",
+        "nome": "Bolus Neutralizante",
+        "categoria": "ferramentas",
+        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true",
+        "itens": [
+            {
+                "id": "erva-de-orvalho-noturno",
+                "nome": "2x Erva de Orvalho Noturno",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-de-orvalho-noturno-icone.jpg?raw=true"
+            },
+            {
+                "id": "musgo-de-caverna-de-cristal",
+                "nome": "1x Musgo de Caverna de Cristal",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-de-cristal-icone.jpg?raw=true"
+            },
+            {
+                "id": "broto-sacramental",
+                "nome": "1x Broto Sacramental",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/broto-sacramental-icone.jpg?raw=true"
+            }
+        ]
+    }
+]
