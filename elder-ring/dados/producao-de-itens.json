@@ -29,7 +29,7 @@
         "id": "bolus-da-preservacao",
         "nome": "Bolus da Preservação",
         "categoria": "ferramentas",
-        "imagem": "image/itens/ferramentas/bolus-da-preservacao-icone.jpg",
+        "imagem": "itens/ferramentas/bolus-da-preservacao-icone.jpg",
         "itens": [
             {
                 "id": "erva-de-orvalho-noturno",
