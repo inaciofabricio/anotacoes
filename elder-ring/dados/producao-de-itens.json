@@ -3,7 +3,7 @@
         "id": "bolus-neutralizante",
         "nome": "Bolus Neutralizante",
         "categoria": "ferramentas",
-        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true",
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true",
         "itens": [
             {
                 "id": "erva",
@@ -29,7 +29,7 @@
         "id": "bolus-da-preservacao",
         "nome": "Bolus da Preservação",
         "categoria": "ferramentas",
-        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-da-preservacao-icone.jpg?raw=true",
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-da-preservacao-icone.jpg?raw=true",
         "itens": [
             {
                 "id": "erva-de-orvalho-noturno",
