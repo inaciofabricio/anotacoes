@@ -20,7 +20,19 @@
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cavaleiro-banido-engvall-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cavaleiro-banido-engvall-padrao.jpg?raw=true"
-        }
+        },
+        "videos": [
+            {
+                "id": "ghg77eCyReY",
+                "titulo": "Demostração",
+                "tipo": "video"
+            },
+            {
+                "id": "qgmqV0hr8X8&t=903s",
+                "titulo": "Onde conseguir",
+                "tipo": "link"
+            }
+        ]
     },
     {
         "id": "cinzas-de-nobre-errante",
