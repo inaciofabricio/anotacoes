@@ -3,7 +3,7 @@
         "id": "bolus-neutralizante",
         "nome": "Bolus Neutralizante",
         "categoria": "ferramentas",
-        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true",
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true",
         "itens": [
             {
                 "id": "erva-de-orvalho-noturno",
@@ -29,7 +29,7 @@
         "id": "bolus-hemostatico",
         "nome": "Bolus Hemostático",
         "categoria": "ferramentas",
-        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-hemostatico-icone.jpg?raw=true",
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-hemostatico-icone.jpg?raw=true",
         "itens": [
             {
                 "id": "erva",
@@ -56,7 +56,7 @@
         "id": "bolus-de-descongelamento",
         "nome": "Bolus de Descongelamento",
         "categoria": "ferramentas",
-        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-de-descongelamento-icone.jpg?raw=true",
+        "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-de-descongelamento-icone.jpg?raw=true",
         "itens": [
             {
                 "id": "erva",
