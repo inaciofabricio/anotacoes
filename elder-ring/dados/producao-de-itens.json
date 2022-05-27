@@ -24,5 +24,58 @@
                 "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/broto-sacramental-icone.jpg?raw=true"
             }
         ]
+    },
+    {
+        "id": "bolus-hemostatico",
+        "nome": "Bolus Hemostático",
+        "categoria": "ferramentas",
+        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-hemostatico-icone.jpg?raw=true",
+        "itens": [
+            {
+                "id": "erva",
+                "nome": "1x Erva",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true"
+            },
+            {
+                "id": "musgo-de-caverna",
+                "nome": "1x Musgo de Caverna",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-icone.jpg?raw=true"
+            },
+            {
+                "id": "ovario-de-polvo-terrestre",
+                "nome": "1x Ovário de Polvo Terrestre",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/ovario-de-polvo-terrestre-icone.jpg?raw=true"
+            }
+        ]
+        
+    },
+    {
+        "id": "bolus-de-descongelamento",
+        "nome": "Bolus de Descongelamento",
+        "categoria": "ferramentas",
+        "imagens": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-de-descongelamento-icone.jpg?raw=true",
+        "itens": [
+            {
+                "id": "erva",
+                "nome": "1x Erva",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true"
+            },
+            {
+                "id": "musgo-de-caverna",
+                "nome": "1x Musgo de Caverna",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-icone.jpg?raw=true"
+            },
+            {
+                "id": "ovos-de-caranguejo",
+                "nome": "1x Ovos de Caranguejo",
+                "categoria": "materiais-de-producao",
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/ovos-de-caranguejo-icone.jpg?raw=true"
+            }
+        ]
     }
 ]
