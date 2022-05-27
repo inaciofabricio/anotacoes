@@ -103,6 +103,11 @@
             "id": "informacoes",
             "rotulo": "Informações",
             "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/informacoes/pintura-ressurreicao-icone.jpg?raw=true" 
+        },
+        {
+            "id": "producoes",
+            "rotulo": "Produções",
+            "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true" 
         }           
     ]
 ]
