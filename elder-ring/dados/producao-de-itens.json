@@ -6,22 +6,22 @@
         "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/ferramentas/bolus-neutralizante-icone.jpg?raw=true",
         "itens": [
             {
-                "id": "erva-de-orvalho-noturno",
-                "nome": "2x Erva de Orvalho Noturno",
+                "id": "erva",
+                "nome": "1x Erva",
                 "categoria": "materiais-de-producao",
-                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-de-orvalho-noturno-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/erva-icone.jpg?raw=true"
             },
             {
-                "id": "musgo-de-caverna-de-cristal",
-                "nome": "1x Musgo de Caverna de Cristal",
+                "id": "musgo-de-caverna",
+                "nome": "1x Musgo de Caverna",
                 "categoria": "materiais-de-producao",
-                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-de-cristal-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/musgo-de-caverna-icone.jpg?raw=true"
             },
             {
-                "id": "broto-sacramental",
-                "nome": "1x Broto Sacramental",
+                "id": "cabeca-de-libelula-gigante",
+                "nome": "1x Cabeça de Libelula Gigante",
                 "categoria": "materiais-de-producao",
-                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/broto-sacramental-icone.jpg?raw=true"
+                "imagem": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/itens/materiais-de-producao/cabeca-de-libelula-gigante-icone.jpg?raw=true"
             }
         ]
     },
