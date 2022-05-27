@@ -55,7 +55,19 @@
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-errante-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-errante-padrao.jpg?raw=true"
-        }
+        },
+        "videos": [
+            {
+                "id": "7WI2dGGbYa0",
+                "titulo": "Demostração",
+                "tipo": "video"
+            },
+            {
+                "id": "qgmqV0hr8X8&t=6033s",
+                "titulo": "Onde conseguir",
+                "tipo": "link"
+            }
+        ]
     },
     {
         "id": "cinzas-de-nobre-feiticeiro",
@@ -79,7 +91,19 @@
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-feiticeiro-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-nobre-feiticeiro-padrao.jpg?raw=true"
-        }        
+        },
+        "videos": [
+            {
+                "id": "g-c-8ILNPHA",
+                "titulo": "Demostração",
+                "tipo": "video"
+            },
+            {
+                "id": "qgmqV0hr8X8&t=4082s",
+                "titulo": "Onde conseguir",
+                "tipo": "link"
+            }
+        ]        
     },
     {
         "id": "cinzas-de-cadaveres-putridos",
@@ -102,7 +126,19 @@
         "imagens": {
             "icone": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-cadaveres-putridos-icone.jpg?raw=true",
             "padrao": "https://github.com/inaciofabricio/anotacoes/blob/main/elder-ring/image/cinzas/cinzas-de-cadaveres-putridos-padrao.jpg?raw=true"
-        }
+        },
+        "videos": [
+            {
+                "id": "-pqmzeMudmk",
+                "titulo": "Demostração",
+                "tipo": "video"
+            },
+            {
+                "id": "qgmqV0hr8X8&t=4831s",
+                "titulo": "Onde conseguir",
+                "tipo": "link"
+            }
+        ]    
     }
 
 ]
