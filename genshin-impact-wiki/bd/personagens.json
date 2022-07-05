@@ -8,5 +8,25 @@
         "id": "amber",
         "nome": "Amber",
         "tipo": "pyro"   
+    },
+    {
+        "id": "kaeya",
+        "nome": "Kaeya",
+        "tipo": "cryo"   
+    },
+    {
+        "id": "lisa",
+        "nome": "Lisa",
+        "tipo": "electro"   
+    },
+    {
+        "id": "xiao",
+        "nome": "Xiao",
+        "tipo": "anemo"   
+    },
+    {
+        "id": "xingqiu",
+        "nome": "Xingqiu",
+        "tipo": "Hydro"   
     }
 ]
