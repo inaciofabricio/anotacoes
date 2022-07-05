@@ -1,10 +1,12 @@
 [
     {
         "id": "albedo",
-        "nome": "Albedo"  
+        "nome": "Albedo",
+        "tipo": "geo" 
     },
     {
         "id": "amber",
-        "nome": "Amber"  
+        "nome": "Amber",
+        "tipo": "pyro"   
     }
 ]
