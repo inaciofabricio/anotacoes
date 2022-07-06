@@ -32,6 +32,7 @@
     {
         "id": "xingqiu",
         "nome": "Xingqiu",
-        "tipo": "hydro"   
+        "tipo": "hydro",
+        "nivel": 5    
     }
 ]
