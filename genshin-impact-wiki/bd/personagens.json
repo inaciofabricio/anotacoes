@@ -2,37 +2,37 @@
     {
         "id": "albedo",
         "nome": "Albedo",
-        "tipo": "geo",
+        "elemento": "geo",
         "nivel": 5 
     },
     {
         "id": "amber",
         "nome": "Amber",
-        "tipo": "pyro",
+        "elemento": "pyro",
         "nivel": 4   
     },
     {
         "id": "kaeya",
         "nome": "Kaeya",
-        "tipo": "cryo",
+        "elemento": "cryo",
         "nivel": 4    
     },
     {
         "id": "lisa",
         "nome": "Lisa",
-        "tipo": "electro",
+        "elemento": "electro",
         "nivel": 4    
     },
     {
         "id": "xiao",
         "nome": "Xiao",
-        "tipo": "anemo",
+        "elemento": "anemo",
         "nivel": 5    
     },
     {
         "id": "xingqiu",
         "nome": "Xingqiu",
-        "tipo": "hydro",
+        "elemento": "hydro",
         "nivel": 4    
     }
 ]
