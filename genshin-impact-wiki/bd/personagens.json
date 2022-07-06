@@ -2,27 +2,32 @@
     {
         "id": "albedo",
         "nome": "Albedo",
-        "tipo": "geo" 
+        "tipo": "geo",
+        "nivel": 5 
     },
     {
         "id": "amber",
         "nome": "Amber",
-        "tipo": "pyro"   
+        "tipo": "pyro",
+        "nivel": 4   
     },
     {
         "id": "kaeya",
         "nome": "Kaeya",
-        "tipo": "cryo"   
+        "tipo": "cryo",
+        "nivel": 4    
     },
     {
         "id": "lisa",
         "nome": "Lisa",
-        "tipo": "electro"   
+        "tipo": "electro",
+        "nivel": 4    
     },
     {
         "id": "xiao",
         "nome": "Xiao",
-        "tipo": "anemo"   
+        "tipo": "anemo",
+        "nivel": 5    
     },
     {
         "id": "xingqiu",
