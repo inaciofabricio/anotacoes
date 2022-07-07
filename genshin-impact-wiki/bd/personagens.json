@@ -3,36 +3,36 @@
         "id": "albedo",
         "nome": "Albedo",
         "elemento": "geo",
-        "nivel": 5 
+        "raridade": 5 
     },
     {
         "id": "amber",
         "nome": "Amber",
         "elemento": "pyro",
-        "nivel": 4   
+        "raridade": 4   
     },
     {
         "id": "kaeya",
         "nome": "Kaeya",
         "elemento": "cryo",
-        "nivel": 4    
+        "raridade": 4    
     },
     {
         "id": "lisa",
         "nome": "Lisa",
         "elemento": "electro",
-        "nivel": 4    
+        "raridade": 4    
     },
     {
         "id": "xiao",
         "nome": "Xiao",
         "elemento": "anemo",
-        "nivel": 5    
+        "raridade": 5    
     },
     {
         "id": "xingqiu",
         "nome": "Xingqiu",
         "elemento": "hydro",
-        "nivel": 4    
+        "raridade": 4    
     }
 ]
