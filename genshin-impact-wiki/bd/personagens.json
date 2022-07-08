@@ -34,5 +34,29 @@
         "nome": "Xingqiu",
         "elemento": "hydro",
         "raridade": 4    
+    },
+    {
+        "id": "barbara",
+        "nome": "Barbara",
+        "elemento": "hydro",
+        "raridade": 4    
+    },
+    {
+        "id": "bennett",
+        "nome": "Bennett",
+        "elemento": "pyro",
+        "raridade": 4    
+    },
+    {
+        "id": "itto",
+        "nome": "Itto",
+        "elemento": "geo",
+        "raridade": 5    
+    },
+    {
+        "id": "yelan",
+        "nome": "Yelan",
+        "elemento": "hydro",
+        "raridade": 5    
     }
 ]
