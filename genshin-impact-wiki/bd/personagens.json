@@ -2,60 +2,70 @@
     {
         "id": "albedo",
         "nome": "Albedo",
+        "nomeCompleto": "Albedo",
         "elemento": "geo",
         "raridade": 5 
     },
     {
         "id": "amber",
         "nome": "Amber",
+        "nomeCompleto": "Amber",
         "elemento": "pyro",
         "raridade": 4   
     },
     {
         "id": "kaeya",
         "nome": "Kaeya",
+        "nomeCompleto": "Kaeya",
         "elemento": "cryo",
         "raridade": 4    
     },
     {
         "id": "lisa",
         "nome": "Lisa",
+        "nomeCompleto": "Lisa",
         "elemento": "electro",
         "raridade": 4    
     },
     {
         "id": "xiao",
         "nome": "Xiao",
+        "nomeCompleto": "Xiao",
         "elemento": "anemo",
         "raridade": 5    
     },
     {
         "id": "xingqiu",
         "nome": "Xingqiu",
+        "nomeCompleto": "Xingqiu",
         "elemento": "hydro",
         "raridade": 4    
     },
     {
         "id": "barbara",
         "nome": "Barbara",
+        "nomeCompleto": "Barbara",
         "elemento": "hydro",
         "raridade": 4    
     },
     {
         "id": "bennett",
         "nome": "Bennett",
+        "nomeCompleto": "Bennett",
         "elemento": "pyro",
         "raridade": 4    
     },
     {
         "id": "itto",
         "nome": "Itto",
+        "nomeCompleto": "Arataki Itto",
         "elemento": "geo",
         "raridade": 5    
     },
     {
         "id": "yelan",
         "nome": "Yelan",
+        "nomeCompleto": "Yelan",
         "elemento": "hydro",
         "raridade": 5    
     }
