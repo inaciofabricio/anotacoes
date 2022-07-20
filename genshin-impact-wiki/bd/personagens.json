@@ -27,40 +27,73 @@
                 "raridade": 3
             }
         ],
-        "artefatos": [
-            [
-                {
-                    "id": "casca-de-sonhos-opulentos",
-                    "nome": "Casca de Sonhos Opulentos",
-                    "raridade": 5,
-                    "quantidade": 4,
-                    "bonus": [
-                        "DEF +30%.",
-                        "Um personagem com este conjunto de artefatos equipado obterá o efeito de Curiosidade nas seguintes condições: Quando estiver no campo de batalha, o personagem ganha 1 carga após atingir um adversário com um ataque Geo, isso pode ser desencadeado uma vez a cada 0.3s. Quando fora do campo de batalha, o personagem ganha 1 carga a cada 3s. A Curiosidade pode acumular em até 4 vezes, cada uma fornecendo 6% de DEF e um Bônus de Dano Geo de também 6%. Quando 6 segundos passam sem ganhar um acúmulo de Curiosidade, 1 acúmulo é perdido."
-                    ]
-                }
-            ],
-            [
-                {
-                    "id": "pedra-arcaica",
-                    "nome": "Pedra Arcaica",
-                    "raridade": 5,
-                    "quantidade": 2,
-                    "bonus": [
-                        "Obtém 15% de Bônus de Dano Geo."
-                    ]
-                },
-                {
-                    "id": "antigo-ritual-real",
-                    "nome": "Antigo Ritual Real",
-                    "raridade": 5,
-                    "quantidade": 2,
-                    "bonus": [
-                        "Dano do Supremo +20%."
-                    ]
-                }
-            ]
-        ] 
+        "conjuntosDeArtefatos": [
+            {
+                "tipo": "Sub DPS Geo",
+                "artefatos": [
+                    {
+                        "id": "casca-de-sonhos-opulentos",
+                        "nome": "Casca de Sonhos Opulentos",
+                        "raridade": 5,
+                        "quantidade": 4,
+                        "bonus": [
+                            "DEF +30%.",
+                            "Um personagem com este conjunto de artefatos equipado obterá o efeito de Curiosidade nas seguintes condições: Quando estiver no campo de batalha, o personagem ganha 1 carga após atingir um adversário com um ataque Geo, isso pode ser desencadeado uma vez a cada 0.3s. Quando fora do campo de batalha, o personagem ganha 1 carga a cada 3s. A Curiosidade pode acumular em até 4 vezes, cada uma fornecendo 6% de DEF e um Bônus de Dano Geo de também 6%. Quando 6 segundos passam sem ganhar um acúmulo de Curiosidade, 1 acúmulo é perdido."
+                        ]
+                    }
+                ]
+            },
+            {
+                "tipo": "Sub DPS Geo",
+                "artefatos": [
+                    {
+                        "id": "pedra-arcaica",
+                        "nome": "Pedra Arcaica",
+                        "raridade": 5,
+                        "quantidade": 2,
+                        "bonus": [
+                            "Obtém 15% de Bônus de Dano Geo."
+                        ]
+                    },
+                    {
+                        "id": "antigo-ritual-real",
+                        "nome": "Antigo Ritual Real",
+                        "raridade": 5,
+                        "quantidade": 2,
+                        "bonus": [
+                            "Dano do Supremo +20%."
+                        ]
+                    }
+                ]
+            }
+        ],
+        "atributosPrincipais": [
+            "Ampulheta: Defesa %",
+            "Cálice: Dano Geo %",
+            "Tiara: Taxa ou Dano Crítico"
+        ],
+        "atributosSecundários": [
+            "Taxa",
+            "Dano Crítico",
+            "Defesa %"
+        ],
+        "taletos": [
+            {
+                "id": "ataque-normal",
+                "nome": "Ataque Normal",
+                "nivel": 1
+            },
+            {
+                "id": "radiacao-solar",
+                "nome": "Radiação Solar",
+                "nivel": 9
+            },
+            {
+                "id": "mare-tectonica",
+                "nome": "Maré Tectônica",
+                "nivel": 9
+            }
+        ]
     },
     {
         "id": "amber",
