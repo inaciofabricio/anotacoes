@@ -77,7 +77,7 @@
             "Dano Crítico",
             "Defesa %"
         ],
-        "taletos": [
+        "talentos": [
             {
                 "id": "ataque-normal",
                 "nome": "Ataque Normal",
