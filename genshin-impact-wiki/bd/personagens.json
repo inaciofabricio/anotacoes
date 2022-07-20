@@ -68,9 +68,18 @@
             }
         ],
         "atributosPrincipais": [
-            "Ampulheta: Defesa %",
-            "Cálice: Dano Geo %",
-            "Tiara: Taxa ou Dano Crítico"
+            {
+                "titulo": "Ampulheta",
+                "valor": "Defesa %"
+            },
+            {
+                "titulo": "Cálice",
+                "valor": "Dano Geo %"
+            },
+            {
+                "titulo": "Tiara",
+                "valor": "Taxa ou Dano Crítico"
+            }
         ],
         "atributosSecundarios": [
             "Taxa",
