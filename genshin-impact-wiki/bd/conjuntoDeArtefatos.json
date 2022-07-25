@@ -1,0 +1,74 @@
+[
+    {
+        "id": "casca-de-sonhos-opulentos",
+        "nome": "Casca de Sonhos Opulentos",
+        "artefatos": [
+            {
+                "id": "periodo-de-gloria",
+                "nome": "Período de Glória" 
+            },
+            {
+                "id": "plumas-da-opulencia",
+                "nome": "Plumas da Opulência" 
+            },
+            {
+                "id": "cancao-da-vida",
+                "nome": "Canção da Vida" 
+            },
+            {
+                "id": "despertar-dos-sonhos",
+                "nome": "Despertar dos Sonhos" 
+            },
+            {
+                "id": "chapeu-da-marionete",
+                "nome": "Chapéu da Marionete" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "DEF +30%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Um personagem com este conjunto de artefatos equipado obterá o efeito de Curiosidade nas seguintes condições: Quando estiver no campo de batalha, o personagem ganha 1 carga após atingir um adversário com um ataque Geo, isso pode ser desencadeado uma vez a cada 0.3s. Quando fora do campo de batalha, o personagem ganha 1 carga a cada 3s. A Curiosidade pode acumular em até 4 vezes, cada uma fornecendo 6% de DEF e um Bônus de Dano Geo de também 6%. Quando 6 segundos passam sem ganhar um acúmulo de Curiosidade, 1 acúmulo é perdido."
+            }            
+        ]
+    },
+    {
+        "id": "antigo-ritual-real",
+        "nome": "antigo-ritual-real",
+        "artefatos": [
+            {
+                "id": "flor-real",
+                "nome": "Flor Real" 
+            },
+            {
+                "id": "pena-real",
+                "nome": "Pena Real" 
+            },
+            {
+                "id": "relogio-de-bolso-real",
+                "nome": "Relógio de Bolso Real" 
+            },
+            {
+                "id": "urna-de-prata-real",
+                "nome": "Urna de Prata Real" 
+            },
+            {
+                "id": "mascara-real",
+                "nome": "Máscara Real" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Dano do Supremo +20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Uma flor de seda azul, foi um elemento decorativo muito usado em grandes eventos. Atualmente, ainda possui boa aparência, mesmo depois de ter sido abandonada pelo seu antigo dono."
+            }            
+        ]
+    }
+]
