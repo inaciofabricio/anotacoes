@@ -2,7 +2,7 @@
     {
         "id": "casca-de-sonhos-opulentos",
         "nome": "Casca de Sonhos Opulentos",
-        "locais": {
+        "local": {
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
@@ -42,7 +42,7 @@
     {
         "id": "antigo-ritual-real",
         "nome": "antigo-ritual-real",
-        "locais": {
+        "local": {
             "id": "lago-de-luhua-e-caverna-da-montanha",
             "nome": "Lago de Luhua e Caverna da Montanha"
         },
