@@ -2,6 +2,10 @@
     {
         "id": "casca-de-sonhos-opulentos",
         "nome": "Casca de Sonhos Opulentos",
+        "locais": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
         "artefatos": [
             {
                 "id": "periodo-de-gloria",
@@ -38,6 +42,10 @@
     {
         "id": "antigo-ritual-real",
         "nome": "antigo-ritual-real",
+        "locais": {
+            "id": "lago-de-luhua-e-caverna-da-montanha",
+            "nome": "Lago de Luhua e Caverna da Montanha"
+        },
         "artefatos": [
             {
                 "id": "flor-real",
