@@ -121,5 +121,46 @@
                 "efeito": "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização, todos os personagens na equipe ganham 35% de DMG para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento."
             }            
         ]
+    },
+    {
+        "id": "lancador-de-trovoes",
+        "nome": "Lançador de Trovões",
+        "radidades": [4,5],
+        "local": {
+            "id": "lago-de-luhua-e-caverna-da-montanha",
+            "nome": "Lago de Luhua e Caverna da Montanha"
+        },
+        "artefatos": [
+            {
+                "id": "lancador-de-trovoes_coracao- do-domador-de-raios",
+                "nome": "Coração do Domador de Raios" 
+            },
+            {
+                "id": "lancador-de-trovoes_pena-do-domador-de-raios",
+                "nome": "Pena do Domador de Raios" 
+            },
+            {
+                "id": "lancador-de-trovoes_apice-do-domador-de-raios",
+                "nome": "Ápice do Domador de Raios" 
+            },
+            {
+                "id": "lancador-de-trovoes_calice-do-domador-de-raios",
+                "nome": "Cálice do Domador de Raios" 
+            },
+            {
+                "id": "lancador-de-trovoes_coroa-do-domador-de-raios",
+                "nome": "Coroa do Domador de Raios" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "RES Electro +40%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano contra inimigos afetados por Electro em 35%."
+            }            
+        ]
     }
 ]
