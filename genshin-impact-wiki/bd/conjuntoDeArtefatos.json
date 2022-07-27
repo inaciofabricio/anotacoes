@@ -6,6 +6,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
+        "radidades": [4,5],
         "artefatos": [
             {
                 "id": "periodo-de-gloria",
@@ -41,7 +42,8 @@
     },
     {
         "id": "antigo-ritual-real",
-        "nome": "antigo-ritual-real",
+        "nome": "Antigo Ritual Real",
+        "radidades": [4,5],
         "local": {
             "id": "lago-de-luhua-e-caverna-da-montanha",
             "nome": "Lago de Luhua e Caverna da Montanha"
