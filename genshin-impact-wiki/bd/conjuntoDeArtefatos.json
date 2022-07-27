@@ -80,5 +80,46 @@
                 "efeito": "Uma flor de seda azul, foi um elemento decorativo muito usado em grandes eventos. Atualmente, ainda possui boa aparência, mesmo depois de ter sido abandonada pelo seu antigo dono."
             }            
         ]
+    },
+    {
+        "id": "pedra-arcaica",
+        "nome": "Pedra Arcaica",
+        "radidades": [4,5],
+        "local": {
+            "id": "lago-de-luhua-e-caverna-da-montanha",
+            "nome": "Lago de Luhua e Caverna da Montanha"
+        },
+        "artefatos": [
+            {
+                "id": "flor-do-penhasco-rachado",
+                "nome": "Flor do Penhasco Rachado" 
+            },
+            {
+                "id": "asas-do-pico-da-montanha",
+                "nome": "Asas do Pico da Montanha" 
+            },
+            {
+                "id": "relogio-de-sol-de-jade-duradouro",
+                "nome": "Relógio de Sol de Jade Duradouro" 
+            },
+            {
+                "id": "taca-do-escultor-de-pedra",
+                "nome": "Taça do Escultor de Pedra" 
+            },
+            {
+                "id": "mascara-de-basalto-da-solidao",
+                "nome": "Máscara de Basalto da Solidão" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Geo +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização, todos os personagens na equipe ganham 35% de DMG para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento."
+            }            
+        ]
     }
 ]
