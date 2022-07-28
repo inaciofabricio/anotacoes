@@ -41,7 +41,7 @@
         ]
     },
     {
-        "id": "o_douto_viajante",
+        "id": "o_doutor_viajante",
         "nome": "O Doutor Viajante",
         "local": {
             "id": "corte-da-hibernacao",
@@ -50,23 +50,23 @@
         "raridades": [2,3],
         "artefatos": [
             {
-                "id": "o_douto_viajante_flor",
+                "id": "o_doutor_viajante_flor",
                 "nome": "Lótus de Prata do Doutor Viajante" 
             },
             {
-                "id": "o_douto_viajante_pena",
+                "id": "o_doutor_viajante_pena",
                 "nome": "Pena de Coruja do Doutor Viajante" 
             },
             {
-                "id": "o_douto_viajante_ampulheta",
+                "id": "o_doutor_viajante_ampulheta",
                 "nome": "Relógio de Bolso do Doutor Viajante" 
             },
             {
-                "id": "o_douto_viajante_calice",
+                "id": "o_doutor_viajante_calice",
                 "nome": "Pote de Medicamentos do Doutor Viajante" 
             },
             {
-                "id": "o_douto_viajante_tiara",
+                "id": "o_doutor_viajante_tiara",
                 "nome": "Lenço do Doutor Viajante" 
             }
         ],
