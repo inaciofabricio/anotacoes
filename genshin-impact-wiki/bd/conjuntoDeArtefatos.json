@@ -1,22 +1,5 @@
 [
     {
-        "id": "inicial",
-        "nome": "Inicial",
-        "local": null,
-        "radidades": [0,1],
-        "artefatos": [
-            {
-                "id": "inicial_flor",
-                "nome": "Flor do Inicial" 
-            },
-            {
-                "id": "inicial_pena",
-                "nome": "Pena do Inicial" 
-            }
-        ],
-        "bonus": null
-    },
-    {
         "id": "aventureiro",
         "nome": "Aventureiro",
         "local": {
