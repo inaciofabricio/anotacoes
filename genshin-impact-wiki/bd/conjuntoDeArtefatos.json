@@ -6,7 +6,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [2,3],
+        "raridades": [2,3],
         "artefatos": [
             {
                 "id": "aventureiro_flor",
@@ -47,7 +47,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [2,3],
+        "raridades": [2,3],
         "artefatos": [
             {
                 "id": "o_douto_viajante_flor",
@@ -88,7 +88,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [2,3],
+        "raridades": [2,3],
         "artefatos": [
             {
                 "id": "o_sortudo_flor",
@@ -129,7 +129,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "apostador_flor",
@@ -170,7 +170,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "artista_marcial_flor",
@@ -211,7 +211,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "berserker_flor",
@@ -252,7 +252,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "coracao_valente_flor",
@@ -293,7 +293,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "guardiao_flor",
@@ -334,7 +334,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "instrutor_flor",
@@ -375,7 +375,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "o_estudioso_flor",
@@ -416,7 +416,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "o_exilado_flor",
@@ -457,7 +457,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "pequeno_milagre_flor",
@@ -498,7 +498,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "pequeno_milagre_flor",
@@ -539,7 +539,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "oracoes_para_a_primavera_tiara",
@@ -560,7 +560,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "oracoes_para_a_destino_tiara",
@@ -581,7 +581,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "xama_do_ritual_electro_tiara",
@@ -602,7 +602,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Coroa do Ritual Hydro"
         },
-        "radidades": [3,4],
+        "raridades": [3,4],
         "artefatos": [
             {
                 "id": "xama_do_ritual_pyro_tiara",
@@ -623,7 +623,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "trupe_itinerante_flor",
@@ -664,7 +664,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "ultimo_juramento_do_gladiador_flor",
@@ -705,7 +705,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "lancador_de_trovoes_flor",
@@ -746,7 +746,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "alem_vida_cinabrio_flor",
@@ -787,7 +787,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "eco_do_sacrificio_flor",
@@ -828,7 +828,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "trovao_furioso_flor",
@@ -869,7 +869,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "sombra_verde_flor",
@@ -910,7 +910,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "a_bruxa_das_chamas_carmesim_flor",
@@ -951,7 +951,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "atravessador_do_fogo_flor",
@@ -992,7 +992,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "antigo_ritual_real_flor",
@@ -1033,7 +1033,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "cavaleiro_manchado_de_sangue_flor",
@@ -1074,7 +1074,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "pedra_arcaica_flor",
@@ -1115,7 +1115,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "meteoro_invertido_flor",
@@ -1156,7 +1156,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "heroi_invernal_flor",
@@ -1197,7 +1197,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "profundezas_do_coracao_flor",
@@ -1238,7 +1238,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "millelith_firmes_flor",
@@ -1279,7 +1279,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "chama_palida_flor",
@@ -1320,7 +1320,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "reminescencia_nostalgica_flor",
@@ -1361,7 +1361,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "selo_da_insulacao_flor",
@@ -1402,7 +1402,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "casca_de_sonhos_opulentos_flor",
@@ -1443,7 +1443,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "concha_tingida_pelo_mar_flor",
@@ -1484,7 +1484,7 @@
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
-        "radidades": [4,5],
+        "raridades": [4,5],
         "artefatos": [
             {
                 "id": "donzela_amada_flor",
