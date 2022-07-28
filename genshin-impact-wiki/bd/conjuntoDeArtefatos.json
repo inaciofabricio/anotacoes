@@ -1,6 +1,1419 @@
 [
     {
-        "id": "casca-de-sonhos-opulentos",
+        "id": "inicial",
+        "nome": "Inicial",
+        "local": null,
+        "radidades": [0,1],
+        "artefatos": [
+            {
+                "id": "inicial_flor",
+                "nome": "Flor do Inicial" 
+            },
+            {
+                "id": "inicial_pena",
+                "nome": "Pena do Inicial" 
+            }
+        ],
+        "bonus": null
+    },
+    {
+        "id": "aventureiro",
+        "nome": "Aventureiro",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [2,3],
+        "artefatos": [
+            {
+                "id": "aventureiro_flor",
+                "nome": "Rosa do Aventureiro" 
+            },
+            {
+                "id": "aventureiro_pena",
+                "nome": "Pena de Cauda de Aventureiro" 
+            },
+            {
+                "id": "aventureiro_ampulheta",
+                "nome": "Relógio de Bolso do Aventureiro" 
+            },
+            {
+                "id": "aventureiro_calice",
+                "nome": "Cálice de Ouro do Aventureiro" 
+            },
+            {
+                "id": "aventureiro_tiara",
+                "nome": "Bandana de Aventureiro" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Vida Máx. +1000."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Abrir um baú recupera 30% de Vida Máxima durante 5 segundos."
+            }            
+        ]
+    },
+    {
+        "id": "o_douto_viajante",
+        "nome": "O Doutor Viajante",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [2,3],
+        "artefatos": [
+            {
+                "id": "o_douto_viajante_flor",
+                "nome": "Lótus de Prata do Doutor Viajante" 
+            },
+            {
+                "id": "o_douto_viajante_pena",
+                "nome": "Pena de Coruja do Doutor Viajante" 
+            },
+            {
+                "id": "o_douto_viajante_ampulheta",
+                "nome": "Relógio de Bolso do Doutor Viajante" 
+            },
+            {
+                "id": "o_douto_viajante_calice",
+                "nome": "Pote de Medicamentos do Doutor Viajante" 
+            },
+            {
+                "id": "o_douto_viajante_tiara",
+                "nome": "Lenço do Doutor Viajante" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Aumenta o efeito de cura em 20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Após usar o Supremo, restaura 20% de Vida."
+            }            
+        ]
+    },
+    {
+        "id": "o_sortudo",
+        "nome": "O Sortudo",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [2,3],
+        "artefatos": [
+            {
+                "id": "o_sortudo_flor",
+                "nome": "Flor Verde do Sortudo" 
+            },
+            {
+                "id": "o_sortudo_pena",
+                "nome": "Pena de Águia do Sortudo" 
+            },
+            {
+                "id": "o_sortudo_ampulheta",
+                "nome": "Ampulheta do Sortudo" 
+            },
+            {
+                "id": "o_sortudo_calice",
+                "nome": "Cálice do Sortudo" 
+            },
+            {
+                "id": "o_sortudo_tiara",
+                "nome": "Grinalda de Prata do Sortudo" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "DEF +100."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Ao coletar Mora, restaura 300 de Vida."
+            }            
+        ]
+    },
+    {
+        "id": "apostador",
+        "nome": "Apostador",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "apostador_flor",
+                "nome": "Broche de Apostador" 
+            },
+            {
+                "id": "apostador_pena",
+                "nome": "Acessório de Penas de Apostador" 
+            },
+            {
+                "id": "apostador_ampulheta",
+                "nome": "Relógio de Bolso de Apostador" 
+            },
+            {
+                "id": "apostador_calice",
+                "nome": "Copo de Dados do Apostador" 
+            },
+            {
+                "id": "apostador_tiara",
+                "nome": "Brincos de Apostador" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Aumenta o dano de Habilidade Elemental em 20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Ao derrotar um inimigo, possui 100% de chance de remover a Recarga da Habilidade Elemental. Este efeito pode ser ativado uma vez a cada 15s."
+            }            
+        ]
+    },
+    {
+        "id": "artista_marcial",
+        "nome": "Artista Marcial",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "artista_marcial_flor",
+                "nome": "Flor Vermelha de Artista Marcial" 
+            },
+            {
+                "id": "artista_marcial_pena",
+                "nome": "Acessório de Penas de Artista Marcial" 
+            },
+            {
+                "id": "artista_marcial_ampulheta",
+                "nome": "Ampulheta de Artista Marcial" 
+            },
+            {
+                "id": "artista_marcial_calice",
+                "nome": "Taça de Vinho de Artista Marcial" 
+            },
+            {
+                "id": "artista_marcial_tiara",
+                "nome": "Bandana de Artista Marcial" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Aumenta o Dano do Ataque Normal e do Ataque Carregado em 15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Após usar de usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 25% por 8s."
+            }            
+        ]
+    },
+    {
+        "id": "berserker",
+        "nome": "Berserker",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "berserker_flor",
+                "nome": "Rosa de Berserker" 
+            },
+            {
+                "id": "berserker_pena",
+                "nome": "Pluma de Berserker" 
+            },
+            {
+                "id": "berserker_ampulheta",
+                "nome": "Relógio de Berserker" 
+            },
+            {
+                "id": "berserker_calice",
+                "nome": "Taça de Ossos de Berserker" 
+            },
+            {
+                "id": "berserker_tiara",
+                "nome": "Máscara de Batalha de Berserker" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Taxa Crítica +12%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Quando a Vida estiver abaixo de 70%, a Taxa Crítica aumenta 24%."
+            }            
+        ]
+    },
+    {
+        "id": "coracao_valente",
+        "nome": "Coração Valente",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "coracao_valente_flor",
+                "nome": "Medalha do Valente" 
+            },
+            {
+                "id": "coracao_valente_pena",
+                "nome": "Esperança do Valente" 
+            },
+            {
+                "id": "coracao_valente_ampulheta",
+                "nome": "Persistência do Valente" 
+            },
+            {
+                "id": "coracao_valente_calice",
+                "nome": "Despedida do Valente" 
+            },
+            {
+                "id": "coracao_valente_tiara",
+                "nome": "Coroa do Valente" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "ATQ +18%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano em 30% contra inimigos com mais de 50% de Vida."
+            }            
+        ]
+    },
+    {
+        "id": "guardiao",
+        "nome": "Guardião",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "guardiao_flor",
+                "nome": "Flor do Guarda" 
+            },
+            {
+                "id": "guardiao_pena",
+                "nome": "Emblema do Guarda" 
+            },
+            {
+                "id": "guardiao_ampulheta",
+                "nome": "Relógio do Guarda" 
+            },
+            {
+                "id": "guardiao_calice",
+                "nome": "Sangue do Guarda" 
+            },
+            {
+                "id": "guardiao_tiara",
+                "nome": "Cinto do Guarda" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "DEF +30%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta a própria RES do respectivo elemento em 30% para cada elemento diferente dos personagens da equipe."
+            }            
+        ]
+    },
+    {
+        "id": "instrutor",
+        "nome": "Instrutor",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "instrutor_flor",
+                "nome": "Broche de Instrutor" 
+            },
+            {
+                "id": "instrutor_pena",
+                "nome": "Acessório de Penas de Instrutor" 
+            },
+            {
+                "id": "instrutor_ampulheta",
+                "nome": "Relógio de Bolso de Instrutor" 
+            },
+            {
+                "id": "instrutor_calice",
+                "nome": "Copo de Chá de Instrutor" 
+            },
+            {
+                "id": "instrutor_tiara",
+                "nome": "Chapéu de Instrutor" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Proficiência Elemental +80."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Após uma Reação Elemental aumenta a Proficiência Elemental de todos os membros de Equipe em 120 por 8s."
+            }            
+        ]
+    },
+    {
+        "id": "o_estudioso",
+        "nome": "O Estudioso",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "o_estudioso_flor",
+                "nome": "Marca-páginas de Estudioso" 
+            },
+            {
+                "id": "o_estudioso_pena",
+                "nome": "Caneta de Pena de Estudioso" 
+            },
+            {
+                "id": "o_estudioso_ampulheta",
+                "nome": "Relógio do Estudioso" 
+            },
+            {
+                "id": "o_estudioso_calice",
+                "nome": "Cálice de Tinta do Estudioso" 
+            },
+            {
+                "id": "o_estudioso_tiara",
+                "nome": "Lentes do Estudioso" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Recarga de Energia +20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Obter Partículas ou Orbes Elementais confere 3 de Energia a todos os membros da equipe que possuem um arco ou catalisador equipado. Pode ser ativado uma vez a cada 3s."
+            }            
+        ]
+    },
+    {
+        "id": "o_exilado",
+        "nome": "O Exilado",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "o_exilado_flor",
+                "nome": "Flor do Exilado" 
+            },
+            {
+                "id": "o_exilado_pena",
+                "nome": "Pena do Exilado"
+            },
+            {
+                "id": "o_exilado_ampulheta",
+                "nome": "Relógio de Bolso do Exilado" 
+            },
+            {
+                "id": "o_exilado_calice",
+                "nome": "Cálice do Exilado" 
+            },
+            {
+                "id": "o_exilado_tiara",
+                "nome": "Grinalda do Exilado" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Recarga de Energia +20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Ao usar o Supremo, regenera 2 de Energia a todos os personagens da equipe (excluindo o portador) a cada 2s por 6s. Este efeito não pode ser acumulado."
+            }            
+        ]
+    },
+    {
+        "id": "pequeno_milagre",
+        "nome": "Pequeno Milagre",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "pequeno_milagre_flor",
+                "nome": "Flor do Milagre" 
+            },
+            {
+                "id": "pequeno_milagre_pena",
+                "nome": "Pena do Milagre"
+            },
+            {
+                "id": "pequeno_milagre_ampulheta",
+                "nome": "Ampulheta do Milagre" 
+            },
+            {
+                "id": "pequeno_milagre_calice",
+                "nome": "Cálice do Milagre" 
+            },
+            {
+                "id": "pequeno_milagre_tiara",
+                "nome": "Brincos do Milagre" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "RES de todos os Elementos +20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "O Dano elemental recebido aumenta a RES Elemental correspondente em 30% por 10s. Pode ser lançado uma vez a cada 10s."
+            }            
+        ]
+    },
+    {
+        "id": "resolucao_de_sojourner",
+        "nome": "Resolução de Sojourner",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "pequeno_milagre_flor",
+                "nome": "Coração de Camaradagem" 
+            },
+            {
+                "id": "pequeno_milagre_pena",
+                "nome": "Pluma do Regresso"
+            },
+            {
+                "id": "pequeno_milagre_ampulheta",
+                "nome": "Pedra do Caçador da Luz" 
+            },
+            {
+                "id": "pequeno_milagre_calice",
+                "nome": "Cálice de Uma Terra Desconhecida" 
+            },
+            {
+                "id": "pequeno_milagre_tiara",
+                "nome": "Coroa da Despedida" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "ATQ +18%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta a Taxa Crítica do Ataque Carregado em 30%."
+            }            
+        ]
+    },
+    {
+        "id": "oracoes_para_a_primavera",
+        "nome": "Orações para a Primavera",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "oracoes_para_a_primavera_tiara",
+                "nome": "Tiara de Gelo" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 1,
+                "efeito": "Reduz a duração dos efeitos causados por Cryo em 40%."
+            }            
+        ]
+    },
+    {
+        "id": "oracoes_para_a_destino",
+        "nome": "Orações para a Destino",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "oracoes_para_a_destino_tiara",
+                "nome": "Coroa do Ritual Hydro" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 1,
+                "efeito": "Reduz a duração dos efeitos causados por Hydro em 40%."
+            }            
+        ]
+    },
+    {
+        "id": "xama_do_ritual_electro",
+        "nome": "Xamã do Ritual Electro",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "xama_do_ritual_electro_tiara",
+                "nome": "Coroa do Ritual Electro" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 1,
+                "efeito": "Reduz a duração dos efeitos causados por Electro em 40%."
+            }            
+        ]
+    },
+    {
+        "id": "xama_do_ritual_pyro",
+        "nome": "Corte da Hibernação",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Coroa do Ritual Hydro"
+        },
+        "radidades": [3,4],
+        "artefatos": [
+            {
+                "id": "xama_do_ritual_pyro_tiara",
+                "nome": "Coroa do Ritual Pyro" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 1,
+                "efeito": "Reduz a duração dos efeitos causados por Pyro em 40%."
+            }            
+        ]
+    },
+    {
+        "id": "trupe_itinerante",
+        "nome": "Trupe Itinerante",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "trupe_itinerante_flor",
+                "nome": "Luz Matinal da Orquestra" 
+            },
+            {
+                "id": "trupe_itinerante_pena",
+                "nome": "Pena de Flecha do Bardo"
+            },
+            {
+                "id": "trupe_itinerante_ampulheta",
+                "nome": "Queda de Cortina" 
+            },
+            {
+                "id": "trupe_itinerante_calice",
+                "nome": "Chaleira do Bardo" 
+            },
+            {
+                "id": "trupe_itinerante_tiara",
+                "nome": "Chapéu do Comandante" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Proficiência Elemental +80."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano do Ataque Carregado em 35% se o personagem estiver usando Catalisador ou Arco."
+            }            
+        ]
+    },
+    {
+        "id": "ultimo_juramento_do_gladiador",
+        "nome": "Último Juramento do Gladiador",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "ultimo_juramento_do_gladiador_flor",
+                "nome": "Nostalgia do Gladiador" 
+            },
+            {
+                "id": "ultimo_juramento_do_gladiador_pena",
+                "nome": "Destino do Gladiador"
+            },
+            {
+                "id": "ultimo_juramento_do_gladiador_ampulheta",
+                "nome": "Esperança do Gladiador" 
+            },
+            {
+                "id": "ultimo_juramento_do_gladiador_calice",
+                "nome": "Embriaguez do Gladiador" 
+            },
+            {
+                "id": "ultimo_juramento_do_gladiador_tiara",
+                "nome": "Triunfo do Gladiador" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "ATQ +18%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Se o portador deste conjunto de artefato usar uma Espada, Espadão ou Lança, aumenta o Dano de seus Ataques Normais em 35%."
+            }            
+        ]
+    },
+    {
+        "id": "lancador_de_trovoes",
+        "nome": "Lançador de Trovões",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "lancador_de_trovoes_flor",
+                "nome": "Coração do Domador de Raios" 
+            },
+            {
+                "id": "lancador_de_trovoes_pena",
+                "nome": "Pena do Domador de Raios"
+            },
+            {
+                "id": "lancador_de_trovoes_ampulheta",
+                "nome": "Ápice do Domador de Raios" 
+            },
+            {
+                "id": "lancador_de_trovoes_calice",
+                "nome": "Cálice do Domador de Raios" 
+            },
+            {
+                "id": "lancador_de_trovoes_tiara",
+                "nome": "Coroa do Domador de Raios" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "RES Electro +40%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano contra inimigos afetados por Electro em 35%."
+            }            
+        ]
+    },
+    {
+        "id": "alem_vida_cinabrio",
+        "nome": "Além-Vida Cinábrio",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "alem_vida_cinabrio_flor",
+                "nome": "Brilho da Vitalidade" 
+            },
+            {
+                "id": "alem_vida_cinabrio_pena",
+                "nome": "Pena do Esplendor"
+            },
+            {
+                "id": "alem_vida_cinabrio_ampulheta",
+                "nome": "Relíquia do Sol" 
+            },
+            {
+                "id": "alem_vida_cinabrio_calice",
+                "nome": "Entalhe do Contrato" 
+            },
+            {
+                "id": "alem_vida_cinabrio_tiara",
+                "nome": "Postura Eletrizante" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Aumenta o ATQ em 18%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Depois do Supremo ser usado, será criado um efeito de \"Luz Nascente\" por 16s, onde o ATQ será aumentado em 8% e quando a Vida do personagem diminui, o ATQ aumenta ainda mais 10%. O aumento ocorre desta forma no máximo 4 vezes, podendo ser ativado 1 vez a cada 0.8s. O efeito de \"Luz Nascente\" desaparece quando o personagem sai de campo. Quando o personagem lança novamente o Supremo durante o efeito, o efeito original de \"Luz Nascente\" será removido."
+            }            
+        ]
+    },
+    {
+        "id": "eco_do_sacrificio",
+        "nome": "Eco do Sacrifício",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "eco_do_sacrificio_flor",
+                "nome": "Flor da Fragrância Espiritual" 
+            },
+            {
+                "id": "eco_do_sacrificio_pena",
+                "nome": "Folha de Jade"
+            },
+            {
+                "id": "eco_do_sacrificio_ampulheta",
+                "nome": "Símbolo da Oferenda" 
+            },
+            {
+                "id": "eco_do_sacrificio_calice",
+                "nome": "Cálice da Fonte" 
+            },
+            {
+                "id": "eco_do_sacrificio_tiara",
+                "nome": "Jades da Torrente" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Aumenta o ATQ em 18%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Quando o Ataque Normal atinge um inimigo, tem 36% de chance de ativar o Rito do Vale: o Ataque Normal aumenta o Dano e o valor de aumento é 70% do ATQ. Esse efeito desaparece nos 0.05s após o Ataque Normal causar dano. Quando o Ataque Normal não ativar o Rito do Vale, aumenta a probabilidade em 20% no próximo lançamento. Essa ativação pode ocorrer 1 vez a cada 0.2s."
+            }            
+        ]
+    },
+    {
+        "id": "trovao_furioso",
+        "nome": "Trovão Furioso",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "trovao_furioso_flor",
+                "nome": "Misericórdia do Pássaro do Trovão" 
+            },
+            {
+                "id": "trovao_furioso_pena",
+                "nome": "Sobreviventes da Catástrofe"
+            },
+            {
+                "id": "trovao_furioso_ampulheta",
+                "nome": "Relógio do Trovão" 
+            },
+            {
+                "id": "trovao_furioso_calice",
+                "nome": "Profecia do Trovão" 
+            },
+            {
+                "id": "trovao_furioso_tiara",
+                "nome": "Coroa do Invocador do Trovão" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Electro +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano causado pela Sobrecarga, Eletricamente Carregado e Supercondutor em 40%. Ao ativar estes efeitos, diminui a Recarga da Habilidade Elemental em 1s. Pode ser ativado uma vez a cada 0.8s."
+            }            
+        ]
+    },
+    {
+        "id": "sombra_verde",
+        "nome": "Sombra Verde",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "sombra_verde_flor",
+                "nome": "Lembrança de Flores Silvestres" 
+            },
+            {
+                "id": "sombra_verde_pena",
+                "nome": "Pena de Flecha do Caçador Verde"
+            },
+            {
+                "id": "sombra_verde_ampulheta",
+                "nome": "Determinação do Caçador Verde" 
+            },
+            {
+                "id": "sombra_verde_calice",
+                "nome": "Frasco do Caçador Verde" 
+            },
+            {
+                "id": "sombra_verde_tiara",
+                "nome": "Coroa do Caçador Verde" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Anemo +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano do Redemoinho em 60%. Dependendo do tipo elemento infundido, diminui a RES Elemental correspondente do oponente em 40% por 10s."
+            }            
+        ]
+    },
+    {
+        "id": "a_bruxa_das_chamas_carmesim",
+        "nome": "A Bruxa das Chamas Carmesim",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "a_bruxa_das_chamas_carmesim_flor",
+                "nome": "Flor de Labareda da Bruxa" 
+            },
+            {
+                "id": "a_bruxa_das_chamas_carmesim_pena",
+                "nome": "Pena Ardente da Bruxa"
+            },
+            {
+                "id": "a_bruxa_das_chamas_carmesim_ampulheta",
+                "nome": "Fim dos Tempos da Bruxa" 
+            },
+            {
+                "id": "a_bruxa_das_chamas_carmesim_calice",
+                "nome": "Chamas do Coração da Bruxa" 
+            },
+            {
+                "id": "a_bruxa_das_chamas_carmesim_tiara",
+                "nome": "Chapéu Abrasador da Bruxa" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Pyro +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o dano causado por Sobrecarga e Queimadura em 40%, aumenta o dano causado pela Vaporização e Fusão em 15%. Ao usar a Habilidade Elemental aumenta os efeitos do Conjunto de 2 Peças em 50% por 10s. Pode acumular até 3x."
+            }            
+        ]
+    },
+    {
+        "id": "atravessador_do_fogo",
+        "nome": "Atravessador do Fogo",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "atravessador_do_fogo_flor",
+                "nome": "Determinação do Corredor de Lava" 
+            },
+            {
+                "id": "atravessador_do_fogo_pena",
+                "nome": "Libertação do Corredor de Lava"
+            },
+            {
+                "id": "atravessador_do_fogo_ampulheta",
+                "nome": "Tortura do Corredor de Lava" 
+            },
+            {
+                "id": "atravessador_do_fogo_calice",
+                "nome": "Despertamento do Corredor de Lava" 
+            },
+            {
+                "id": "atravessador_do_fogo_tiara",
+                "nome": "Sabedoria do Corredor de Lava" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "RES Pyro +40%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano contra inimigos afetados por Pyro em 35%."
+            }            
+        ]
+    },
+    {
+        "id": "antigo_ritual_real",
+        "nome": "Antigo Ritual Real",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "antigo_ritual_real_flor",
+                "nome": "Flor Real" 
+            },
+            {
+                "id": "antigo_ritual_real_pena",
+                "nome": "Pena Real"
+            },
+            {
+                "id": "antigo_ritual_real_ampulheta",
+                "nome": "Relógio de Bolso Real" 
+            },
+            {
+                "id": "antigo_ritual_real_calice",
+                "nome": "Urna de Prata Real" 
+            },
+            {
+                "id": "antigo_ritual_real_tiara",
+                "nome": "Máscara Real" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano na Supremo +20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Usar o Supremo aumenta o ATQ de todos os membros do grupo em 20% por 12s. Este efeito não pode ser acumulado."
+            }            
+        ]
+    },
+    {
+        "id": "cavaleiro_manchado_de_sangue",
+        "nome": "Cavaleiro Manchado de Sangue",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "cavaleiro_manchado_de_sangue_flor",
+                "nome": "Coração de Ferro Sanguinário" 
+            },
+            {
+                "id": "cavaleiro_manchado_de_sangue_pena",
+                "nome": "Pena Negra Sanguinária"
+            },
+            {
+                "id": "cavaleiro_manchado_de_sangue_ampulheta",
+                "nome": "Relógio do Cavaleiro Sanguinário" 
+            },
+            {
+                "id": "cavaleiro_manchado_de_sangue_calice",
+                "nome": "Cálice do Cavaleiro Sanguinário" 
+            },
+            {
+                "id": "cavaleiro_manchado_de_sangue_tiara",
+                "nome": "Máscara de Ferro Sanguinária" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Físico +25%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Após derrotar um oponente, aumenta o Dano do Ataque Carregado em 50% e reduz seu custo de Stamina para 0 por 10s."
+            }            
+        ]
+    },
+    {
+        "id": "pedra_arcaica",
+        "nome": "Pedra Arcaica",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "pedra_arcaica_flor",
+                "nome": "Flor do penhasco com fendas" 
+            },
+            {
+                "id": "pedra_arcaica_pena",
+                "nome": "Pena dos Picos Irregulares"
+            },
+            {
+                "id": "pedra_arcaica_ampulheta",
+                "nome": "Relógio de Sol de Jade Duradouro" 
+            },
+            {
+                "id": "pedra_arcaica_calice",
+                "nome": "Cálice de Penhasco Cinzelado" 
+            },
+            {
+                "id": "pedra_arcaica_tiara",
+                "nome": "Máscara de Basalto da Solidão" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Geo +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Ao obter um Fragmento Elemental criado por meio de uma Reação de Cristalização, todos os membros do grupo ganham 35% de Bônus de Dano para aquele elemento em particular por 10s. Apenas uma forma de Bônus de Dano Elemental pode ser obtida dessa maneira por vez."
+            }            
+        ]
+    },
+    {
+        "id": "meteoro_invertido",
+        "nome": "Meteoro Invertido",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "meteoro_invertido_flor",
+                "nome": "Flor do penhasco com fendas" 
+            },
+            {
+                "id": "meteoro_invertido_pena",
+                "nome": "Pena dos Picos Irregulares"
+            },
+            {
+                "id": "meteoro_invertido_ampulheta",
+                "nome": "Relógio de Sol de Jade Duradouro" 
+            },
+            {
+                "id": "meteoro_invertido_calice",
+                "nome": "Cálice de Penhasco Cinzelado" 
+            },
+            {
+                "id": "meteoro_invertido_tiara",
+                "nome": "Máscara de Basalto da Solidão" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Aumenta a Força do Escudo em 35%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Enquanto estiver protegido por um escudo, ganhe um adicional de 40% ataque normal e ataque carregado."
+            }            
+        ]
+    },
+    {
+        "id": "heroi_invernal",
+        "nome": "Herói Invernal",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "heroi_invernal_flor",
+                "nome": "Memória da Nevasca" 
+            },
+            {
+                "id": "heroi_invernal_pena",
+                "nome": "Determinação do Quebrador de Gelo"
+            },
+            {
+                "id": "heroi_invernal_ampulheta",
+                "nome": "Fim da Terra Natal Gelada" 
+            },
+            {
+                "id": "heroi_invernal_calice",
+                "nome": "Orgulho da Geada" 
+            },
+            {
+                "id": "heroi_invernal_tiara",
+                "nome": "Eco do Inverno" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Cryo +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Quando um personagem ataca um inimigo afetado por Cryo, a sua Taxa CRIT aumenta em 20%. Adicionalmente, se o inimigo estiver Congelado, a Taxa CRIT aumenta em mais 20%."
+            }            
+        ]
+    },
+    {
+        "id": "profundezas_do_coracao",
+        "nome": "Profundezas do Coração",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "profundezas_do_coracao_flor",
+                "nome": "Broche Dourado" 
+            },
+            {
+                "id": "profundezas_do_coracao_pena",
+                "nome": "Brisa da Nostalgia"
+            },
+            {
+                "id": "profundezas_do_coracao_ampulheta",
+                "nome": "Bússula de Cobre" 
+            },
+            {
+                "id": "profundezas_do_coracao_calice",
+                "nome": "Cálice das Profundezas" 
+            },
+            {
+                "id": "profundezas_do_coracao_tiara",
+                "nome": "Quepe de Capitão Manchado de Vinho" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Hydro +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Carregado em 30% por 15s."
+            }            
+        ]
+    },
+    {
+        "id": "millelith_firmes",
+        "nome": "Millelith Firmes",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "millelith_firmes_flor",
+                "nome": "Flor da Conquista" 
+            },
+            {
+                "id": "millelith_firmes_pena",
+                "nome": "Pena Brilhante Marcial"
+            },
+            {
+                "id": "millelith_firmes_ampulheta",
+                "nome": "Relógio de Sol Dourado" 
+            },
+            {
+                "id": "millelith_firmes_calice",
+                "nome": "Taça Dourada do Juramento" 
+            },
+            {
+                "id": "millelith_firmes_tiara",
+                "nome": "Capacete do Comandante" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Aumenta a Vida em 20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Quando a Habilidade Elemental atinge um oponente, o ATQ de todos os membroos da equipe próximos aumenta em 20% e sua Força do Escudo aumenta em 30% por 3s. Esse efeito pode ser ativado uma vez a cada 0,5s. Esse efeito ainda pode ser ativado mesmo quando o personagem que está usando esse conjunto de artefatos não está em campo."
+            }            
+        ]
+    },
+    {
+        "id": "chama_palida",
+        "nome": "Chama Pálida",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "chama_palida_flor",
+                "nome": "Flor da Purificação" 
+            },
+            {
+                "id": "chama_palida_pena",
+                "nome": "Pena do Médico Virtuoso"
+            },
+            {
+                "id": "chama_palida_ampulheta",
+                "nome": "Momento de Cessação" 
+            },
+            {
+                "id": "chama_palida_calice",
+                "nome": "Taça da Superação" 
+            },
+            {
+                "id": "chama_palida_tiara",
+                "nome": "Máscara Sorridente" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Físico +25%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Quando a Habilidade Elemental atinge um inimigo, o Ataque aumenta em 9% por 7s. Esse efeito acumula até 2 vezes e pode ser desencadeado uma vez a cada 0.3s. Quando se possui 2 acúmulos, o efeito do conjunto de 2 Artefatos é aumentado em 100%."
+            }            
+        ]
+    },
+    {
+        "id": "reminescencia_nostalgica",
+        "nome": "Reminescência Nostálgica",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "reminescencia_nostalgica_flor",
+                "nome": "Flor Envolvente" 
+            },
+            {
+                "id": "reminescencia_nostalgica_pena",
+                "nome": "Flecha das Memórias Ponderativas"
+            },
+            {
+                "id": "reminescencia_nostalgica_ampulheta",
+                "nome": "Relógio da Alvorada" 
+            },
+            {
+                "id": "reminescencia_nostalgica_calice",
+                "nome": "Coração da Esperança" 
+            },
+            {
+                "id": "reminescencia_nostalgica_tiara",
+                "nome": "Máscara das Mutações" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "ATQ +18%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Ao lançar sua Habilidade Elemental, se a Energia Elemental do Personagem for maior ou igual a 15, ele perderá 15 pontos de Energia Elemental e nos próximos 10s, seus Ataques Normais, Ataques Carregados, Ataques Imersivos terão um aumento de 50% de Dano. Esse efeito só pode ser desencadeado uma vez dentro desse intervalo de tempo."
+            }            
+        ]
+    },
+    {
+        "id": "selo_da_insulacao",
+        "nome": "Selo da Insulação",
+        "local": {
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
+        },
+        "radidades": [4,5],
+        "artefatos": [
+            {
+                "id": "selo_da_insulacao_flor",
+                "nome": "Pomo Poderoso" 
+            },
+            {
+                "id": "selo_da_insulacao_pena",
+                "nome": "Pluma Cortada"
+            },
+            {
+                "id": "selo_da_insulacao_ampulheta",
+                "nome": "Gaiola da Tempestade" 
+            },
+            {
+                "id": "selo_da_insulacao_calice",
+                "nome": "Ânfora das Flores Escarlates" 
+            },
+            {
+                "id": "selo_da_insulacao_tiara",
+                "nome": "Capacete Ornamentado" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Recarga de Energia +20%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano do Supremo em 25% da Recarga de Energia. No máximo é possível obter 75% de aumento de Dano dessa maneira."
+            }            
+        ]
+    },
+    {
+        "id": "casca_de_sonhos_opulentos",
         "nome": "Casca de Sonhos Opulentos",
         "local": {
             "id": "corte-da-hibernacao",
@@ -9,23 +1422,23 @@
         "radidades": [4,5],
         "artefatos": [
             {
-                "id": "periodo-de-gloria",
+                "id": "casca_de_sonhos_opulentos_flor",
                 "nome": "Período de Glória" 
             },
             {
-                "id": "plumas-da-opulencia",
-                "nome": "Plumas da Opulência" 
+                "id": "casca_de_sonhos_opulentos_pena",
+                "nome": "Plumas da Opulência"
             },
             {
-                "id": "cancao-da-vida",
+                "id": "casca_de_sonhos_opulentos_ampulheta",
                 "nome": "Canção da Vida" 
             },
             {
-                "id": "despertar-dos-sonhos",
+                "id": "casca_de_sonhos_opulentos_calice",
                 "nome": "Despertar dos Sonhos" 
             },
             {
-                "id": "chapeu-da-marionete",
+                "id": "casca_de_sonhos_opulentos_tiara",
                 "nome": "Chapéu da Marionete" 
             }
         ],
@@ -41,126 +1454,86 @@
         ]
     },
     {
-        "id": "antigo-ritual-real",
-        "nome": "Antigo Ritual Real",
-        "radidades": [4,5],
+        "id": "concha_tingida_pelo_mar",
+        "nome": "Concha Tingida Pelo Mar",
         "local": {
-            "id": "lago-de-luhua-e-caverna-da-montanha",
-            "nome": "Lago de Luhua e Caverna da Montanha"
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
         },
+        "radidades": [4,5],
         "artefatos": [
             {
-                "id": "flor-real",
-                "nome": "Flor Real" 
+                "id": "concha_tingida_pelo_mar_flor",
+                "nome": "Flor Tingida Pelo Mar" 
             },
             {
-                "id": "pena-real",
-                "nome": "Pena Real" 
+                "id": "concha_tingida_pelo_mar_pena",
+                "nome": "Pluma do Palácio Profundo"
             },
             {
-                "id": "relogio-de-bolso-real",
-                "nome": "Relógio de Bolso Real" 
+                "id": "concha_tingida_pelo_mar_ampulheta",
+                "nome": "Concha da Separação" 
             },
             {
-                "id": "urna-de-prata-real",
-                "nome": "Urna de Prata Real" 
+                "id": "concha_tingida_pelo_mar_calice",
+                "nome": "Jaula de Pérola" 
             },
             {
-                "id": "mascara-real",
-                "nome": "Máscara Real" 
+                "id": "concha_tingida_pelo_mar_tiara",
+                "nome": "Coroa de Watatsumi" 
             }
         ],
         "bonus": [
             {
                 "quantidade": 2,
-                "efeito": "Dano do Supremo +20%."
+                "efeito": "Bônus de Cura +15%."
             },
             {
                 "quantidade": 4,
-                "efeito": "Uma flor de seda azul, foi um elemento decorativo muito usado em grandes eventos. Atualmente, ainda possui boa aparência, mesmo depois de ter sido abandonada pelo seu antigo dono."
+                "efeito": "Quando o personagem que equipa este conjunto de artefatos cura outro personagem da sua equipe, ele cria o efeito \"Bolha de Espuma do Mar\" durante 3s, que registra a quantidade de vida regenerada (incluindo a regenerada acima de 100%). No final da duração do efeito, a Bolha de Espuma do Mar explode, causando dano aos inimigos ao redor com base em 90% da vida regenerada. (Esse Dano é calculado de forma semelhante a reações como Eletricamente Carregado e Supercondutor, mas não é afetado pela Proficiência Elemental, níveis de personagens ou dano bônus de reações). Apenas se pode criar uma Bolha de Espuma do Mar a cada 3,5s, e esta poderá registrar no máximo 30.000 pontos de vida, incluindo aqueles regenerados acima de 100%. Além disso, apenas uma Bolha de Espuma do Mar pode existir em sua equipe de cada vez. Quando o personagem equipando este conjunto de artefatos está na equipe, mas não em combate, poderá ainda assim ativar este efeito."
             }            
         ]
     },
     {
-        "id": "pedra-arcaica",
-        "nome": "Pedra Arcaica",
-        "radidades": [4,5],
+        "id": "donzela_amada",
+        "nome": "Donzela Amada",
         "local": {
-            "id": "lago-de-luhua-e-caverna-da-montanha",
-            "nome": "Lago de Luhua e Caverna da Montanha"
+            "id": "corte-da-hibernacao",
+            "nome": "Corte da Hibernação"
         },
+        "radidades": [4,5],
         "artefatos": [
             {
-                "id": "flor-do-penhasco-rachado",
-                "nome": "Flor do Penhasco Rachado" 
+                "id": "donzela_amada_flor",
+                "nome": "Amor Distante da Donzela" 
             },
             {
-                "id": "asas-do-pico-da-montanha",
-                "nome": "Asas do Pico da Montanha" 
+                "id": "donzela_amada_pena",
+                "nome": "Lembranças da Donzela"
             },
             {
-                "id": "relogio-de-sol-de-jade-duradouro",
-                "nome": "Relógio de Sol de Jade Duradouro" 
+                "id": "donzela_amada_ampulheta",
+                "nome": "Juventude Passageira da Donzela" 
             },
             {
-                "id": "taca-do-escultor-de-pedra",
-                "nome": "Taça do Escultor de Pedra" 
+                "id": "donzela_amada_calice",
+                "nome": "Passatempo da Donzela" 
             },
             {
-                "id": "mascara-de-basalto-da-solidao",
-                "nome": "Máscara de Basalto da Solidão" 
+                "id": "donzela_amada_tiara",
+                "nome": "Beleza Desvanecida da Donzela" 
             }
         ],
         "bonus": [
             {
                 "quantidade": 2,
-                "efeito": "Bônus de Dano Geo +15%."
+                "efeito": "Conjunto de 2 peças Efeito de Cura do Personagem aumenta em 15%."
             },
             {
                 "quantidade": 4,
-                "efeito": "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização, todos os personagens na equipe ganham 35% de DMG para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento."
-            }            
-        ]
-    },
-    {
-        "id": "lancador-de-trovoes",
-        "nome": "Lançador de Trovões",
-        "radidades": [4,5],
-        "local": {
-            "id": "lago-de-luhua-e-caverna-da-montanha",
-            "nome": "Lago de Luhua e Caverna da Montanha"
-        },
-        "artefatos": [
-            {
-                "id": "lancador-de-trovoes_coracao- do-domador-de-raios",
-                "nome": "Coração do Domador de Raios" 
-            },
-            {
-                "id": "lancador-de-trovoes_pena-do-domador-de-raios",
-                "nome": "Pena do Domador de Raios" 
-            },
-            {
-                "id": "lancador-de-trovoes_apice-do-domador-de-raios",
-                "nome": "Ápice do Domador de Raios" 
-            },
-            {
-                "id": "lancador-de-trovoes_calice-do-domador-de-raios",
-                "nome": "Cálice do Domador de Raios" 
-            },
-            {
-                "id": "lancador-de-trovoes_coroa-do-domador-de-raios",
-                "nome": "Coroa do Domador de Raios" 
-            }
-        ],
-        "bonus": [
-            {
-                "quantidade": 2,
-                "efeito": "RES Electro +40%."
-            },
-            {
-                "quantidade": 4,
-                "efeito": "Aumenta o Dano contra inimigos afetados por Electro em 35%."
+                "efeito": "Conjunto de 4 peças Ao usar a Habilidade Elemental ou Explosão, aumenta a cura recebida por todos os membros da equipe em 20% por 10s."
             }            
         ]
     }
+
 ]
