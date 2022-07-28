@@ -554,7 +554,7 @@
         ]
     },
     {
-        "id": "oracoes_para_a_destino",
+        "id": "oracoes_para_o_destino",
         "nome": "Orações para a Destino",
         "local": {
             "id": "corte-da-hibernacao",
@@ -563,7 +563,7 @@
         "raridades": [3,4],
         "artefatos": [
             {
-                "id": "oracoes_para_a_destino_tiara",
+                "id": "oracoes_para_o_destino_tiara",
                 "nome": "Coroa do Ritual Hydro" 
             }
         ],
