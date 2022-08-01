@@ -32,7 +32,7 @@
                 "tipo": "Sub DPS Geo",
                 "artefatos": [
                     {
-                        "id": "casca-de-sonhos-opulentos",
+                        "id": "casca_de_sonhos_opulentos",
                         "nome": "Casca de Sonhos Opulentos",
                         "raridade": 5,
                         "quantidade": 4
@@ -47,13 +47,13 @@
                 "tipo": "Sub DPS Geo",
                 "artefatos": [
                     {
-                        "id": "pedra-arcaica",
+                        "id": "pedra_arcaica",
                         "nome": "Pedra Arcaica",
                         "raridade": 5,
                         "quantidade": 2                        
                     },
                     {
-                        "id": "antigo-ritual-real",
+                        "id": "antigo_ritual_real",
                         "nome": "Antigo Ritual Real",
                         "raridade": 5,
                         "quantidade": 2
