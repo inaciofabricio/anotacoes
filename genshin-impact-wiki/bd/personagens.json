@@ -179,7 +179,7 @@
         "nomeCompleto": "Thoma",
         "elemento": "pyro",
         "raridade": 4,
-        "eventosDeEncontro": [1,2,3,4,5,6,7,8]    
+        "eventosDeEncontro": [1,2,3,4,5,6]    
     },
     {
         "id": "heizou",
