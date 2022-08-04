@@ -149,7 +149,7 @@
         "nomeCompleto": "Barbara",
         "elemento": "hydro",
         "raridade": 4,
-        "eventosDeEncontro": 5     
+        "eventosDeEncontro": [1,2,3,4,5]     
     },
     {
         "id": "bennett",
