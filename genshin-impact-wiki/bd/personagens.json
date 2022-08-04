@@ -156,7 +156,8 @@
         "nome": "Bennett",
         "nomeCompleto": "Bennett",
         "elemento": "pyro",
-        "raridade": 4    
+        "raridade": 4,
+        "eventosDeEncontro": [1,2,3,4,5,6]    
     },
     {
         "id": "itto",
@@ -171,5 +172,37 @@
         "nomeCompleto": "Yelan",
         "elemento": "hydro",
         "raridade": 5    
+    },
+    {
+        "id": "thoma",
+        "nome": "thoma",
+        "nomeCompleto": "Thoma",
+        "elemento": "pyro",
+        "raridade": 4,
+        "eventosDeEncontro": [1,2,3,4,5,6,7,8]    
+    },
+    {
+        "id": "heizou",
+        "nome": "Heizou",
+        "nomeCompleto": "Shikanoin Heizou",
+        "elemento": "anemo",
+        "raridade": 4,
+        "eventosDeEncontro": [1,2,3,4,5]    
+    },
+    {
+        "id": "chongyun",
+        "nome": "Chongyun",
+        "nomeCompleto": "Chongyun",
+        "elemento": "cryo",
+        "raridade": 4,
+        "eventosDeEncontro": [1,2,3,4,5,6]    
+    },
+    {
+        "id": "noelle",
+        "nome": "Noelle",
+        "nomeCompleto": "Noelle",
+        "elemento": "geo",
+        "raridade": 4,
+        "eventosDeEncontro": [1,2,3,4,5,6]    
     }
 ]
