@@ -2,10 +2,12 @@
     {
         "id": "aventureiro",
         "nome": "Aventureiro",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "mundo",
+                "nome": "Mundo"
+            }
+        ],
         "raridades": [2,3],
         "artefatos": [
             {
@@ -43,10 +45,12 @@
     {
         "id": "o_doutor_viajante",
         "nome": "O Doutor Viajante",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "mundo",
+                "nome": "Mundo"
+            }
+        ],
         "raridades": [2,3],
         "artefatos": [
             {
@@ -84,10 +88,12 @@
     {
         "id": "o_sortudo",
         "nome": "O Sortudo",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "mundo",
+                "nome": "Mundo"
+            }
+        ],
         "raridades": [2,3],
         "artefatos": [
             {
@@ -125,10 +131,20 @@
     {
         "id": "apostador",
         "nome": "Apostador",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "vale-perdido",
+                "nome": "Vale Perdido"
+            },
+            {
+                "id": "pico-de-vindnr",
+                "nome": "Pico de Vindnr"
+            },
+            {
+                "id": "lago-de-luhua-e-caverna-da-montanha",
+                "nome": "Lago de Luhua- e Caverna da Montanha"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -166,10 +182,20 @@
     {
         "id": "artista_marcial",
         "nome": "Artista Marcial",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "vale-perdido",
+                "nome": "Vale Perdido"
+            },
+            {
+                "id": "palacio-oculto-da-formula-zhou",
+                "nome": "Palácio Oculto da Fórmula Zhou"
+            },
+            {
+                "id": "guardiao-da-montanha",
+                "nome": "Guardião da Montanha"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -207,10 +233,20 @@
     {
         "id": "berserker",
         "nome": "Berserker",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "chefes-semanais",
+                "nome": "Chefes Semanais"
+            },
+            {
+                "id": "chefes-comuns",
+                "nome": "Chefes Comuns"
+            },
+            {
+                "id": "inimigos-elite",
+                "nome": "Inimigos Elite"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -248,10 +284,20 @@
     {
         "id": "coracao_valente",
         "nome": "Coração Valente",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "corte-da-hibernacao",
+                "nome": "Corte da Hibernação"
+            },
+            {
+                "id": "dominio-de-guyum",
+                "nome": "Domínio de Guyum"
+            },
+            {
+                "id": "guardiao-da-montanha",
+                "nome": "Guardião da Montanha"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -289,10 +335,20 @@
     {
         "id": "guardiao",
         "nome": "Guardião",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "palacio-oculto-da-formula-zhou",
+                "nome": "Palácio Oculto da Fórmula Zhou"
+            },
+            {
+                "id": "pico-de-vindnr",
+                "nome": "Pico de Vindnr"
+            },
+            {
+                "id": "corte-da-hibernacao",
+                "nome": "Corte da Hibernação"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -330,10 +386,20 @@
     {
         "id": "instrutor",
         "nome": "Instrutor",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "chefes-semanais",
+                "nome": "Chefes Semanais"
+            },
+            {
+                "id": "chefes-comuns",
+                "nome": "Chefes Comuns"
+            },
+            {
+                "id": "inimigos-elite",
+                "nome": "Inimigos Elite"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -371,10 +437,12 @@
     {
         "id": "o_estudioso",
         "nome": "O Estudioso",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "lago-de-luhua-e-caverna-da-montanha",
+                "nome": "Lago de Luhua e Caverna da Montanha"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -412,10 +480,20 @@
     {
         "id": "o_exilado",
         "nome": "O Exilado",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "chefes-semanais",
+                "nome": "Chefes Semanais"
+            },
+            {
+                "id": "chefes-comuns",
+                "nome": "Chefes Comuns"
+            },
+            {
+                "id": "inimigos-elite",
+                "nome": "Inimigos Elite"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -453,10 +531,16 @@
     {
         "id": "pequeno_milagre",
         "nome": "Pequeno Milagre",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "jardim-do-outono",
+                "nome": "Jardim do Outono"
+            },
+            {
+                "id": "vale-das-Lembrancas",
+                "nome": "Vale das Lembranças"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -494,10 +578,16 @@
     {
         "id": "resolucao_de_sojourner",
         "nome": "Resolução de Sojourner",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "jardim-de-verao",
+                "nome": "Jardim de Verão"
+            },
+            {
+                "id": "jardim-do-outono",
+                "nome": "Jardim do Outono"
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -535,10 +625,12 @@
     {
         "id": "oracoes_para_a_primavera",
         "nome": "Orações para a Primavera",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "oracoes-para-a-primavera",
+                "nome": "Chefes Comuns" 
+            }
+        ],
         "raridades": [3,4],
         "artefatos": [
             {
@@ -556,9 +648,9 @@
     {
         "id": "oracoes_para_o_destino",
         "nome": "Orações para a Destino",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
+        "locais": {
+            "id": "oracoes-para-o-destino",
+            "nome": "Chefes Comuns"
         },
         "raridades": [3,4],
         "artefatos": [
@@ -577,7 +669,7 @@
     {
         "id": "xama_do_ritual_electro",
         "nome": "Xamã do Ritual Electro",
-        "local": {
+        "locais": {
             "id": "corte-da-hibernacao",
             "nome": "Corte da Hibernação"
         },
@@ -597,10 +689,10 @@
     },
     {
         "id": "xama_do_ritual_pyro",
-        "nome": "Corte da Hibernação",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Coroa do Ritual Hydro"
+        "nome": "Xamã do Ritual Pyro",
+        "locais": {
+            "id": "xama-do-ritual-pyro",
+            "nome": "Chefes Comuns"
         },
         "raridades": [3,4],
         "artefatos": [
@@ -619,10 +711,16 @@
     {
         "id": "trupe_itinerante",
         "nome": "Trupe Itinerante",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "chefes-semanais",
+                "nome": "Chefes Semanais"
+            },
+            {
+                "id": "chefes-comuns",
+                "nome": "Chefes Comuns"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -660,10 +758,16 @@
     {
         "id": "ultimo_juramento_do_gladiador",
         "nome": "Último Juramento do Gladiador",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "chefes-semanais",
+                "nome": "Chefes Semanais"
+            },
+            {
+                "id": "chefes-comuns",
+                "nome": "Chefes Comuns"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -701,10 +805,12 @@
     {
         "id": "lancador_de_trovoes",
         "nome": "Lançador de Trovões",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+            "id": "jardim-de-verao",
+            "nome": "Jardim de Verão"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -740,12 +846,57 @@
         ]
     },
     {
+        "id": "trovao_furioso",
+        "nome": "Trovão Furioso",
+        "locais": [
+            {
+                "id": "jardim-de-verao",
+                "nome": "Jardim de Verão"
+            }
+        ],
+        "raridades": [4,5],
+        "artefatos": [
+            {
+                "id": "trovao_furioso_flor",
+                "nome": "Misericórdia do Pássaro do Trovão" 
+            },
+            {
+                "id": "trovao_furioso_pena",
+                "nome": "Sobreviventes da Catástrofe"
+            },
+            {
+                "id": "trovao_furioso_ampulheta",
+                "nome": "Relógio do Trovão" 
+            },
+            {
+                "id": "trovao_furioso_calice",
+                "nome": "Profecia do Trovão" 
+            },
+            {
+                "id": "trovao_furioso_tiara",
+                "nome": "Coroa do Invocador do Trovão" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Bônus de Dano Electro +15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Aumenta o Dano causado pela Sobrecarga, Eletricamente Carregado e Supercondutor em 40%. Ao ativar estes efeitos, diminui a Recarga da Habilidade Elemental em 1s. Pode ser ativado uma vez a cada 0.8s."
+            }            
+        ]
+    },
+    {
         "id": "alem_vida_cinabrio",
         "nome": "Além-Vida Cinábrio",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "vale-perdido",
+                "nome": "Vale Perdido"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -783,10 +934,12 @@
     {
         "id": "eco_do_sacrificio",
         "nome": "Eco do Sacrifício",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "vale-perdido",
+                "nome": "Vale Perdido"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -820,55 +973,16 @@
                 "efeito": "Quando o Ataque Normal atinge um inimigo, tem 36% de chance de ativar o Rito do Vale: o Ataque Normal aumenta o Dano e o valor de aumento é 70% do ATQ. Esse efeito desaparece nos 0.05s após o Ataque Normal causar dano. Quando o Ataque Normal não ativar o Rito do Vale, aumenta a probabilidade em 20% no próximo lançamento. Essa ativação pode ocorrer 1 vez a cada 0.2s."
             }            
         ]
-    },
-    {
-        "id": "trovao_furioso",
-        "nome": "Trovão Furioso",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
-        "raridades": [4,5],
-        "artefatos": [
-            {
-                "id": "trovao_furioso_flor",
-                "nome": "Misericórdia do Pássaro do Trovão" 
-            },
-            {
-                "id": "trovao_furioso_pena",
-                "nome": "Sobreviventes da Catástrofe"
-            },
-            {
-                "id": "trovao_furioso_ampulheta",
-                "nome": "Relógio do Trovão" 
-            },
-            {
-                "id": "trovao_furioso_calice",
-                "nome": "Profecia do Trovão" 
-            },
-            {
-                "id": "trovao_furioso_tiara",
-                "nome": "Coroa do Invocador do Trovão" 
-            }
-        ],
-        "bonus": [
-            {
-                "quantidade": 2,
-                "efeito": "Bônus de Dano Electro +15%."
-            },
-            {
-                "quantidade": 4,
-                "efeito": "Aumenta o Dano causado pela Sobrecarga, Eletricamente Carregado e Supercondutor em 40%. Ao ativar estes efeitos, diminui a Recarga da Habilidade Elemental em 1s. Pode ser ativado uma vez a cada 0.8s."
-            }            
-        ]
-    },
+    },    
     {
         "id": "sombra_verde",
         "nome": "Sombra Verde",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "vale-das-lembrancas",
+                "nome": "Vale das Lembranças"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -904,12 +1018,57 @@
         ]
     },
     {
+        "id": "donzela_amada",
+        "nome": "Donzela Amada",
+        "locais": [
+            {
+                "id": "vale-das-lembrancas",
+                "nome": "Vale das Lembranças"
+            }
+        ],
+        "raridades": [4,5],
+        "artefatos": [
+            {
+                "id": "donzela_amada_flor",
+                "nome": "Amor Distante da Donzela" 
+            },
+            {
+                "id": "donzela_amada_pena",
+                "nome": "Lembranças da Donzela"
+            },
+            {
+                "id": "donzela_amada_ampulheta",
+                "nome": "Juventude Passageira da Donzela" 
+            },
+            {
+                "id": "donzela_amada_calice",
+                "nome": "Passatempo da Donzela" 
+            },
+            {
+                "id": "donzela_amada_tiara",
+                "nome": "Beleza Desvanecida da Donzela" 
+            }
+        ],
+        "bonus": [
+            {
+                "quantidade": 2,
+                "efeito": "Conjunto de 2 peças Efeito de Cura do Personagem aumenta em 15%."
+            },
+            {
+                "quantidade": 4,
+                "efeito": "Conjunto de 4 peças Ao usar a Habilidade Elemental ou Explosão, aumenta a cura recebida por todos os membros da equipe em 20% por 10s."
+            }            
+        ]
+    },
+    {
         "id": "a_bruxa_das_chamas_carmesim",
         "nome": "A Bruxa das Chamas Carmesim",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "palacio-oculto-da-formula-zhou",
+                "nome": "Palácio Oculto da Fórmula Zhou"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -947,10 +1106,12 @@
     {
         "id": "atravessador_do_fogo",
         "nome": "Atravessador do Fogo",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "palacio-oculto-da-formula-zhou",
+                "nome": "Palácio Oculto da Fórmula Zhou"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -988,10 +1149,12 @@
     {
         "id": "antigo_ritual_real",
         "nome": "Antigo Ritual Real",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "lago-de-luhua-e-caverna-da-montanha",
+                "nome": "Lago de Luhua e Caverna da Montanha"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1029,10 +1192,12 @@
     {
         "id": "cavaleiro_manchado_de_sangue",
         "nome": "Cavaleiro Manchado de Sangue",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "lago-de-luhua-e-caverna-da-montanha",
+                "nome": "Lago de Luhua- e Caverna da Montanha"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1070,10 +1235,12 @@
     {
         "id": "pedra_arcaica",
         "nome": "Pedra Arcaica",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "dominio-de-guyum",
+                "nome": "Domínio de Guyum"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1111,10 +1278,12 @@
     {
         "id": "meteoro_invertido",
         "nome": "Meteoro Invertido",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "dominio-de-guyum",
+                "nome": "Domínio de Guyum"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1152,10 +1321,12 @@
     {
         "id": "heroi_invernal",
         "nome": "Herói Invernal",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "pico-de-vindnr",
+                "nome": "Pico de Vindnr"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1193,10 +1364,12 @@
     {
         "id": "profundezas_do_coracao",
         "nome": "Profundezas do Coração",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "pico-de-vindnr",
+                "nome": "Pico de Vindnr"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1234,10 +1407,12 @@
     {
         "id": "millelith_firmes",
         "nome": "Millelith Firmes",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "guardiao-da-montanha",
+                "nome": "Guardião da Montanha"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1275,10 +1450,12 @@
     {
         "id": "chama_palida",
         "nome": "Chama Pálida",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "guardiao-da-montanha",
+                "nome": "Guardião da Montanha"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1316,10 +1493,12 @@
     {
         "id": "reminescencia_nostalgica",
         "nome": "Reminescência Nostálgica",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "jardim-do-outono",
+                "nome": "Jardim do Outono"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1357,10 +1536,12 @@
     {
         "id": "selo_da_insulacao",
         "nome": "Selo da Insulação",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "jardim-do-outono",
+                "nome": "Jardim do Outono"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1398,10 +1579,12 @@
     {
         "id": "casca_de_sonhos_opulentos",
         "nome": "Casca de Sonhos Opulentos",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "corte-da-hibernacao",
+                "nome": "Corte da Hibernação"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1439,10 +1622,12 @@
     {
         "id": "concha_tingida_pelo_mar",
         "nome": "Concha Tingida Pelo Mar",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
+        "locais": [
+            {
+                "id": "corte-da-hibernacao",
+                "nome": "Corte da Hibernação"
+            }
+        ],
         "raridades": [4,5],
         "artefatos": [
             {
@@ -1476,47 +1661,5 @@
                 "efeito": "Quando o personagem que equipa este conjunto de artefatos cura outro personagem da sua equipe, ele cria o efeito \"Bolha de Espuma do Mar\" durante 3s, que registra a quantidade de vida regenerada (incluindo a regenerada acima de 100%). No final da duração do efeito, a Bolha de Espuma do Mar explode, causando dano aos inimigos ao redor com base em 90% da vida regenerada. (Esse Dano é calculado de forma semelhante a reações como Eletricamente Carregado e Supercondutor, mas não é afetado pela Proficiência Elemental, níveis de personagens ou dano bônus de reações). Apenas se pode criar uma Bolha de Espuma do Mar a cada 3,5s, e esta poderá registrar no máximo 30.000 pontos de vida, incluindo aqueles regenerados acima de 100%. Além disso, apenas uma Bolha de Espuma do Mar pode existir em sua equipe de cada vez. Quando o personagem equipando este conjunto de artefatos está na equipe, mas não em combate, poderá ainda assim ativar este efeito."
             }            
         ]
-    },
-    {
-        "id": "donzela_amada",
-        "nome": "Donzela Amada",
-        "local": {
-            "id": "corte-da-hibernacao",
-            "nome": "Corte da Hibernação"
-        },
-        "raridades": [4,5],
-        "artefatos": [
-            {
-                "id": "donzela_amada_flor",
-                "nome": "Amor Distante da Donzela" 
-            },
-            {
-                "id": "donzela_amada_pena",
-                "nome": "Lembranças da Donzela"
-            },
-            {
-                "id": "donzela_amada_ampulheta",
-                "nome": "Juventude Passageira da Donzela" 
-            },
-            {
-                "id": "donzela_amada_calice",
-                "nome": "Passatempo da Donzela" 
-            },
-            {
-                "id": "donzela_amada_tiara",
-                "nome": "Beleza Desvanecida da Donzela" 
-            }
-        ],
-        "bonus": [
-            {
-                "quantidade": 2,
-                "efeito": "Conjunto de 2 peças Efeito de Cura do Personagem aumenta em 15%."
-            },
-            {
-                "quantidade": 4,
-                "efeito": "Conjunto de 4 peças Ao usar a Habilidade Elemental ou Explosão, aumenta a cura recebida por todos os membros da equipe em 20% por 10s."
-            }            
-        ]
     }
-
 ]
