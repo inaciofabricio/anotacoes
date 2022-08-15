@@ -302,8 +302,8 @@
         ],
         "talentos": [
             {
-                "id": "ataque-normal",
-                "nome": "Ataque Normal",
+                "id": "naname",
+                "nome": "Naname",
                 "nivel": 9
             },
             {
