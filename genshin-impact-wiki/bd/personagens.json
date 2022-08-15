@@ -7,7 +7,7 @@
         "raridade": 5,
         "armas" : [
             {
-                "id": "cortador-de-fade-primordial",
+                "id": "cortador-de-jade-primordial",
                 "nome": "Cortador de Jade Primordial",
                 "raridade": 5
             },
@@ -103,7 +103,7 @@
         ],
         "referencias": [
             {
-                "canal": "Como Jogar",
+                "nome": "Canal Como Jogar",
                 "link": "https://youtu.be/KKylLUwKJ6o"
             }
         ]
@@ -204,5 +204,125 @@
         "elemento": "geo",
         "raridade": 4,
         "eventosDeEncontro": [1,2,3,4,5,6]    
+    },
+    {
+        "id": "ayaka",
+        "nome": "Ayaka",
+        "nomeCompleto": "Kamisato Ayaka",
+        "elemento": "cryo",
+        "raridade": 5,
+        "armas" : [
+            {
+                "id": "cortadora-da-neblina-reforjada",
+                "nome": "Cortadora da Neblina Reforjada",
+                "raridade": 5
+            },
+            {
+                "id": "cortador-de-jade-primordial",
+                "nome": "Cortador de Jade Primordial",
+                "raridade": 5
+            },
+            {
+                "id": "cortador-de-montanhas",
+                "nome": "Cortador de Montanhas",
+                "raridade": 5
+            },
+            {
+                "id": "espada-do-penhasco-obscuro",
+                "nome": "Espada do Penhasco Obscuro",
+                "raridade": 4
+            },
+            {
+                "id": "espada-negra",
+                "nome": "Espada Negra",
+                "raridade": 4
+            },
+            {
+                "id": "lamina-amenoma-kageuta",
+                "nome": "Lâmina Amenoma Kageuta",
+                "raridade": 4
+            }
+        ],
+        "conjuntosDeArtefatos": [
+            {
+                "tipo": "DPS",
+                "artefatos": [
+                    {
+                        "id": "heroi_invernal",
+                        "nome": "Herói Invernal",
+                        "raridade": 5,
+                        "quantidade": 4
+                    }
+                ],
+                "bonus": [
+                    "Bônus de Dano Cryo +15%.",
+                    "Quando um personagem ataca um inimigo afetado por Cryo, a sua Taxa CRIT aumenta em 20%. Adicionalmente, se o inimigo estiver Congelado, a Taxa CRIT aumenta em mais 20%."
+                ]
+            },
+            {
+                "tipo": "DPS",
+                "artefatos": [
+                    {
+                        "id": "heroi_invernal",
+                        "nome": "Herói Invernal",
+                        "raridade": 5,
+                        "quantidade": 2
+                    },
+                    {
+                        "id": "reminescencia_nostalgica",
+                        "nome": "Reminescência Nostálgica",
+                        "raridade": 5,
+                        "quantidade": 2
+                    }
+                ],
+                "bonus": [
+                    "Bônus de Dano Cryo +15%.",
+                    "ATQ +18%."
+                ]
+            }
+        ],
+        "atributosPrincipais": [
+            {
+                "titulo": "Ampulheta",
+                "valor": "Ataque %"
+            },
+            {
+                "titulo": "Cálice",
+                "valor": "Dano Cryo %"
+            },
+            {
+                "titulo": "Tiara",
+                "valor": "Taxa ou Dano Crítico"
+            }
+        ],
+        "atributosSecundarios": [
+            "Taxa",
+            "Dano Crítico",
+            "Ataque %"
+        ],
+        "talentos": [
+            {
+                "id": "ataque-normal",
+                "nome": "Ataque Normal",
+                "nivel": 9
+            },
+            {
+                "id": "hyouka",
+                "nome": "Hyouka",
+                "nivel": 9
+            },
+            {
+                "id": "soumetsu",
+                "nome": "Soumetsu",
+                "nivel": 9
+            }
+        ],
+        "referencias": [
+            {
+                "nome": "Canal Como Jogar",
+                "link": "https://youtu.be/KNRjFezsvyY"
+            }
+        ]
+
     }
 ]
