@@ -303,17 +303,17 @@
         "talentos": [
             {
                 "id": "naname",
-                "nome": "Naname",
+                "nome": "Ataque Normal - Naname",
                 "nivel": 9
             },
             {
                 "id": "hyouka",
-                "nome": "Hyouka",
+                "nome": "Habilidade Elemental - Hyouka",
                 "nivel": 9
             },
             {
                 "id": "soumetsu",
-                "nome": "Soumetsu",
+                "nome": "Supermo - Soumetsu",
                 "nivel": 9
             }
         ],
