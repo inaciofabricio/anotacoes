@@ -87,16 +87,19 @@
         "talentos": [
             {
                 "id": "ataque-normal",
-                "nome": "Ataque Normal",
+                "tipo": "Ataque Normal",
+                "nome": "Branco",
                 "nivel": 1
             },
             {
                 "id": "radiacao-solar",
+                "tipo": "Habilidade Elemental",
                 "nome": "Radiação Solar",
                 "nivel": 9
             },
             {
                 "id": "mare-tectonica",
+                "tipo": "Supremo",
                 "nome": "Maré Tectônica",
                 "nivel": 9
             }
@@ -303,17 +306,20 @@
         "talentos": [
             {
                 "id": "naname",
-                "nome": "Ataque Normal - Naname",
+                "tipo": "Ataque Normal",
+                "nome": "Naname",
                 "nivel": 9
             },
             {
                 "id": "hyouka",
-                "nome": "Habilidade Elemental - Hyouka",
+                "tipo" : "Habilidade Elemental",
+                "nome": "Hyouka",
                 "nivel": 9
             },
             {
                 "id": "soumetsu",
-                "nome": "Supermo - Soumetsu",
+                "tipo": "Supermo",
+                "nome": "Soumetsu",
                 "nivel": 9
             }
         ],
