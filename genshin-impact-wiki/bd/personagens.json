@@ -329,6 +329,236 @@
                 "link": "https://youtu.be/KNRjFezsvyY"
             }
         ]
-
+    },
+    {
+        "id": "diluc",
+        "nome": "Diluc",
+        "nomeCompleto": "Diluc",
+        "elemento": "pyro",
+        "raridade": 5    
+    },
+    {
+        "id": "diona",
+        "nome": "Diona",
+        "nomeCompleto": "Diona",
+        "elemento": "cryo",
+        "raridade": 4   
+    },
+    {
+        "id": "eula",
+        "nome": "Eula",
+        "nomeCompleto": "Eula",
+        "elemento": "cryo",
+        "raridade": 5   
+    },
+    {
+        "id": "fischl",
+        "nome": "Fischl",
+        "nomeCompleto": "Fischl",
+        "elemento": "electro",
+        "raridade": 4   
+    },
+    {
+        "id": "ganyu",
+        "nome": "Ganyu",
+        "nomeCompleto": "Ganyu",
+        "elemento": "cryo",
+        "raridade": 5   
+    },
+    {
+        "id": "gorou",
+        "nome": "Gorou",
+        "nomeCompleto": "Gorou",
+        "elemento": "geo",
+        "raridade": 4   
+    },
+    {
+        "id": "hu-tao",
+        "nome": "Hu Tao",
+        "nomeCompleto": "Hu Tao",
+        "elemento": "pyro",
+        "raridade": 5   
+    },
+    {
+        "id": "jean",
+        "nome": "Jean",
+        "nomeCompleto": "Jean",
+        "elemento": "anemo",
+        "raridade": 5   
+    },
+    {
+        "id": "kazuha",
+        "nome": "Kazuha",
+        "nomeCompleto": "Kazuha",
+        "elemento": "anemo",
+        "raridade": 5   
+    },
+    {
+        "id": "keqing",
+        "nome": "Keqing",
+        "nomeCompleto": "Keqing",
+        "elemento": "electro",
+        "raridade": 5   
+    },
+    {
+        "id": "klee",
+        "nome": "Klee",
+        "nomeCompleto": "Klee",
+        "elemento": "pyro",
+        "raridade": 5   
+    },
+    {
+        "id": "kokomi",
+        "nome": "Kokomi",
+        "nomeCompleto": "Sangonomiya Kokomi",
+        "elemento": "hydro",
+        "raridade": 5   
+    },
+    {
+        "id": "mona",
+        "nome": "Mona",
+        "nomeCompleto": "Mona",
+        "elemento": "hydro",
+        "raridade": 5   
+    },
+    {
+        "id": "ningguang",
+        "nome": "Ningguang",
+        "nomeCompleto": "Ningguang",
+        "elemento": "geo",
+        "raridade": 4   
+    },
+    {
+        "id": "qiqi",
+        "nome": "Qiqi",
+        "nomeCompleto": "Qiqi",
+        "elemento": "cryo",
+        "raridade": 5   
+    },
+    {
+        "id": "raiden",
+        "nome": "Raiden",
+        "nomeCompleto": "Shogun Raiden",
+        "elemento": "electro",
+        "raridade": 5   
+    },
+    {
+        "id": "razor",
+        "nome": "Razor",
+        "nomeCompleto": "Razor",
+        "elemento": "electro",
+        "raridade": 4   
+    },
+    {
+        "id": "rosaria",
+        "nome": "Rosaria",
+        "nomeCompleto": "Rosaria",
+        "elemento": "cryo",
+        "raridade": 4   
+    },
+    {
+        "id": "sara",
+        "nome": "Sara",
+        "nomeCompleto": "Kujou Sara",
+        "elemento": "electro",
+        "raridade": 4   
+    },
+    {
+        "id": "sayu",
+        "nome": "Sayu",
+        "nomeCompleto": "Sayu",
+        "elemento": "anemo",
+        "raridade": 4   
+    },
+    {
+        "id": "shenhe",
+        "nome": "Shenhe",
+        "nomeCompleto": "Shenhe",
+        "elemento": "cryo",
+        "raridade": 5   
+    },
+    {
+        "id": "shinobu",
+        "nome": "Shinobu",
+        "nomeCompleto": "Kuki Shinobu",
+        "elemento": "electro",
+        "raridade": 4   
+    },
+    {
+        "id": "sucrose",
+        "nome": "sucrose",
+        "nomeCompleto": "Sucrose",
+        "elemento": "anemo",
+        "raridade": 4   
+    },
+    {
+        "id": "tartaglia",
+        "nome": "Tartaglia",
+        "nomeCompleto": "Tartaglia",
+        "elemento": "hydro",
+        "raridade": 5   
+    },
+    {
+        "id": "venti",
+        "nome": "Venti",
+        "nomeCompleto": "Venti",
+        "elemento": "anemo",
+        "raridade": 5   
+    },
+    {
+        "id": "viajante",
+        "nome": "viajante",
+        "nomeCompleto": "viajante",
+        "elemento": "indefinido",
+        "raridade": 5   
+    },
+    {
+        "id": "xiangling",
+        "nome": "Xiangling",
+        "nomeCompleto": "Xiangling",
+        "elemento": "pyro",
+        "raridade": 4  
+    },
+    {
+        "id": "xinyan",
+        "nome": "xinyan",
+        "nomeCompleto": "xinyan",
+        "elemento": "pyro",
+        "raridade": 4  
+    },
+    {
+        "id": "miko",
+        "nome": "Yae Miko",
+        "nomeCompleto": "Yae Miko",
+        "elemento": "electro",
+        "raridade": 5  
+    },
+    {
+        "id": "yanfei",
+        "nome": "Yanfei",
+        "nomeCompleto": "Yanfei",
+        "elemento": "pyro",
+        "raridade": 4  
+    },
+    {
+        "id": "yoimiya",
+        "nome": "Yoimiya",
+        "nomeCompleto": "Yoimiya",
+        "elemento": "Pyro",
+        "raridade": 5  
+    },
+    {
+        "id": "yunjin",
+        "nome": "Yunjin",
+        "nomeCompleto": "Yunjin",
+        "elemento": "geo",
+        "raridade": 4  
+    },
+    {
+        "id": "zhongli",
+        "nome": "Zhongli",
+        "nomeCompleto": "Zhongli",
+        "elemento": "geo",
+        "raridade": 5  
     }
 ]
