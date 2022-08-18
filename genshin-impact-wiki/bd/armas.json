@@ -279,15 +279,6 @@
         }  
     },
     {
-        "id": "espadao-do-julgamento",
-        "nome": "Espadão do Julgamento",
-        "raridade": 1,
-        "tipo": {
-            "id": "espadao",
-            "nome": "Espadão"
-        }  
-    },
-    {
         "id": "protetor-de-iniciante",
         "nome": "Protetor de Iniciante",
         "raridade": 1,
