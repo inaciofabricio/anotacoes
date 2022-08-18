@@ -1,0 +1,317 @@
+[
+    {
+        "id": "a-flauta",
+        "nome": "A Flauta",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }
+    },
+    {
+        "id": "brilho-do-beco",
+        "nome": "Brilho do Beco",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "cortadora-da-neblina-reforjada",
+        "nome": "Cortadora da Neblina Reforjada",
+        "raridade": 5,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "cortador-de-jade-primordial",
+        "nome": "Cortador de Jade Primordial",
+        "raridade": 5,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "cortador-de-montanhas",
+        "nome": "Cortador de Montanhas",
+        "raridade": 5,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-celestial",
+        "nome": "Espada Celestial",
+        "raridade": 5,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-de-favonius",
+        "nome": "Espada de Favonius",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-de-ferro-negro",
+        "nome": "Espada de Ferro Negro",
+        "raridade": 3,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-de-madeira",
+        "nome": "Espada de Madeira",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-de-prata",
+        "nome": "Espada de Prata",
+        "raridade": 2,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-do-advento",
+        "nome": "Espada de Advento",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-do-cavaleiro-do-ceu",
+        "nome": "Espada do Cavaleiro do Céu",
+        "raridade": 3,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-do-penhasco-obscuro",
+        "nome": "Espada do Penhasco Obscuro",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-do-viajante",
+        "nome": "Espada do Viajante",
+        "raridade": 3,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-longa-real",
+        "nome": "Espada Longa Real",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-negra",
+        "nome": "Espada Negra",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espada-putrida",
+        "nome": "Espada Pútrida",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espinho-de-ferro",
+        "nome": "Espinho de Ferro",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "falcao",
+        "nome": "Falcão",
+        "raridade": 5,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "haste-de-cinabrio",
+        "nome": "Haste de Cinábrio",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "juramento-pela-liberdade",
+        "nome": "Juramento pela Liberdade",
+        "raridade": 5,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "kagotsurube-Isshin",
+        "nome": "Kagotsurube Isshin",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "lamina-amenoma-kageuta",
+        "nome": "Lâmina Amenoma Kageuta",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "lamina-de-files",
+        "nome": "Lâmina de Filés",
+        "raridade": 3,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "lamina-fria",
+        "nome": "Lâmina Fria",
+        "raridade": 3,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "lamina-sem-fio",
+        "nome": "Lâmina Sem Fio",
+        "raridade": 1,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "maremoto-da-lua-de-futsu",
+        "nome": "Maremoto da Lua de Futsu",
+        "raridade": 5,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "prenuncio-do-alvorecer",
+        "nome": "Prenúncio do Alvorecer",
+        "raridade": 3,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "prototipo-rancor",
+        "nome": "Protótipo Rancor",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "rugido-do-leao",
+        "nome": "Rugido do Leão",
+        "raridade": 4,
+        "tipo": {
+            "id": "espada",
+            "nome": "Espada"
+        }  
+    },
+    {
+        "id": "espadao-do-julgamento",
+        "nome": "Espadão do Julgamento",
+        "raridade": 1,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadão"
+        }  
+    },
+    {
+        "id": "espadao-do-julgamento",
+        "nome": "Espadão do Julgamento",
+        "raridade": 1,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadão"
+        }  
+    },
+    {
+        "id": "protetor-de-iniciante",
+        "nome": "Protetor de Iniciante",
+        "raridade": 1,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }  
+    },
+    {
+        "id": "arco-do-cacador",
+        "nome": "Arco do Caçador",
+        "raridade": 1,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }  
+    },
+    {
+        "id": "anotacoes-do-aprendiz",
+        "nome": "Anotações do Aprendiz",
+        "raridade": 1,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }  
+    }
+]
