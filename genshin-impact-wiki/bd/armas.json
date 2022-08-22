@@ -278,6 +278,7 @@
             "nome": "Espadão"
         }  
     },
+
     {
         "id": "protetor-de-iniciante",
         "nome": "Protetor de Iniciante",
@@ -286,6 +287,213 @@
             "id": "lanca",
             "nome": "Lança"
         }  
+    },
+    {
+        "id": "ponta-de-ferro",
+        "nome": "Ponta de Ferro",
+        "raridade": 2,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "borla-branca",
+        "nome": "Borla Branca",
+        "raridade": 3,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "alabarda",
+        "nome": "Alabarda",
+        "raridade": 3,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "borla-preta",
+        "nome": "Borla Preta",
+        "raridade": 3,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "perdicao-do-dragao",
+        "nome": "Perdição do Dragão",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "prototipo-estelar",
+        "nome": "Protótipo Estelar",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "pique-crescente",
+        "nome": "Pique Crescente",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-do-penhasco-obscuro",
+        "nome": "Lança do Penhasco Obscuro",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-do-duelo",
+        "nome": "Lança do Duelo",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-de-millelith",
+        "nome": "Lança de Millelith",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-de-favonius",
+        "nome": "Lança de Favonius",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-de-caca-real",
+        "nome": "Lança de Caça Real",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-da-espinha-do-dragao",
+        "nome": "Lança da Espinha do Dragão",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-cruzada-de-kitain",
+        "nome": "Lança Cruzada de Kitain",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "a-fisgada",
+        "nome": "A Fisgada",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "barbatana-do-quebra-ondas",
+        "nome": "Barbatana do Quebra Ondas",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "perfurador-de-luas",
+        "nome": "Perfurador de Luas",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "baculo-de-homa",
+        "nome": "Báculo de Homa",
+        "raridade": 5,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "espinha-celestial",
+        "nome": "Espinha Celestial",
+        "raridade": 5,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "perfuradora-prismatica",
+        "nome": "Perfuradora Prismática",
+        "raridade": 5,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "lanca-de-jade-primitiva",
+        "nome": "Lança de Jade Primitiva",
+        "raridade": 5,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "subjugadora-de-calamidades",
+        "nome": "Subjugadora de Calamidades",
+        "raridade": 5,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
+    },
+    {
+        "id": "luz-do-cortador-de-grama",
+        "nome": "Luz do Cortador de Grama",
+        "raridade": 5,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        }
     },
     {
         "id": "arco-do-cacador",
