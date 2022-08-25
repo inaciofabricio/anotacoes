@@ -6,7 +6,15 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": [
+            "Orações/Banners"
+        ],
+        "passiva": [
+            "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 100% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
+            "Progressão: 100%/125%/150%/175%/200% Dano de ATQ"
+        ]
     },
     {
         "id": "brilho-do-beco",
