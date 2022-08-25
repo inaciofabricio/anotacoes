@@ -10,8 +10,8 @@
         "atributoSecundario": "Ataque %",
         "obter": "Orações/Banners",
         "passiva": [
-            "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa 100% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s.",
-            "Progressão: 100%/125%/150%/175%/200% Dano de ATQ"
+            "Acorde",
+            "O Ataque Normal ou Ataque Carregado concede um Acorde. Obter 5 Acordes ativa o poder da música e causa (100/125/150/175/200)% de Dano de ATQ aos inimigos ao redor. Os Acordes duram até 30s e pode-se ganhar 1 Acorde a cada 0.5s."
         ]
     },
     {
@@ -21,7 +21,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Herói Itinerante",
+            "Aumenta o Dano causado pelo Personagem em (12/15/18/21/24)%. Ao sofrer Dano, esse efeito de aumento de Dano não ocorrerá por 5s."
+        ]  
     },
     {
         "id": "cortadora-da-neblina-reforjada",
@@ -30,7 +36,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Dano Crítico",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Bainha Quebra-nuvens",
+            "Ganha um Dano adicional elemental para todos os elementos de (12/15/18/21/24)% e pode ganhar o poder do Selo Quebra-nuvens. Selo Quebra-nuvens: Nos acúmulos 1/2/3 do Selo Quebra-nuvens obtém Dano adicional do próprio Elemento ([8/16/28]/[10/20/35]/[12/24/35]/[14/28/49]/[16/32/56])%. Nas situações abaixo, cada personagem obtém 1 acúmulo de Selo Quebra-nuvens: quando o ATQ Normal causa Dano Elemental, dura 5s, quando libera o Supremo, dura 10s; Além disso, quando a Energia Elemental do personagem é inferior a 100%, irá obter 1 acúmulo do Selo Quebra-nuvens que desaparecerá quando a Energia Elemental do personagem estiver cheia. O tempo de cada acúmulo de Selo Quebra-nuvens é contado individualmente."
+        ]  
     },
     {
         "id": "cortador-de-jade-primordial",
@@ -39,7 +51,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Taxa Crítico",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Pureza do Protetor",
+            "Aumenta a Vida em (20/25/30/35/40)%. Além disso, o Personagem que equipar esta arma terá um Bônus de ATQ de (1.2/1.5/1.8/2.1/2.4)% com base na Vida Máxima."
+        ]   
     },
     {
         "id": "cortador-de-montanhas",
