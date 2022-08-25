@@ -278,7 +278,258 @@
             "nome": "Espadão"
         }  
     },
-
+    {
+        "id": "espada-do-mercenario",
+        "nome": "Espada do Mercenário",
+        "raridade": 2,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "sombra-de-ferro",
+        "nome": "Sombra de Ferro",
+        "raridade": 3,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espadao-sangrento",
+        "nome": "Espadão Sangrento",
+        "raridade": 3,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espadao-de-ferro-branco",
+        "nome": "Espadão de Ferro Branco",
+        "raridade": 3,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "quartzo",
+        "nome": "Quartzo",
+        "raridade": 3,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "pacifista",
+        "nome": "Pacifista",
+        "raridade": 3,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espadao-do-cavaleiro-do-ceu",
+        "nome": "Espadão do Cavaleiro do Céu",
+        "raridade": 3,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espadao-de-favonius",
+        "nome": "Espadão de Favonius",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "o-sino",
+        "nome": "O Sino",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espadao-do-sacrificio",
+        "nome": "Espadão do Sacrifício",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espadao-real",
+        "nome": "Espadão Real",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "segadeira-da-chuva",
+        "nome": "Segadeira da Chuva",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "prototipo-arcaico",
+        "nome": "Protótipo Arcaico",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "sombra-branca",
+        "nome": "Sombra Branca",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "foice-do-penhasco-obscuro",
+        "nome": "Foice do Penhasco Obscuro",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espinha-dorsal-da-serpente",
+        "nome": "Espinha Dorsal da Serpente",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espada-antiga-de-millelith",
+        "nome": "Espada Antiga de Millelith",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "estrela-de-prata-enterrada-na-neve",
+        "nome": "Estrela de Prata Enterrada na Neve",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "lorde-do-mar-luxuoso",
+        "nome": "Lorde do Mar Luxuoso",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espada-grande-de-katsuragi",
+        "nome": "Espada Grande de Katsuragi",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "agua-marinha-de-mahara",
+        "nome": "Água-marinha de Mahara",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "akuoumaru",
+        "nome": "Akuoumaru",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espada-real-da-floresta",
+        "nome": "Espada Real da Floresta",
+        "raridade": 4,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "orgulho-celestial",
+        "nome": "Orgulho Celestial",
+        "raridade": 5,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "tumulo-do-lobo",
+        "nome": "Túmulo do Lobo",
+        "raridade": 5,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "cancao-dos-pinhos",
+        "nome": "Canção dos Pinhos",
+        "raridade": 5,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "espada-aspera",
+        "nome": "Espada Áspera",
+        "raridade": 5,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
+    {
+        "id": "chifres-vermelhos-destruidores-de-pedras",
+        "nome": "Chifres Vermelhos Destruidores de Pedras",
+        "raridade": 5,
+        "tipo": {
+            "id": "espadao",
+            "nome": "Espadao"
+        }
+    },
     {
         "id": "protetor-de-iniciante",
         "nome": "Protetor de Iniciante",
@@ -505,6 +756,294 @@
         }  
     },
     {
+        "id": "arco-do-cacador-experiente",
+        "nome": "Arco do Caçador Experiente",
+        "raridade": 2,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-de-corvo",
+        "nome": "Arco de Corvo",
+        "raridade": 3,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "juramento-de-sagitario",
+        "nome": "Juramento de Sagitário",
+        "raridade": 3,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-recurvado",
+        "nome": "Arco Recurvado",
+        "raridade": 3,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "estilingue",
+        "nome": "Estilingue",
+        "raridade": 3,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "mensageiro",
+        "nome": "Mensageiro",
+        "raridade": 3,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-de-ebano",
+        "nome": "Arco de Ébano",
+        "raridade": 3,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-de-favonius",
+        "nome": "Arco de Favonius",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "ultimo-acorde",
+        "nome": "Último Acorde",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-do-sacrificio",
+        "nome": "Arco do Sacrifício",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-real",
+        "nome": "Arco Real",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-enferrujado",
+        "nome": "Arco Enferrujado",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "prototipo-da-luz-lunar-palida",
+        "nome": "Protótipo da Luz Lunar Pálida",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-composto",
+        "nome": "Arco Composto",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-do-penhasco-obscuro",
+        "nome": "Arco do Penhasco Obscuro",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-esmeralda-do-cacador",
+        "nome": "Arco Esmeralda do Caçador",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "cacador-do-beco",
+        "nome": "Caçador do Beco",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "crepusculo-desvanecido",
+        "nome": "Crepúsculo Desvanecido",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "valsa-do-crepusculo",
+        "nome": "Valsa do Crepúsculo",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "ode-a-brisa-florescente",
+        "nome": "Ode à Brisa Florescente",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-quebra-demonios",
+        "nome": "Arco Quebra-Demônios",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "predador",
+        "nome": "Predador",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "lua-de-mouun",
+        "nome": "Lua de Mouun",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "vassalo-do-rei",
+        "nome": "Vassalo do Rei",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "aguas-secas",
+        "nome": "Águas Secas",
+        "raridade": 4,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "harpa-celestial",
+        "nome": "Harpa Celestial",
+        "raridade": 5,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "arco-de-amos",
+        "nome": "Arco de Amos",
+        "raridade": 5,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "elegia-do-suspiro-final",
+        "nome": "Elegia do Suspiro Final",
+        "raridade": 5,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "estrela-invernal",
+        "nome": "Estrela Invernal",
+        "raridade": 5,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "aqua-simulacra",
+        "nome": "Aqua Simulacra",
+        "raridade": 5,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "agitacao-trovejante",
+        "nome": "Agitação Trovejante",
+        "raridade": 5,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
+        "id": "caminho-do-cacador",
+        "nome": "Caminho do Caçador",
+        "raridade": 5,
+        "tipo": {
+            "id": "arco",
+            "nome": "Arco"
+        }
+    },
+    {
         "id": "anotacoes-do-aprendiz",
         "nome": "Anotações do Aprendiz",
         "raridade": 1,
@@ -512,5 +1051,257 @@
             "id": "catalizador",
             "nome": "Catalizador"
         }  
+    },
+    {
+        "id": "grimorio-de-bolso",
+        "nome": "Grimório de Bolso",
+        "raridade": 2,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "guia-de-magia",
+        "nome": "Guia de Magia",
+        "raridade": 3,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "historias-extraordinarias-de-cacadores-de-dragoes",
+        "nome": "Histórias Extraordinárias de Caçadores de Dragões",
+        "raridade": 3,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "historias-de-outros-mundos",
+        "nome": "Histórias de Outros Mundos",
+        "raridade": 3,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "orbe-de-esmeralda",
+        "nome": "Orbe de Esmeralda",
+        "raridade": 3,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "nefrita-gemea",
+        "nome": "Nefrita Gêmea",
+        "raridade": 3,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "catalisador-de-ambar",
+        "nome": "Catalisador de Âmbar",
+        "raridade": 3,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "codex-de-favonius",
+        "nome": "Codex de Favonius",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "sinfonia-dos-indolentes",
+        "nome": "Sinfonia dos Indolentes",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "memorias-de-sacrificio",
+        "nome": "Memórias de Sacrifício",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "grimorio-real",
+        "nome": "Grimório Real",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "perola-solar",
+        "nome": "Pérola Solar",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "prototipo-ambar",
+        "nome": "Protótipo Âmbar",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "mappa-mare",
+        "nome": "Mappa Mare",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "agata-do-penhasco-obscuro",
+        "nome": "Ágata do Penhasco Obscuro",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "olho-da-percepcao",
+        "nome": "Olho da Percepção",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "vinho-e-musica",
+        "nome": "Vinho e Música",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "fruto-do-sabugueiro",
+        "nome": "Fruto do Sabugueiro",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "contos-de-dodoco",
+        "nome": "Contos de Dodoco",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "anel-de-hakushin",
+        "nome": "Anel de Hakushin",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "olho-do-juramento",
+        "nome": "Olho do Juramento",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "estrela-itinerante",
+        "nome": "Estrela Itinerante",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "fruto-da-abundancia",
+        "nome": "Fruto da Abundância",
+        "raridade": 4,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "atlas-celestial",
+        "nome": "Atlas Celestial",
+        "raridade": 5,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "oracao-perdida-aos-ventos-sagrados",
+        "nome": "Oração Perdida aos Ventos Sagrados",
+        "raridade": 5,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "memoria-da-poeira",
+        "nome": "Memória da Poeira",
+        "raridade": 5,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "fumetsu-gekka",
+        "nome": "Fumetsu Gekka",
+        "raridade": 5,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
+    },
+    {
+        "id": "prova-de-kagura",
+        "nome": "Prova de Kagura",
+        "raridade": 5,
+        "tipo": {
+            "id": "catalizador",
+            "nome": "Catalizador"
+        }
     }
 ]
