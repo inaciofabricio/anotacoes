@@ -41,7 +41,7 @@
         "obter": "Orações/Banners",
         "passiva": [
             "Bainha Quebra-nuvens",
-            "Ganha um Dano adicional elemental para todos os elementos de (12/15/18/21/24)% e pode ganhar o poder do Selo Quebra-nuvens. Selo Quebra-nuvens: Nos acúmulos 1/2/3 do Selo Quebra-nuvens obtém Dano adicional do próprio Elemento ([8/16/28]/[10/20/35]/[12/24/35]/[14/28/49]/[16/32/56])%. Nas situações abaixo, cada personagem obtém 1 acúmulo de Selo Quebra-nuvens: quando o ATQ Normal causa Dano Elemental, dura 5s, quando libera o Supremo, dura 10s; Além disso, quando a Energia Elemental do personagem é inferior a 100%, irá obter 1 acúmulo do Selo Quebra-nuvens que desaparecerá quando a Energia Elemental do personagem estiver cheia. O tempo de cada acúmulo de Selo Quebra-nuvens é contado individualmente."
+            "Ganha um Dano adicional elemental para todos os elementos de (12/15/18/21/24)% e pode ganhar o poder do Selo Quebra-nuvens. Selo Quebra-nuvens: Nos acúmulos 1/2/3 do Selo Quebra-nuvens obtém Dano adicional do próprio Elemento ([8/16/28] - [10/20/35] - [12/24/35] - [14/28/49] - [16/32/56])%. Nas situações abaixo, cada personagem obtém 1 acúmulo de Selo Quebra-nuvens: quando o ATQ Normal causa Dano Elemental, dura 5s, quando libera o Supremo, dura 10s; Além disso, quando a Energia Elemental do personagem é inferior a 100%, irá obter 1 acúmulo do Selo Quebra-nuvens que desaparecerá quando a Energia Elemental do personagem estiver cheia. O tempo de cada acúmulo de Selo Quebra-nuvens é contado individualmente."
         ]  
     },
     {
@@ -66,7 +66,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Majestade Dourada",
+            "Aumenta a Força do Escudo em (20/25/30/35/40)%. Acertar ataques em inimigos aumenta o ataque em (4/5/6/7/8)% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%."
+        ]    
     },
     {
         "id": "espada-celestial",
@@ -75,7 +81,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Garra Perfuradora Celestial",
+            "A Taxa Crítica aumenta em (4/5/6/7/8)%. Obtém a Perfuração Celestial ao usar o Supremo: Aumenta a Veloc. Mov. em 10%, aumenta a Velocidade de Ataque em 10%. Quando o Ataque Normal e o Ataque Carregado atingirem, causará um Dano Adicional de (20/25/30/35/40)% por 12s."
+        ]    
     },
     {
         "id": "espada-de-favonius",
@@ -84,7 +96,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Companhia do Vento",
+            "Os Acertos Críticos possuem (60/70/80/90/100)% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada (12/10,5/9/7.5/6)s."
+        ]  
     },
     {
         "id": "espada-de-ferro-negro",
@@ -93,7 +111,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Recebe de Chen o Afiado",
+        "passiva": [
+            "Sobrecarga",
+            "Após causar uma reação elemental de Sobrecarga, Supercondutor, Eletricamente Carregado, Aceleração, Intensificação, Superflorescimento ou Redemoinho de Electro, o ATQ é aumentado em (20/25/30/35/40)% por 12s."
+        ]   
     },
     {
         "id": "espada-de-madeira",
@@ -102,7 +126,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Forja",
+        "passiva": [
+            "Bênção da Floresta",
+            "Após desencadear Queimaduras, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação, uma Folha da Consciência será criada em volta do personagem por no máximo 10s. Quando coletada, a Folha da Consciência aumentará a Proficiência Elemental do personagem em 60 por 12s. Apenas 1 Folha pode ser criada dessa forma a cada 20s. Esse efeito ainda pode ser desencadeado mesmo se o personagem não estiver em campo. O efeito da Folha da Consciência não pode ser acumulado."
+        ]   
     },
     {
         "id": "espada-de-prata",
@@ -111,16 +141,27 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "-",
+        "obter": "Baus/Vendida",
+        "passiva": [
+            "-"
+        ] 
     },
     {
         "id": "espada-do-advento",
-        "nome": "Espada de Advento",
+        "nome": "Espada do Advento",
         "raridade": 4,
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Evento",
+        "passiva": [
+            "Descensão",
+            "Ao atingir o inimigo com um Ataque Normal ou Ataque Carregado, tem 50% de chance de causar 200% de Dano de ATQ em uma pequena área. Este efeito só pode ser ativado uma vez a cada 10 segundos. Além disso, os Viajantes que estão com a Espada do Advento terão seu ATQ aumentado em 66."
+        ]   
     },
     {
         "id": "espada-do-cavaleiro-do-ceu",
@@ -129,7 +170,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Evento",
+        "passiva": [
+            "Determinação",
+            "Ao usar o Supremo, concede um aumento de (12/15/18/21/24)% no ATQ e Veloc. Mov. por 15s."
+        ]    
     },
     {
         "id": "espada-do-penhasco-obscuro",
@@ -138,7 +185,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "De vitória em vitória",
+            "Após derrotar um inimigo, o ATQ é aumentado em (12/15/18/21/24)% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros."
+        ]    
     },
     {
         "id": "espada-do-viajante",
@@ -147,7 +200,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Defesa %",
+        "obter": "Baú/Missão Curso Intensivo",
+        "passiva": [
+            "Jornada",
+            "Cada Orbe ou Partícula Elemental coletada restaura (1/1,25/1,5/1,75/2)% da Vida."
+        ]  
     },
     {
         "id": "espada-longa-real",
@@ -156,7 +215,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "Foco",
+            "Ao atingir um oponente, aumenta a Taxa Crítica em (8/10/12/14/16)%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos."
+        ]    
     },
     {
         "id": "espada-negra",
@@ -165,7 +230,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Passe de Batalha",
+        "passiva": [
+            "Justiça",
+            "Aumenta o dano causado pelos Ataques Normais e Carregados em (20/25/30/35/40)%, regenera (60/70/80/90/100)% do ATQ como Vida quando o Ataque Normal ou Ataque Carregado atingir Crítico. Este efeito pode ser ativado uma vez a cada 5s."
+        ]    
     },
     {
         "id": "espada-putrida",
@@ -174,7 +245,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Evento Giz e Dragão",
+        "passiva": [
+            "Admiração Inabalável",
+            "Aumenta em (16/20/24/28/32)% o Dano da Habilidade Elemental e em (6/7,5/9/10,5/12)% a Taxa CRIT da Habilidade Elemental."
+        ]     
     },
     {
         "id": "espinho-de-ferro",
@@ -183,7 +260,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Forja",
+        "passiva": [
+            "Ferrão Energético",
+            "Após causar Dano Elemental, aumenta todos os Danos em (6/7,5/9/10,5/12)% por 6s. Este efeito pode acumular até 2 vezes e pode ser ativado uma vez a cada 1s."
+        ]       
     },
     {
         "id": "falcao",
@@ -192,7 +275,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Resistência do Falcão do Oeste",
+            "O ATQ aumenta em (20/25/30/35/40)%; Ativa ao receber Dano: A alma do Falcão do Leste desperta, segurando a bandeira da resistência no alto, regenerando Vida equivalente a (100/115/130/145/160)% do ATQ e causando (200/230/260/290/320)% do ATQ como Dano aos inimigos ao redor. Esta habilidade pode ser ativada uma vez a cada 15s."
+        ]   
     },
     {
         "id": "haste-de-cinabrio",
@@ -201,7 +290,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Defesa %",
+        "obter": "Evento Poeira e Neve Escura",
+        "passiva": [
+            "Coração Imaculado",
+            "Dano da Habilidade Elemental do personagem é aumentado em 40% da DEF. Este efeito só pode ser ativado uma vez a cada 1,5s e é redefinido 0,1s após a habilidade elemental causar dano."
+        ]     
     },
     {
         "id": "juramento-pela-liberdade",
@@ -210,7 +305,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Defesa %",
+        "obter": "Evento Poeira e Neve Escura",
+        "passiva": [
+            "Coração Imaculado",
+            "Dano da Habilidade Elemental do personagem é aumentado em (40/50/60/70/80)% da DEF. Este efeito só pode ser ativado uma vez a cada 1,5s e é redefinido 0,1s após a habilidade elemental causar dano."
+        ]  
     },
     {
         "id": "kagotsurube-Isshin",
@@ -219,7 +320,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Missão Uma Estrada Estranha e Hostil",
+        "passiva": [
+            "Claridade da Arte Isshin",
+            "Quando um Ataque Normal, Ataque Carregado ou Ataque Imersivo atinge um inimigo, criará Vento Cortador, que infligirá Dano em AdE equivalente a 180% do ATQ e aumenta o ATQ em 15% por 8s. Esse efeito pode ser desencadeado uma vez a cada 8s."
+        ]  
     },
     {
         "id": "lamina-amenoma-kageuta",
@@ -228,7 +335,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Forja",
+        "passiva": [
+            "Herdeiro de Iwakura",
+            "Depois de lançar a Habilidade Elemental, ganha 1 Semente de Sucessão. Este efeito pode ser ativado uma vez a cada 5s. A Semente de Sucessão dura 30s e no máximo podem coexistir 3 sementes. Depois de lançar o Supremo, todas as Sementes de Sucessão serão eliminadas e, após 2s, o personagem restaura (6/7,5/9/10,5/12) de Energia Elemental por cada Semente de Sucessão consumida."
+        ]    
     },
     {
         "id": "lamina-de-files",
@@ -237,7 +350,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Baú",
+        "passiva": [
+            "Determinação",
+            "Ao acertar, possui 50% de chance de infligir (240/280/320/360/400)% de Dano de ATQ a um único alvo. Pode ocorrer uma vez a cada 15s."
+        ]  
     },
     {
         "id": "lamina-fria",
@@ -246,7 +365,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "(Orações/Banners)/Baú",
+        "passiva": [
+            "Destruição de Água e Gelo",
+            "Aumenta o Dano contra inimigos afetados por Hydro ou Cryo em (12/15/18/21/24)%."
+        ]    
     },
     {
         "id": "lamina-sem-fio",
@@ -255,7 +380,12 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "-",
+        "obter": "Baú/Venda",
+        "passiva": [
+            "-"
+        ]     
     },
     {
         "id": "maremoto-da-lua-de-futsu",
@@ -264,7 +394,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Fluxo Aperfeiçoado",
+            "Obtém (12/15/18/21/24)% de bônus de Dano de todos os elementos. Quando os outros personagens da equipe usam Habilidades Elementais, gerarão um acúmulo do efeito “Ondulação” para o personagem que tem esta arma equipada. Esse efeito é acumulável no máximo 2 vezes e pode ser desencadeado uma vez a cada 0.3s. Quando o personagem que tiver esta arma equipada lançar sua Habilidade Elemental, se tiver acúmulos de “Ondulação”, consumirá os acúmulos existentes e obterá “Maremoto”, cada acúmulo consumido aumenta o Dano do Ataque Normal em (20/25/30/35/40)% por 8s."
+        ]      
     },
     {
         "id": "prenuncio-do-alvorecer",
@@ -273,7 +409,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Vigoroso",
+            "Quando a Vida estiver acima de 90%, aumenta a Taxa Crítica em (14/17,5/1/24,5/28)%."
+        ]  
     },
     {
         "id": "prototipo-rancor",
@@ -282,7 +424,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Forja/Recompensa de Rank de Aventura",
+        "passiva": [
+            "Pedra Destruída",
+            "Ao acertar um Ataque Normal ou Ataque Carregado, o ATQ e a DEF aumentam (4/5/6/7/8)%, com duração de 6s, acumulando até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.3s."
+        ]  
     },
     {
         "id": "rugido-do-leao",
@@ -291,7 +439,13 @@
         "tipo": {
             "id": "espada",
             "nome": "Espada"
-        }  
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Destruição de Fogo e Trovão",
+            "Aumenta o Dano contra inimigos afetados por Pyro ou Electro em (20/24/28/32/36)%."
+        ]    
     },
     {
         "id": "espadao-do-julgamento",
@@ -300,7 +454,12 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadão"
-        }  
+        },
+        "atributoSecundario": "-",
+        "obter": "Baus/Venda",
+        "passiva": [
+            "-"
+        ]  
     },
     {
         "id": "espada-do-mercenario",
@@ -309,7 +468,12 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "-",
+        "obter": "Baus/Venda",
+        "passiva": [
+            "-"
+        ]
     },
     {
         "id": "sombra-de-ferro",
@@ -318,7 +482,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Vida %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Implacável",
+            "Quando a Vida estiver inferior a (70/75/80/85/90)%, Ataques Carregados raramente são interrompidos e aumenta (30/35/40/45/50)% do Ataque Carregado."
+        ]
     },
     {
         "id": "espadao-sangrento",
@@ -327,7 +497,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Destruição de Fogo e Trovão",
+            "Aumenta o Dano contra inimigos afetados por Pyro ou Electro em (12/15/18/21/24)%."
+        ]
     },
     {
         "id": "espadao-de-ferro-branco",
@@ -336,7 +512,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Defesa %",
+        "obter": "Baú",
+        "passiva": [
+            "Colheita",
+            "Derrotar um oponente recupera (8/10/12/14/16)% da Vida."
+        ]
     },
     {
         "id": "quartzo",
@@ -345,7 +527,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Baú",
+        "passiva": [
+            "Calor Residual",
+            "Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em (20/25/30/35/40)% por 12s."
+        ]
     },
     {
         "id": "pacifista",
@@ -354,7 +542,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Convencer",
+            "Após usar e acertar uma Habilidade Elemental, Normal ou Ataque Carregado, causa Dano de ATQ adicional de (60/75/90/105/120)% em uma área pequena por 15s. Pode ser ativado uma vez a cada 3s."
+        ]
     },
     {
         "id": "espadao-do-cavaleiro-do-ceu",
@@ -363,7 +557,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Baú",
+        "passiva": [
+            "Coragem",
+            "Ao acertar um Ataque Normal ou Carregado, aumenta o ATQ e DEF em (6/7/8/9/10)% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s."
+        ]
     },
     {
         "id": "espadao-de-favonius",
@@ -372,7 +572,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Companhia do Vento",
+            "Os Acertos Críticos possuem (60/70/80/90/100)% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada (12/10,5/9/7,5/6)s."
+        ]
     },
     {
         "id": "o-sino",
@@ -381,7 +587,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Vida %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Guarda da Rebelião",
+            "Ao receber dano, cria um escudo que absorve o equivalente a (20/23/26/29/32)% da Vida Máxima por 10s ou até o escudo desparecer. Pode ser ativado uma vez a cada 45s. Quando o personagem estiver com o escudo, o Dano causado aumenta (12/15/18/21/24)%."
+        ]
     },
     {
         "id": "espadao-do-sacrificio",
@@ -390,7 +602,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Composto",
+            "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui (40/50/60/70/80)% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada (30/26/22/19/16) segundos."
+        ]
     },
     {
         "id": "espadao-real",
@@ -399,7 +617,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "Foco",
+            "Ao atingir um oponente, aumenta a Taxa Crítica em (8/10/12/14/16)%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos."
+        ]
     },
     {
         "id": "segadeira-da-chuva",
@@ -408,7 +632,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Destruição de Tempestade e Maré",
+            "Aumenta o Dano contra inimigos afetados por Hydro ou Electro em (20/24/28/32/36)%."
+        ]
     },
     {
         "id": "prototipo-arcaico",
@@ -417,7 +647,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Forja",
+        "passiva": [
+            "Esmagar",
+            "Ao acertar um Ataque Normal ou um Ataque Carregado, possui 50% de chance de causar (240/300/360/420/480)% de Dano de ATQ adicional em uma área pequena. Este efeito pode ser ativado uma vez a cada 15s."
+        ]
     },
     {
         "id": "sombra-branca",
@@ -426,7 +662,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Defesa %",
+        "obter": "Forja",
+        "passiva": [
+            "Ponta Energética",
+            "Após acertar um Ataque Normal e um Ataque Carregado, o ATQ e a DEF aumentam (6/7,5/9/10,5/12)% por 6s, podendo ser acumulado até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.5s."
+        ]
     },
     {
         "id": "foice-do-penhasco-obscuro",
@@ -435,7 +677,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Dano Crítica %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "Ponta Energética",
+            "Após derrotar um inimigo, o ATQ é aumentado em (12/15/18/21/24)% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros."
+        ]
     },
     {
         "id": "espinha-dorsal-da-serpente",
@@ -444,7 +692,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Passe de Batalha",
+        "passiva": [
+            "Divisor de Ondas",
+            "Quando o jogador está em combate, a cada 4s aumenta o dano causado em (6/7/8/9/10)% e (3/2,7/2,4/2,2/2)% do Dano recebido. Este efeito pode ser acumulado até 5 vezes, não sendo redefinido após o personagem sair de campo, mas reduzirá 1 camada do efeito quando o personagem receber Dano."
+        ]
     },
     {
         "id": "espada-antiga-de-millelith",
@@ -453,7 +707,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Axioma de Millelith - Unidade",
+            "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em (7/8/9/10/11)% e aumenta sua Taxa CRIT em (3/4/5/6/7)%. Esse efeito pode ser acumulado no máximo 4 vezes."
+        ]
     },
     {
         "id": "estrela-de-prata-enterrada-na-neve",
@@ -462,7 +722,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Forja/Quebra-Cabeça em Esculturas Antigas",
+        "passiva": [
+            "Enterro Congelante",
+            "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de (60/70/80/90/100)% de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando (80/95/110/125/140)% de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem (200/240/280/320/360)% de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s."
+        ]
     },
     {
         "id": "lorde-do-mar-luxuoso",
@@ -471,7 +737,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Evento Acariciar Gentilmente a Lua",
+        "passiva": [
+            "Vitória Oceânica",
+            "Aumenta o Dano do Supremo em (12/15/18/21/24)%. Quando o Supremo acerta os oponentes, existe 100% de chance de invocar uma tuna titânica que avança e causa (100/125/150/175/200)% do ATQ como Dano em uma AdE. Este efeito pode ocorrer uma vez a cada 15s."
+        ]
     },
     {
         "id": "espada-grande-de-katsuragi",
@@ -480,7 +752,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Forja",
+        "passiva": [
+            "Conduta do Samurai",
+            "Aumenta o Dano causado pela Habilidade Elemental em (6/7,5/9/10,5/12)%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde 3 pontos de Energia Elemental e dentro dos 6s posteriores ele restaura (3/3,5/4/4,5/5) pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado."
+        ]
     },
     {
         "id": "agua-marinha-de-mahara",
@@ -489,7 +767,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Pavilhão do Deserto",
+            "A cada 10s, gera os seguintes efeitos: aumenta o ATQ do personagem que está com essa arma equipada baseado em (32/40/48/56/64)% da sua Proficiência Elemental. Os demais personagens próximos da equipe ganham 30% desse bônus. Esses efeitos duram 12s. Múltiplas armas com este mesmo nome permitirão que esse bônus seja acumulado. Esse efeito será desencadeado mesmo que o personagem não esteja em campo."
+        ]
     },
     {
         "id": "akuoumaru",
@@ -498,7 +782,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Dominadora de Ondas Watatsumi",
+            "O Personagem que usar esta arma terá um aumento do Dano do Supremo de (0,12/0,15/0,18/0,21/0,24)% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de (40/50/60/70/80)%."
+        ]
     },
     {
         "id": "espada-real-da-floresta",
@@ -507,7 +797,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Forja",
+        "passiva": [
+            "Bênção da Floresta",
+            "Após desencadear Queimaduras, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação, uma Folha da Consciência será criada em volta do personagem por no máximo 10s. Quando coletada, a Folha da Consciência aumentará a Proficiência Elemental do personagem em (60/75/90/105/120) por 12s. Apenas 1 Folha pode ser criada dessa forma a cada 20s. Esse efeito ainda pode ser desencadeado mesmo se o personagem não estiver em campo. O efeito da Folha da Consciência não pode ser acumulado."
+        ]
     },
     {
         "id": "orgulho-celestial",
@@ -516,7 +812,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Espinha do Dragão – Quebrador do Céu",
+            "Aumenta o Dano em (8/10/12/14/16)%; Depois de usar o Supremo, se os Ataques Normais ou Carregados atingirem os inimigos, será criada uma lâmina de vácuo que causará (80/100/120/140/160)% do Ataque como Dano aos oponentes ao longo do caminho. Dura 20s ou 8 lâminas de vácuo."
+        ]
     },
     {
         "id": "tumulo-do-lobo",
@@ -525,7 +827,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Caçador Selvagem",
+            "Aumenta o ATQ em (20/25/30/35/40)%. Ao acertar o ataque em oponentes com Vida inferior a 30%, aumenta o ATQ de todos os companheiros em (40/50/60/70/80)% por 12s. Este efeito pode ser ativado uma vez a cada 30s."
+        ]
     },
     {
         "id": "cancao-dos-pinhos",
@@ -534,7 +842,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Música de Rebelião da Bandeira",
+            "Uma parte do Concerto Milenar que flutua no vento. Aumenta o ATQ em (16/20/24/28/32)%. Quando Ataque Normal ou Ataque Carregado atingir os inimigos, o personagem obterá um Símbolo dos Suspiros, que pode ser ativado uma vez a cada 0.3s. Possuir 4 Símbolos dos Sussurros faz consumir todos eles, e faz todos os personagens da equipe obterem o efeito de “Concerto Milenar: Música do Levantar da Bandeira” por 12s: A Vel. de Ataque Normal será aumentada em (12/15/18/21/24)%, além disso o ATQ será aumentado em (20/25/30/35/40)%. Dentro de 20s depois da ativação, não é possível obter os Símbolos dos Sussurros de novo. Entre todos os efeitos de vários valores, os efeitos do mesmo valor não podem ser acumulados."
+        ]
     },
     {
         "id": "espada-aspera",
@@ -543,7 +857,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Majestade Dourada",
+            "Aumenta a Força do Escudo em (20/25/30/35/40)%. Acertar ataques em inimigos aumenta o ataque em (4/5/6/7/8)% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%."
+        ]
     },
     {
         "id": "chifres-vermelhos-destruidores-de-pedras",
@@ -552,7 +872,13 @@
         "tipo": {
             "id": "espadao",
             "nome": "Espadao"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Gokadaiou Otogibanashi",
+            "DEF é aumentada em (28/35/42/49/56)%. Dano do Ataque Normal e Carregado é aumentado em (40/50/60/70/80)% da DEF."
+        ]
     },
     {
         "id": "protetor-de-iniciante",
