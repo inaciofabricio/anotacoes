@@ -887,7 +887,12 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }  
+        },
+        "atributoSecundario": "-",
+        "obter": "Baú",
+        "passiva": [
+            "-"
+        ]  
     },
     {
         "id": "ponta-de-ferro",
@@ -896,7 +901,12 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "-",
+        "obter": "Baú",
+        "passiva": [
+            "-"
+        ]  
     },
     {
         "id": "borla-branca",
@@ -905,7 +915,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Acume",
+            "O Dano causado pelo Ataque Normal aumenta (24/30/36/42/48)%."
+        ]
     },
     {
         "id": "alabarda",
@@ -914,7 +930,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Baú",
+        "passiva": [
+            "Pesado",
+            "Ataques Normais causam um adicional de (160/200/240/280/320)% de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s."
+        ]
     },
     {
         "id": "borla-preta",
@@ -923,7 +945,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Baú",
+        "passiva": [
+            "Pesado",
+            "Ataques Normais causam um adicional de (160/200/240/280/320)% de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s."
+        ]
     },
     {
         "id": "perdicao-do-dragao",
@@ -932,7 +960,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Destruição das Chamas e Água",
+            "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em (20/24/28/32/36)%."
+        ]
     },
     {
         "id": "prototipo-estelar",
@@ -941,7 +975,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Forja",
+        "passiva": [
+            "Viciado em Magia",
+            "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em (8/10/12/14/16)% por 12s, podendo acumular até 2 vezes."
+        ]
     },
     {
         "id": "pique-crescente",
@@ -950,7 +990,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Forja",
+        "passiva": [
+            "Agulha Energética",
+            "Após obter um Orbe Elemental/Partícula Elemental, os Ataques Normais e Ataques Carregados causam um adicional de (20/25/30/35/40)% de Dano Físico por 5s."
+        ]
     },
     {
         "id": "lanca-do-penhasco-obscuro",
@@ -959,7 +1005,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "De vitória em vitória",
+            "Após derrotar um inimigo, o ATQ é aumentado em (12/15/18/21/24)% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros."
+        ]
     },
     {
         "id": "lanca-do-duelo",
@@ -968,7 +1020,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Passe de Batalha",
+        "passiva": [
+            "Gladiador",
+            "Se houver 2 inimigos ao redor, o ATQ é aumentado em (16/20/24/28/32)% e a DEF é aumentada em (16/20/24/28/32)%. Se houver menos que 2 inimigos ao redor, o ATQ é aumentado em (24/30/36/42/48)%."
+        ]
     },
     {
         "id": "lanca-de-millelith",
@@ -977,7 +1035,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Axioma de Millelith - Unidade",
+            "Por cada personagem de Liyue que possua na Equipe, aumenta o ATQ do personagem que equipar essa arma em (7/8/9/10/11)% e aumenta sua Taxa CRIT em (3/4/5/6/7)%. Esse efeito pode ser acumulado no máximo 4 vezes."
+        ]
     },
     {
         "id": "lanca-de-favonius",
@@ -986,7 +1050,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Companhia do Vento",
+            "Os Acertos Críticos possuem (60/70/80/90/100)% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada (12/10,5/9/7,5/6)s."
+        ]
     },
     {
         "id": "lanca-de-caca-real",
@@ -995,7 +1065,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "Foco",
+            "Ao atingir um oponente, aumenta a Taxa Crítica em (8/10/12/14/16)%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos."
+        ]
     },
     {
         "id": "lanca-da-espinha-do-dragao",
@@ -1004,7 +1080,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Forja",
+        "passiva": [
+            "Enterro Congelante",
+            "Atingir um inimigo com um Ataque Normal e Ataque Carregado possui uma chance de (60/70/80/90/100)% de formar e dropar um Núcleo de Cristal Eterno sobre eles, causando (80/95/110/125/140)% de Dano de ATQ em uma AdE. Inimigos afetados por Cryo recebem (200/240/280/320/360)% de Dano de ATQ. Pode ocorrer apenas uma vez a cada 10s."
+        ]
     },
     {
         "id": "lanca-cruzada-de-kitain",
@@ -1013,7 +1095,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Forja",
+        "passiva": [
+            "Conduta do Samurai",
+            "Aumenta o Dano causado pela Habilidade Elemental em (6/7,5,9,10,5/12)%. Quando o personagem acerta no inimigo com sua Habilidade Elemental, ele perde (3/3,5/4/4,5/5) pontos de Energia Elemental e dentro dos 6s posteriores ele restaura 3 pontos de Energia Elemental a cada 2s. Esse efeito só pode ser ativado uma vez a cada 10s. Quando o personagem não está em campo ele também pode ser ativado."
+        ]
     },
     {
         "id": "a-fisgada",
@@ -1022,7 +1110,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Associação de Pesca de Inazuma",
+        "passiva": [
+            "Canção Navegante",
+            "Aumenta o Dano do Supremo em (16/20/24/28/32)% e a Taxa CRIT do Supremo em (6/7,5/9/10,5/12)%."
+        ]
     },
     {
         "id": "barbatana-do-quebra-ondas",
@@ -1031,7 +1125,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Dominadora de Ondas Watatsumi",
+            "O Personagem que usar esta arma terá um aumento do Dano do Supremo de (0,12/0,15/0,18/0,21/0,24)% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de (40/50/60/70/80)%."
+        ]
     },
     {
         "id": "perfurador-de-luas",
@@ -1040,7 +1140,28 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Forja",
+        "passiva": [
+            "Sombra da Lua na Floresta",
+            "Após desencadear Queimadura, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação, uma Folha do Renascimento será criada em volta do personagem por no máximo 10s. Quando coletada, a Folha do Renascimento aumentará o ATQ do personagem em (16/20/24/28/32)% por 12s. Apenas 1 Folha pode ser criada dessa forma a cada 20s. Esse efeito ainda pode ser desencadeado mesmo se o personagem não estiver em campo."
+        ]
+    },
+    {
+        "id": "lamina-do-vento-mensageiro",
+        "nome": "Lâmina do Vento Mensageiro",
+        "raridade": 4,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Vento Inalcançável",
+            "Nos 10s depois de desencadear uma Reação Elemental, aumenta o ATQ em (10/12,5/15/17,5/20)% e a Proficiência Elemental em (40/50/60/70/80) pontos."
+        ]
     },
     {
         "id": "baculo-de-homa",
@@ -1049,7 +1170,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Liberdade da Borboleta Vermelha",
+            "Aumenta a Vida em 20%. Além disso, o Personagem que equipar esta arma terá um Bônus de ATQ de (0,8/1/1,2/1,4/1,6)% com base na Vida Máxima. Quando a Vida do Personagem que equipar essa arma cair para abaixo de 50%, seu ATQ aumentará (1/1,2/1,4/1,6/1,8)% com base em sua Vida Máxima."
+        ]
     },
     {
         "id": "espinha-celestial",
@@ -1058,7 +1185,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Asas Negras",
+            "A Taxa Crítica aumenta (8/10/12/14/16)%, a VEL do Ataque Normal aumenta 12%. Além disso, o Ataque Normal e o Ataque Carregado ao atingir o inimigo possuem 50% de chance de criar uma Lâmina de Vácuo que causa (40/55/70/85/100)% de Dano de ATQ adicional em uma área. Este efeito pode ser ativado uma vez a cada 2s."
+        ]
     },
     {
         "id": "perfuradora-prismatica",
@@ -1067,7 +1200,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Majestade Dourada",
+            "Aumenta a Força do Escudo em (20/25/30/35/40)%. Acertar ataques em inimigos aumenta o ataque em (4/5/6/7/8)% por 8s. Acumula até 5 vezes. Pode ocorrer apenas uma vez a cada 0.3s. Enquanto estiver protegido por um escudo, esse efeito de ataque é aumentado em 100%."
+        ]
     },
     {
         "id": "lanca-de-jade-primitiva",
@@ -1076,7 +1215,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Lança da Justiça da Águia",
+            "Ao acertar, aumenta o Dano em (3,2/3,9/4,6/5,3/6)% por 6s. Pode acumular até 7 vezes. Pode ocorrer uma vez a cada 0.3s. O acúmulo máximo aumenta o Dano em (12/15/18/21/24)%."
+        ]
     },
     {
         "id": "subjugadora-de-calamidades",
@@ -1085,7 +1230,13 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Preceito Extinguidor",
+            "Obtém um Bônus de Dano Elemental para todos os Elementos de (12/15/18/21/24)%; após lançar uma Habilidade Elemental, obtém Consumação por 20s, fazendo com que o Ataque aumente (3,2/4/4,8/5,6/6,4)% por segundo. Este efeito pode ser acumulado em até 6 vezes. Quando o personagem da equipe que estiver com esta arma equipada não for o ativo no campo de batalha, o aumento do Ataque de Consumação será duplicado."
+        ]
     },
     {
         "id": "luz-do-cortador-de-grama",
@@ -1094,7 +1245,28 @@
         "tipo": {
             "id": "lanca",
             "nome": "Lança"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Preceito Extinguidor",
+            "Obtém um Bônus de Dano Elemental para todos os Elementos de (12/15/18/21/24)%; após lançar uma Habilidade Elemental, obtém Consumação por 20s, fazendo com que o Ataque aumente (3,2/4/4,8/5,6/6,4)% por segundo. Este efeito pode ser acumulado em até 6 vezes. Quando o personagem da equipe que estiver com esta arma equipada não for o ativo no campo de batalha, o aumento do Ataque de Consumação será duplicado."
+        ]
+    },
+    {
+        "id": "baculo-das-areias-escarlates",
+        "nome": "Báculo das Areias Escarlates",
+        "raridade": 5,
+        "tipo": {
+            "id": "lanca",
+            "nome": "Lança"
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Sonho Ardente no Fim do Horizonte",
+            "Obtém Bônus de ATQ baseado em (52/65/78/91/104)% da Proficiência Elemental do personagem que está com essa arma equipada. Quando a Habilidade Elemental atinge um inimigo, gera por 10s o efeito “Sonhos de Areias Escarlates”: obtém Bônus de ATQ baseado em (28/35/42/49/56)% da Proficiência Elemental do personagem que está com essa arma equipada. Esse efeito pode se acumular até 3 vezes."
+        ]
     },
     {
         "id": "arco-do-cacador",
@@ -1103,7 +1275,12 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }  
+        },
+        "atributoSecundario": "-",
+        "obter": "Baú",
+        "passiva": [
+            "-"
+        ]  
     },
     {
         "id": "arco-do-cacador-experiente",
@@ -1112,7 +1289,12 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "-",
+        "obter": "Baú",
+        "passiva": [
+            "-"
+        ]  
     },
     {
         "id": "arco-de-corvo",
@@ -1121,7 +1303,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Baú",
+        "passiva": [
+            "Destruição das Chamas e Água",
+            "Aumenta o Dano contra inimigos afetados por Hydro ou Pyro em (12/15/18/21/24)%."
+        ]
     },
     {
         "id": "juramento-de-sagitario",
@@ -1130,7 +1318,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Baú",
+        "passiva": [
+            "Precisão",
+            "Aumenta o Dano contra pontos fracos em (24/30/36/42/48)%."
+        ]
     },
     {
         "id": "arco-recurvado",
@@ -1139,7 +1333,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Vida %",
+        "obter": "Baú",
+        "passiva": [
+            "Colheita",
+            "Derrotar um oponente recupera (8/10/12/14/16)% da Vida."
+        ]
     },
     {
         "id": "estilingue",
@@ -1148,7 +1348,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Estilingue",
+            "Se a flecha do Ataque Normal e do Ataque Carregado atingir um alvo dentro de 0.3s após o disparo, o Dano é aumentado em (36/42/48/54/60)%. Caso contrário, o Dano é diminuído em 10%."
+        ]
     },
     {
         "id": "mensageiro",
@@ -1157,7 +1363,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Baú",
+        "passiva": [
+            "Messagem da Flecha Voadora",
+            "Ao acertar um ponto fraco com Ataque Carregado, causa um adicional de (100/125/150/175/200)% de Dano de ATQ como Dano Crítico. Este efeito pode ser ativado uma vez a cada 10s."
+        ]
     },
     {
         "id": "arco-de-ebano",
@@ -1166,16 +1378,28 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Dizimar",
+            "Aumenta o Dano contra os inimigos das Ruínas em (40/50/60/70/80)%."
+        ]
     },
     {
-        "id": "arco-de-favonius",
-        "nome": "Arco de Favonius",
+        "id": "arco-de-guerra-de-favonius",
+        "nome": "Arco de Guerra de Favonius",
         "raridade": 4,
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Baú e Missão Uma Sombra Azul",
+        "passiva": [
+            "Companhia do Vento",
+            "Os Acertos Críticos possuem (60/70/80/90/100)% de chance de gerar uma pequena quantidade de Partícula Elemental, que irá regenerar 6 de Energia para o Personagem. Pode ocorrer uma vez a cada 12s."
+        ]
     },
     {
         "id": "ultimo-acorde",
@@ -1184,7 +1408,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Canção Sem Flechas",
+            "Aumenta o Dano da Habilidade Elemental e do Supremo em (24/30/36/42/48)%."
+        ]
     },
     {
         "id": "arco-do-sacrificio",
@@ -1193,7 +1423,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Composto",
+            "Ao causar dano contra um oponente com Habilidade Elemental, a habilidade possui (40/50/60/70/80)% de chance de redefinir o tempo de Recarga desta habilidade. Este efeito pode ser ativado apenas uma vez a cada 30 segundos."
+        ]
     },
     {
         "id": "arco-real",
@@ -1202,7 +1438,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "Foco",
+            "Ao atingir um oponente, aumenta a Taxa Crítica em (8/10/12/14/16)%, acumulando no máximo 5 vezes. Causar Dano Crítico remove todos os acúmulos."
+        ]
     },
     {
         "id": "arco-enferrujado",
@@ -1211,7 +1453,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Disparo Rápido",
+            "Aumenta o Dano do Ataque Normal em (40/50/60/70/80)% mas diminui o Dano do Ataque Carregado em 10%."
+        ]
     },
     {
         "id": "prototipo-da-luz-lunar-palida",
@@ -1220,7 +1468,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Forja",
+        "passiva": [
+            "Sem Retorno",
+            "Os ataques de Ataques Carregados em pontos fracos aumentam a Veloc. Mov. em 10% e ATQ em (36/45/54/63/72)% por 10s."
+        ]
     },
     {
         "id": "arco-composto",
@@ -1229,7 +1483,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Forja",
+        "passiva": [
+            "Flecha Infundida",
+            "Ao acertar o Ataque Normal e o Ataque Carregado, aumenta o ATQ em (4/5/6/7/8)% e a VEL do Ataque Normal em (1,2/1,5/1,8/2,1/2,4)% por 6s, podendo acumular até 4 vezes. Este efeito pode ser ativado uma vez a cada 0.3s."
+        ]
     },
     {
         "id": "arco-do-penhasco-obscuro",
@@ -1238,7 +1498,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Barganhas da Paimon",
+        "passiva": [
+            "De vitória em vitória",
+            "Após derrotar um inimigo, o ATQ é aumentado em (12/15/18/21/24)% por 30s. Este efeito pode ser acumulado até 3x e a duração de cada acúmulo é independente dos outros."
+        ]
     },
     {
         "id": "arco-esmeralda-do-cacador",
@@ -1247,7 +1513,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Passe de Batalha",
+        "passiva": [
+            "Vento Esmeralda",
+            "Ao acertar um Ataque Normal ou Ataque com Mira, possui 50% de chance de gerar um Ciclone, que atrairá continuamente os inimigos ao redor, causando (40/50/60/70/80)% de Dano de ATQ a estes inimigos a cada 0.5s por 4s. Este efeito pode ser ativado uma vez a cada (14/13/12/11/10)s."
+        ]
     },
     {
         "id": "cacador-do-beco",
@@ -1256,7 +1528,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Emboscada nos Becos",
+            "Quando o personagem com essa arma equipada estiver na equipe mas não no campo da batalha, o Dano causado por personagem será aumentado em (2/2,5/3/3,5/4)% a cada 1s, a quantidade máxima do aumento do Dano desta maneira é de (20/25/30/35/40)%. Depois de 4s de ficar no campo, o efeito de aumento do Dano será reduzido em (4/5/6/7/8)% a cada 1s até que seja reduzido para 0%."
+        ]
     },
     {
         "id": "crepusculo-desvanecido",
@@ -1265,7 +1543,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Evento Trilha Perigosa",
+        "passiva": [
+            "Brilho Abismal",
+            "Possui três estados: Entardecer, Amanhecer e Alvorada. Estes estados aumentam o Dano infligido em [(6/10/14) / (7,5/12,5/17,5) / (9/15/21) / (10,5/17,5/24,5) / (12/20/28)]% respectivamente. Ao atingir um inimigo com um ataque, se trocará para o próximo estado. Essa troca pode acontecer uma vez a cada 7s. Esse efeito também ocorrerá se o personagem que tiver esta arma equipada não estiver ativo no campo de batalha."
+        ]
     },
     {
         "id": "valsa-do-crepusculo",
@@ -1274,7 +1558,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Bônus de Dano Físico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Duelo da Noite",
+            "Dentro de 5s após acertar um inimigo com o Ataque Normal, o Dano causado pela Habilidade Elemental aumenta em (20/25/30/35/40)%. Dentro de 5s após acertar um inimigo com a Habilidade Elemental, o Dano do Ataque Normal aumenta (20/25/30/35/40)%."
+        ]
     },
     {
         "id": "ode-a-brisa-florescente",
@@ -1283,7 +1573,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Proficiência Elemental",
+        "obter": "Evento Convite da Brisa Florescente",
+        "passiva": [
+            "Desejo da Brisa Florescente",
+            "Ao lançar uma Habilidade Elemental, se obtém o desejo antigo da Flor do Vento, e o Ataque aumenta (16/20/24/28/32)% por 6s."
+        ]
     },
     {
         "id": "arco-quebra-demonios",
@@ -1292,7 +1588,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Forja",
+        "passiva": [
+            "Grande Jogada",
+            "Aumenta o Dano de ATQ Normal em (16/20/24/28/32)% e o Dano de ATQ Carregado em (12/15/18/21/24)%. Quando a Energia Elemental do personagem equipado com essa arma é igual a 100%, esse efeito aumenta 100%."
+        ]
     },
     {
         "id": "predador",
@@ -1301,7 +1603,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Evento",
+        "passiva": [
+            "Ataque Poderoso",
+            "Efetivo apenas para jogadores da seguinte plataforma:\n“PlayStation Network”\nCausar Dano cryo aos oponentes aumenta o Dano do Ataque Normal e Carregado do personagem em 10% por 6s. Este efeito pode ter no máximo 2 acúmulos. Adicionalmente, quando Aloy equipa o Predador, o ATQ é aumentado em 66."
+        ]
     },
     {
         "id": "lua-de-mouun",
@@ -1310,7 +1618,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Dominadora de Ondas Watatsumi",
+            "O Personagem que usar esta arma terá um aumento do Dano do Supremo de (0,12,0,15/0,18/0,21/0,24)% por cada 1 ponto da soma do máximo da Energia Elemental de todos os membros da equipe. O aumento de Dano do Supremo máximo obtível dessa maneira é de (40/50/60/70/80)%."
+        ]
     },
     {
         "id": "vassalo-do-rei",
@@ -1319,7 +1633,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Forja",
+        "passiva": [
+            "Instruções do Rei do Labirinto",
+            "Obtém o efeito “Ensinamentos da Floresta” ao desencadear Habilidades Elementais e Supremos, aumentando a Proficiência Elemental em (60/80/100/120/140) por 12s. Este efeito será removido ao trocar de personagens. Quando o efeito de Ensinamentos da Floresta termina ou é removido, irá causar (100/120/140/160/180)% de ATQ como Dano a 1 oponente próximo. O efeito de Ensinamentos da Floresta pode ser desencadeado uma vez a cada 20s."
+        ]
     },
     {
         "id": "aguas-secas",
@@ -1328,7 +1648,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Rompedor de Redes",
+            "Desencadeia o efeito “Deriva” após usar uma Habilidade Elemental, causando (80/100/120/140/160)% do ATQ como Dano em uma AdE após acertar um oponente com um ataque. O efeito de Deriva será removido após 15s ou após causar Dano em uma AdE 3 vezes. 1 Dano em uma AdE pode ser causado a cada 2s dessa forma. O efeito de Deriva pode ser desencadeado uma vez a cada 12s."
+        ]
     },
     {
         "id": "harpa-celestial",
@@ -1337,7 +1663,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Balada Retumbante",
+            "Aumenta o Dano Crítico em (20/25/30/35/40)%. Ao acertar, possui (60/70/80/90/100)% de chance de infligir um pequeno ataque AdE, causando 125% de Dano de ATQ Físico. Pode ser ativada uma vez a cada (4/3,5/3/2,5/2)s."
+        ]
     },
     {
         "id": "arco-de-amos",
@@ -1346,7 +1678,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Ataque %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Inabalável",
+            "Aumenta o Dano infligido pelo Ataque Normal e Ataque Carregado em (12/15/18/21/24)%. A cada 0.1s depois de disparar uma flecha com o Ataque Normal e Ataque Carregado, terá aumento de Dano de (8/10/12/14/16)%, acumulando até um máximo de 5 vezes."
+        ]
     },
     {
         "id": "elegia-do-suspiro-final",
@@ -1355,7 +1693,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Recarga de Energia %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Canção de Despedida",
+            "Uma parte do “Concerto Milenar” que flutua no vento. Aumenta a Proficiência Elemental em (60/75/90/105/120)% pontos. Quando a Habilidade Elemental ou o Supremo atingir os inimigos, o personagem obterá um Símbolo das Lembranças, que pode ser ativado uma vez a cada 0.2s, mesmo quando o personagem não está no campo de batalha. Possuir 4 Símbolo das Lembranças faz consumir todos eles, e faz todos os personagens da equipe obterem o efeito de “Concerto Milenar: Música da Despedida” por 12s: A Proficiência Elemental será aumentada em (100/125/150/175/200) pontos, além disso o ATQ será aumentado em (20/25/30/35/40)%. Dentro de 20s depois da ativação, não é possível obter os Símbolos das Lembranças de novo. Entre todos os efeitos de vários valores, os efeitos do mesmo valor não podem ser acumulados."
+        ]
     },
     {
         "id": "estrela-invernal",
@@ -1364,7 +1708,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Pressagiador do Dia",
+            "Aumenta o Dano causado por Habilidade Elemental e Supremo em (12/15/18/21/24)%; Depois que o Ataque Normal, Ataque Carregado, Habilidade Elemental ou Supremo acerta o inimigo, gera 1 efeito “Estrela Polar da Noite Branca” por 12s. Quando tiver 1/2/3/4 acúmulos de “Estrela Polar da Noite Branca”, o ATQ é aumentado em [(10/20/30/48) / (12,5/25/37,5/60) / (15/30/45/72) / (17,5/35/52,5/84) / (20/40/60/96)]%. Os efeitos de “Estrela Polar da Noite Branca” gerados por Ataque Normal, Ataque Carregado, Habilidade Elemental ou Supremo são individuais."
+        ]
     },
     {
         "id": "aqua-simulacra",
@@ -1373,7 +1723,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Forma Purificadora",
+            "Aumenta a Vida em (16/20/24/28/32)%. Se existirem inimigos próximos, o personagem que tem esta arma equipada terá um aumento de Dano de (20/25/30/35/40)%, independentemente do personagem estar ativo no campo de batalha ou não."
+        ]
     },
     {
         "id": "agitacao-trovejante",
@@ -1382,7 +1738,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Dano Crítico %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "Governo do Trovão",
+            "Aumenta o Ataque em (20/25/30/35/40)%, e concede a grandeza do Selo da Trovoada. Nas cargas 1/2/3, o Selo de Trovoada aumenta o Dano do Ataque Normal em [(12/24/40) / (15/30/50) / (18/36/60) / (21/42/70) / (24/48/80)]%. O personagem obterá uma carga de Selo da Trovoada nos seguintes cenários: Ataque Normal que causa Dano (a carga dura 5s), lançar uma Habilidade Elemental (carga dura 10s); Energia Elemental menor que 100% (carga desaparece quando a energia está completa). A duração de cada carga é calculada independentemente uma da outra."
+        ]
     },
     {
         "id": "caminho-do-cacador",
@@ -1391,7 +1753,13 @@
         "tipo": {
             "id": "arco",
             "nome": "Arco"
-        }
+        },
+        "atributoSecundario": "Taxa Crítica %",
+        "obter": "Orações/Banners",
+        "passiva": [
+            "O Destino da Besta",
+            "Ganha (12/15/18/21/24)% de Bônus de Dano de todos os Elementos. Obtém o efeito “Caça Incansável” ao acertar um oponente com um Ataque Carregado. Esse efeito aumenta o Dano do Ataque Carregado em (160/200/240/280/320)% da Proficiência Elemental. Esse efeito será removido depois 12 Ataques Carregados ou após 10s. Só é possível obter 1 efeito de Caça Incansável a cada 12s."
+        ]
     },
     {
         "id": "anotacoes-do-aprendiz",
@@ -1400,7 +1768,12 @@
         "tipo": {
             "id": "catalizador",
             "nome": "Catalizador"
-        }  
+        },
+        "atributoSecundario": "-",
+        "obter": "Baú",
+        "passiva": [
+            "-"
+        ]  
     },
     {
         "id": "grimorio-de-bolso",
@@ -1409,7 +1782,12 @@
         "tipo": {
             "id": "catalizador",
             "nome": "Catalizador"
-        }
+        },
+        "atributoSecundario": "-",
+        "obter": "Baú",
+        "passiva": [
+            "-"
+        ]
     },
     {
         "id": "guia-de-magia",
